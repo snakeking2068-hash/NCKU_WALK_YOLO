@@ -1,0 +1,11 @@
+prefix: ./.conda_env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - opencv
+  - pip
+  - pip:
+    - ultralytics
