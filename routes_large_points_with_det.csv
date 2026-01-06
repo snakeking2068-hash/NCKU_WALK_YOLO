@@ -1,0 +1,1836 @@
+﻿dept,origin,origin_type,level,seq,dist_m,lng,lat,det_img_file,det_text
+醫學院,光復第二宿舍,S,LARGE,0,0,120.2148212,22.999502,output/output_0000.jpg,3 car
+醫學院,光復第二宿舍,S,LARGE,1,5,120.2148608,22.99952826,output/output_0001.jpg,"3 car, 9 bicycle"
+醫學院,光復第二宿舍,S,LARGE,2,10,120.2149005,22.99955452,output/output_0002.jpg,"3 car, 9 bicycle"
+醫學院,光復第二宿舍,S,LARGE,3,15,120.2149401,22.99958078,output/output_0003.jpg,"3 car, 9 bicycle"
+醫學院,光復第二宿舍,S,LARGE,4,20,120.2149797,22.99960704,output/output_0004.jpg,"1 car, 1 person, 2 bicycle"
+醫學院,光復第二宿舍,S,LARGE,5,25,120.2150202,22.99962977,output/output_0005.jpg,"3 car, 1 person, 3 bicycle"
+醫學院,光復第二宿舍,S,LARGE,6,30,120.2150682,22.99962169,output/output_0006.jpg,"2 person, 13 bicycle, 1 backpack, 1 car"
+醫學院,光復第二宿舍,S,LARGE,7,35,120.2151161,22.99961362,output/output_0007.jpg,8 bicycle
+醫學院,光復第二宿舍,S,LARGE,8,40,120.2151641,22.99960554,output/output_0008.jpg,8 bicycle
+醫學院,光復第二宿舍,S,LARGE,9,45,120.215212,22.99959747,output/output_0009.jpg,8 bicycle
+醫學院,光復第二宿舍,S,LARGE,10,50,120.21526,22.99958939,output/output_0010.jpg,7 person
+醫學院,光復第二宿舍,S,LARGE,11,55,120.215308,22.99958132,output/output_0011.jpg,7 person
+醫學院,光復第二宿舍,S,LARGE,12,60,120.2153559,22.99957324,output/output_0012.jpg,"3 car, 1 bicycle"
+醫學院,光復第二宿舍,S,LARGE,13,65,120.2154039,22.99956517,output/output_0013.jpg,"3 car, 1 bicycle"
+醫學院,光復第二宿舍,S,LARGE,14,70,120.2154322,22.99958139,output/output_0014.jpg,"4 car, 1 bicycle"
+醫學院,光復第二宿舍,S,LARGE,15,75,120.2154374,22.99962626,output/output_0015.jpg,3 person
+醫學院,光復第二宿舍,S,LARGE,16,80,120.2154426,22.99967112,output/output_0016.jpg,3 person
+醫學院,光復第二宿舍,S,LARGE,17,85,120.2154478,22.99971599,output/output_0017.jpg,1 bicycle
+醫學院,光復第二宿舍,S,LARGE,18,90,120.215453,22.99976085,output/output_0018.jpg,5 car
+醫學院,光復第二宿舍,S,LARGE,19,95,120.2154582,22.99980572,output/output_0019.jpg,5 car
+醫學院,光復第二宿舍,S,LARGE,20,100,120.2154634,22.99985058,output/output_0020.jpg,5 car
+醫學院,光復第二宿舍,S,LARGE,21,105,120.2154686,22.99989545,output/output_0021.jpg,2 car
+醫學院,光復第二宿舍,S,LARGE,22,110,120.2154738,22.99994031,output/output_0022.jpg,2 car
+醫學院,光復第二宿舍,S,LARGE,23,115,120.21548,22.99998461,output/output_0023.jpg,4 car
+醫學院,光復第二宿舍,S,LARGE,24,120,120.2155205,23.00000962,output/output_0024.jpg,5 car
+醫學院,光復第二宿舍,S,LARGE,25,125,120.215567,23.00000912,output/output_0025.jpg,2 car
+醫學院,光復第二宿舍,S,LARGE,26,130,120.2156151,23.00000178,output/output_0026.jpg,"1 truck, 1 car"
+醫學院,光復第二宿舍,S,LARGE,27,135,120.2156632,22.99999445,output/output_0027.jpg,"1 truck, 1 car"
+醫學院,光復第二宿舍,S,LARGE,28,140,120.2157113,22.99998711,output/output_0028.jpg,"2 truck, 1 car, 3 person"
+醫學院,光復第二宿舍,S,LARGE,29,145,120.2157594,22.99997977,output/output_0029.jpg,"2 truck, 1 car, 3 person"
+醫學院,光復第二宿舍,S,LARGE,30,150,120.2158075,22.99997244,output/output_0030.jpg,4 car
+醫學院,光復第二宿舍,S,LARGE,31,155,120.2158556,22.9999651,output/output_0031.jpg,"6 car, 3 bicycle"
+醫學院,光復第二宿舍,S,LARGE,32,160,120.2159037,22.99995777,output/output_0032.jpg,"6 car, 3 bicycle"
+醫學院,光復第二宿舍,S,LARGE,33,165,120.2159518,22.99995043,output/output_0033.jpg,6 car
+醫學院,光復第二宿舍,S,LARGE,34,170,120.2159996,22.9999418,output/output_0034.jpg,"5 car, 1 person, 1 bicycle"
+醫學院,光復第二宿舍,S,LARGE,35,175,120.2160474,22.99993311,output/output_0035.jpg,"8 car, 2 person, 1 bicycle"
+醫學院,光復第二宿舍,S,LARGE,36,180,120.2160953,22.99992443,output/output_0036.jpg,"8 car, 2 person, 1 bicycle"
+醫學院,光復第二宿舍,S,LARGE,37,185,120.2161431,22.99991575,output/output_0037.jpg,"6 car, 2 person"
+醫學院,光復第二宿舍,S,LARGE,38,190,120.2161909,22.99990707,output/output_0038.jpg,"10 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,39,195,120.2162387,22.99989839,output/output_0039.jpg,"10 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,40,200,120.2162866,22.99989,output/output_0040.jpg,8 car
+醫學院,光復第二宿舍,S,LARGE,41,205,120.2163347,22.99988261,output/output_0041.jpg,8 car
+醫學院,光復第二宿舍,S,LARGE,42,210,120.2163828,22.99987522,output/output_0042.jpg,5 car
+醫學院,光復第二宿舍,S,LARGE,43,215,120.2164309,22.99986783,output/output_0043.jpg,5 car
+醫學院,光復第二宿舍,S,LARGE,44,220,120.216479,22.99986044,output/output_0044.jpg,"4 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,45,225,120.216527,22.99985304,output/output_0045.jpg,"4 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,46,230,120.2165751,22.99984565,output/output_0046.jpg,"4 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,47,235,120.2166232,22.99983826,output/output_0047.jpg,"4 car, 11 person, 2 bicycle"
+醫學院,光復第二宿舍,S,LARGE,48,240,120.2166713,22.99983087,output/output_0048.jpg,"4 car, 1 bicycle, 3 person"
+醫學院,光復第二宿舍,S,LARGE,49,245,120.2167194,22.99982348,output/output_0049.jpg,"4 car, 1 bicycle, 3 person"
+醫學院,光復第二宿舍,S,LARGE,50,250,120.2167562,22.99983089,output/output_0050.jpg,"7 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,51,255,120.2167651,22.99987526,output/output_0051.jpg,1 car
+醫學院,光復第二宿舍,S,LARGE,52,260,120.2167739,22.99991963,output/output_0052.jpg,1 car
+醫學院,光復第二宿舍,S,LARGE,53,265,120.2167828,22.99996401,output/output_0053.jpg,
+醫學院,光復第二宿舍,S,LARGE,54,270,120.2167916,23.00000838,output/output_0054.jpg,
+醫學院,光復第二宿舍,S,LARGE,55,275,120.2168005,23.00005275,output/output_0055.jpg,
+醫學院,光復第二宿舍,S,LARGE,56,280,120.2168093,23.00009712,output/output_0056.jpg,
+醫學院,光復第二宿舍,S,LARGE,57,285,120.2168182,23.00014149,output/output_0057.jpg,
+醫學院,光復第二宿舍,S,LARGE,58,290,120.2168271,23.00018586,output/output_0058.jpg,
+醫學院,光復第二宿舍,S,LARGE,59,295,120.2168359,23.00023023,output/output_0059.jpg,
+醫學院,光復第二宿舍,S,LARGE,60,300,120.2168448,23.00027461,output/output_0060.jpg,6 person
+醫學院,光復第二宿舍,S,LARGE,61,305,120.2168536,23.00031898,output/output_0061.jpg,6 person
+醫學院,光復第二宿舍,S,LARGE,62,310,120.2168625,23.00036335,output/output_0062.jpg,6 person
+醫學院,光復第二宿舍,S,LARGE,63,315,120.2168713,23.00040772,output/output_0063.jpg,"2 person, 1 umbrella"
+醫學院,光復第二宿舍,S,LARGE,64,320,120.2168802,23.00045209,output/output_0064.jpg,"2 person, 1 umbrella"
+醫學院,光復第二宿舍,S,LARGE,65,325,120.216889,23.00049646,output/output_0065.jpg,2 car
+醫學院,光復第二宿舍,S,LARGE,66,330,120.2168979,23.00054083,output/output_0066.jpg,2 car
+醫學院,光復第二宿舍,S,LARGE,67,335,120.2169068,23.0005852,output/output_0067.jpg,2 car
+醫學院,光復第二宿舍,S,LARGE,68,340,120.2169157,23.00062956,output/output_0068.jpg,"1 person, 1 car"
+醫學院,光復第二宿舍,S,LARGE,69,345,120.2169246,23.00067392,output/output_0069.jpg,"1 person, 1 car"
+醫學院,光復第二宿舍,S,LARGE,70,350,120.216933,23.00071837,output/output_0070.jpg,"4 bicycle, 6 person, 4 motorcycle, 4 car, 1 backpack"
+醫學院,光復第二宿舍,S,LARGE,71,355,120.21694,23.00076302,output/output_0071.jpg,"4 bicycle, 6 person, 4 car, 3 motorcycle, 2 backpack"
+醫學院,光復第二宿舍,S,LARGE,72,360,120.2169548,23.00080593,output/output_0072.jpg,"3 car, 6 person, 2 motorcycle, 1 traffic light"
+醫學院,光復第二宿舍,S,LARGE,73,365,120.2169704,23.00084869,output/output_0073.jpg,"4 car, 6 person, 2 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,74,370,120.216986,23.00089145,output/output_0074.jpg,"4 car, 6 person, 2 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,75,375,120.2170015,23.00093422,output/output_0075.jpg,"7 car, 2 person, 1 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,76,380,120.2170223,23.00096928,output/output_0076.jpg,"9 car, 3 motorcycle, 2 person, 1 traffic light"
+醫學院,光復第二宿舍,S,LARGE,77,385,120.2170706,23.00096345,output/output_0077.jpg,"7 car, 2 person, 6 motorcycle, 2 traffic light"
+醫學院,光復第二宿舍,S,LARGE,78,390,120.2171189,23.00095761,output/output_0078.jpg,"7 car, 2 person, 6 motorcycle, 2 traffic light"
+醫學院,光復第二宿舍,S,LARGE,79,395,120.2171547,23.00096746,output/output_0079.jpg,"8 car, 1 bus, 1 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,80,400,120.2171629,23.00101194,output/output_0080.jpg,1 truck
+醫學院,光復第二宿舍,S,LARGE,81,405,120.2172015,23.00101924,output/output_0081.jpg,"12 car, 1 bus, 2 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,82,410,120.21725,23.00101453,output/output_0082.jpg,"1 bus, 13 car, 1 person, 1 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,83,415,120.2172985,23.00100982,output/output_0083.jpg,"1 bus, 13 car, 1 person, 1 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,84,420,120.217347,23.00100512,output/output_0084.jpg,"1 bus, 15 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,85,425,120.2173954,23.00100041,output/output_0085.jpg,"1 bus, 15 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,86,430,120.2174439,23.0009957,output/output_0086.jpg,17 car
+醫學院,光復第二宿舍,S,LARGE,87,435,120.2174924,23.00099099,output/output_0087.jpg,17 car
+醫學院,光復第二宿舍,S,LARGE,88,440,120.2175409,23.00098628,output/output_0088.jpg,"14 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,89,445,120.2175893,23.00098157,output/output_0089.jpg,"14 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,90,450,120.2176378,23.00097686,output/output_0090.jpg,"14 car, 1 person"
+醫學院,光復第二宿舍,S,LARGE,91,455,120.2176863,23.00097216,output/output_0091.jpg,"11 car, 1 parking meter"
+醫學院,光復第二宿舍,S,LARGE,92,460,120.2177348,23.00096745,output/output_0092.jpg,"11 car, 1 parking meter"
+醫學院,光復第二宿舍,S,LARGE,93,465,120.2177832,23.00096274,output/output_0093.jpg,"11 car, 2 person"
+醫學院,光復第二宿舍,S,LARGE,94,470,120.2178317,23.00095803,output/output_0094.jpg,"11 car, 2 person"
+醫學院,光復第二宿舍,S,LARGE,95,475,120.2178802,23.00095332,output/output_0095.jpg,"10 car, 2 person"
+醫學院,光復第二宿舍,S,LARGE,96,480,120.2179287,23.00094861,output/output_0096.jpg,"10 car, 2 person"
+醫學院,光復第二宿舍,S,LARGE,97,485,120.2179771,23.0009439,output/output_0097.jpg,"11 car, 5 person"
+醫學院,光復第二宿舍,S,LARGE,98,490,120.2180256,23.0009392,output/output_0098.jpg,"11 car, 5 person"
+醫學院,光復第二宿舍,S,LARGE,99,495,120.2180741,23.00093449,output/output_0099.jpg,15 car
+醫學院,光復第二宿舍,S,LARGE,100,500,120.2181226,23.00092978,output/output_0100.jpg,15 car
+醫學院,光復第二宿舍,S,LARGE,101,505,120.218171,23.00092507,output/output_0101.jpg,"14 car, 1 fire hydrant, 1 person"
+醫學院,光復第二宿舍,S,LARGE,102,510,120.2182195,23.00092036,output/output_0102.jpg,"14 car, 1 fire hydrant, 1 person"
+醫學院,光復第二宿舍,S,LARGE,103,515,120.218268,23.00091565,output/output_0103.jpg,"17 car, 1 traffic light, 1 person"
+醫學院,光復第二宿舍,S,LARGE,104,520,120.2183165,23.00091094,output/output_0104.jpg,"17 car, 1 traffic light, 1 person"
+醫學院,光復第二宿舍,S,LARGE,105,525,120.2183649,23.00090623,output/output_0105.jpg,"10 car, 2 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,106,530,120.2184134,23.00090153,output/output_0106.jpg,"10 car, 2 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,107,535,120.2184619,23.00089682,output/output_0107.jpg,"8 car, 8 person, 4 motorcycle, 1 bicycle"
+醫學院,光復第二宿舍,S,LARGE,108,540,120.2185104,23.0008921,output/output_0108.jpg,"8 car, 8 person, 3 motorcycle, 1 bicycle"
+醫學院,光復第二宿舍,S,LARGE,109,545,120.2185588,23.00088738,output/output_0109.jpg,"11 car, 1 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,110,550,120.2185717,23.00092766,output/output_0110.jpg,"7 car, 5 motorcycle, 2 person"
+醫學院,光復第二宿舍,S,LARGE,111,555,120.2185816,23.00097186,output/output_0111.jpg,"6 car, 5 motorcycle, 7 person, 1 toilet"
+醫學院,光復第二宿舍,S,LARGE,112,560,120.2186008,23.00100441,output/output_0112.jpg,"7 car, 4 person, 4 motorcycle, 1 bus"
+醫學院,光復第二宿舍,S,LARGE,113,565,120.2186494,23.00100078,output/output_0113.jpg,"12 car, 1 truck, 1 person, 1 bicycle"
+醫學院,光復第二宿舍,S,LARGE,114,570,120.218698,23.00099714,output/output_0114.jpg,"10 car, 7 bicycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,115,575,120.2187308,23.00101086,output/output_0115.jpg,"8 car, 11 bicycle"
+醫學院,光復第二宿舍,S,LARGE,116,580,120.2187363,23.00105486,output/output_0116.jpg,"4 car, 10 bicycle, 2 person"
+醫學院,光復第二宿舍,S,LARGE,117,585,120.218785,23.00105297,output/output_0117.jpg,"11 car, 7 bicycle, 1 person, 1 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,118,590,120.2188337,23.00105108,output/output_0118.jpg,"11 car, 3 person, 1 truck"
+醫學院,光復第二宿舍,S,LARGE,119,595,120.2188824,23.00104919,output/output_0119.jpg,"11 car, 3 person, 1 truck"
+醫學院,光復第二宿舍,S,LARGE,120,600,120.2189311,23.00104729,output/output_0120.jpg,"11 car, 2 motorcycle, 3 person"
+醫學院,光復第二宿舍,S,LARGE,121,605,120.2189797,23.0010454,output/output_0121.jpg,"11 car, 2 motorcycle, 3 person"
+醫學院,光復第二宿舍,S,LARGE,122,610,120.2190284,23.00104351,output/output_0122.jpg,"10 car, 3 person, 3 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,123,615,120.2190771,23.00104161,output/output_0123.jpg,"10 car, 3 person, 3 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,124,620,120.2191258,23.00103972,output/output_0124.jpg,"16 car, 3 person, 4 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,125,625,120.2191745,23.00103783,output/output_0125.jpg,"16 car, 3 person, 4 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,126,630,120.2192232,23.00103594,output/output_0126.jpg,"15 car, 3 person, 4 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,127,635,120.2192719,23.00103404,output/output_0127.jpg,"15 car, 3 person, 4 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,128,640,120.2193206,23.00103215,output/output_0128.jpg,"12 car, 9 motorcycle, 4 person"
+醫學院,光復第二宿舍,S,LARGE,129,645,120.2193693,23.00103026,output/output_0129.jpg,"12 car, 9 motorcycle, 4 person"
+醫學院,光復第二宿舍,S,LARGE,130,650,120.219418,23.00102837,output/output_0130.jpg,"13 car, 5 motorcycle, 3 person"
+醫學院,光復第二宿舍,S,LARGE,131,655,120.2194667,23.00102647,output/output_0131.jpg,"13 car, 5 motorcycle, 3 person"
+醫學院,光復第二宿舍,S,LARGE,132,660,120.2195154,23.00102458,output/output_0132.jpg,"14 car, 1 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,133,665,120.2195641,23.00102269,output/output_0133.jpg,"14 car, 1 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,134,670,120.2196128,23.0010208,output/output_0134.jpg,12 car
+醫學院,光復第二宿舍,S,LARGE,135,675,120.2196615,23.0010189,output/output_0135.jpg,12 car
+醫學院,光復第二宿舍,S,LARGE,136,680,120.2197102,23.00101701,output/output_0136.jpg,"11 car, 1 motorcycle, 2 person"
+醫學院,光復第二宿舍,S,LARGE,137,685,120.2197589,23.00101512,output/output_0137.jpg,"11 car, 1 motorcycle, 2 person"
+醫學院,光復第二宿舍,S,LARGE,138,690,120.2198076,23.00101322,output/output_0138.jpg,"11 car, 1 person, 2 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,139,695,120.2198563,23.00101133,output/output_0139.jpg,"11 car, 1 person, 2 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,140,700,120.219905,23.00100944,output/output_0140.jpg,"13 car, 2 person, 4 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,141,705,120.2199537,23.00100755,output/output_0141.jpg,"13 car, 2 person, 4 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,142,710,120.2200024,23.00100565,output/output_0142.jpg,"17 car, 2 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,143,715,120.2200511,23.00100376,output/output_0143.jpg,"17 car, 2 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,144,720,120.2200998,23.00100187,output/output_0144.jpg,"13 car, 2 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,145,725,120.2201485,23.00099997,output/output_0145.jpg,"13 car, 2 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,146,730,120.2201972,23.00099808,output/output_0146.jpg,"10 car, 1 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,147,735,120.2202459,23.00099619,output/output_0147.jpg,"10 car, 1 motorcycle"
+醫學院,光復第二宿舍,S,LARGE,148,740,120.2202946,23.00099429,output/output_0148.jpg,"9 car, 2 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,149,745,120.2203433,23.0009924,output/output_0149.jpg,"9 car, 2 motorcycle, 1 person"
+醫學院,光復第二宿舍,S,LARGE,150,750,120.220392,23.00099051,output/output_0150.jpg,"8 car, 3 motorcycle, 3 person, 1 traffic light"
+醫學院,光復第二宿舍,S,LARGE,151,755,120.2204407,23.00098862,output/output_0151.jpg,"8 car, 3 motorcycle, 3 person, 1 traffic light"
+醫學院,光復第二宿舍,S,LARGE,152,760,120.2204894,23.00098672,output/output_0152.jpg,"11 car, 1 motorcycle, 2 person"
+醫學院,光復第二宿舍,S,LARGE,153,765,120.2205381,23.00098451,output/output_0153.jpg,"6 bicycle, 4 motorcycle, 2 person, 1 car, 1 truck"
+醫學院,光復第二宿舍,S,LARGE,154,770,120.2205864,23.0009791,output/output_0154.jpg,"4 person, 6 bicycle, 4 car, 3 motorcycle, 1 traffic light, 1 truck"
+醫學院,光復第二宿舍,S,LARGE,155,775,120.2206283,23.00098039,output/output_0155.jpg,"5 bicycle, 3 motorcycle, 2 car, 2 person, 1 traffic light, 1 truck"
+醫學院,光復第二宿舍,S,LARGE,156,780,120.2206279,23.00102551,output/output_0156.jpg,
+醫學院,光復第二宿舍,S,LARGE,157,785,120.2206276,23.00107063,output/output_0157.jpg,
+醫學院,光復第二宿舍,S,LARGE,158,790,120.2206272,23.00111575,output/output_0158.jpg,
+醫學院,光復第二宿舍,S,LARGE,159,795,120.2206268,23.00116087,output/output_0159.jpg,
+醫學院,光復第二宿舍,S,LARGE,160,800,120.2206689,23.00116678,output/output_0160.jpg,1 car
+醫學院,光復第二宿舍,S,LARGE,161,805,120.2206988,23.00118293,output/output_0161.jpg,1 car
+醫學院,光復第二宿舍,S,LARGE,162,810,120.2206954,23.00122793,output/output_0162.jpg,1 person
+醫學院,光復第二宿舍,S,LARGE,163,815,120.2206926,23.00127297,output/output_0163.jpg,
+醫學院,光復第二宿舍,S,LARGE,164,820,120.2206917,23.00131808,output/output_0164.jpg,1 person
+醫學院,光復第二宿舍,S,LARGE,165,825,120.2206908,23.0013632,output/output_0165.jpg,1 person
+醫學院,光復第二宿舍,S,LARGE,166,830,120.2206898,23.00140831,output/output_0166.jpg,1 person
+醫學院,光復第二宿舍,S,LARGE,167,835,120.2206889,23.00145343,output/output_0167.jpg,1 person
+醫學院,光復第二宿舍,S,LARGE,168,840,120.2206557,23.00147935,output/output_0168.jpg,1 car
+醫學院,光復第二宿舍,S,LARGE,169,845,120.2206118,23.00149897,output/output_0169.jpg,9 car
+醫學院,光復第二宿舍,S,LARGE,170,850,120.2205997,23.00153579,output/output_0170.jpg,
+醫學院,光復第二宿舍,S,LARGE,171,855,120.2206028,23.00158082,output/output_0171.jpg,
+資工系,光復第二宿舍,S,LARGE,0,0,120.2154518,22.9995571,output/output_0172.jpg,"1 car, 9 bicycle"
+資工系,光復第二宿舍,S,LARGE,1,5,120.2154998,22.99954903,output/output_0173.jpg,"9 bicycle, 1 car"
+資工系,光復第二宿舍,S,LARGE,2,10,120.2155477,22.99954097,output/output_0174.jpg,"9 bicycle, 1 car"
+資工系,光復第二宿舍,S,LARGE,3,15,120.2155957,22.9995329,output/output_0175.jpg,"9 bicycle, 1 car"
+資工系,光復第二宿舍,S,LARGE,4,20,120.2156436,22.99952484,output/output_0176.jpg,"6 bicycle, 3 car"
+資工系,光復第二宿舍,S,LARGE,5,25,120.2156916,22.99951677,output/output_0177.jpg,"6 bicycle, 3 car"
+資工系,光復第二宿舍,S,LARGE,6,30,120.2157395,22.99950871,output/output_0178.jpg,"3 bicycle, 6 car"
+資工系,光復第二宿舍,S,LARGE,7,35,120.2157875,22.99950064,output/output_0179.jpg,"3 bicycle, 6 car"
+資工系,光復第二宿舍,S,LARGE,8,40,120.2158355,22.99949258,output/output_0180.jpg,"3 bicycle, 6 car"
+資工系,光復第二宿舍,S,LARGE,9,45,120.2158834,22.99948451,output/output_0181.jpg,6 car
+資工系,光復第二宿舍,S,LARGE,10,50,120.2159314,22.99947644,output/output_0182.jpg,6 car
+資工系,光復第二宿舍,S,LARGE,11,55,120.2159793,22.99946838,output/output_0183.jpg,10 car
+資工系,光復第二宿舍,S,LARGE,12,60,120.2160273,22.99946031,output/output_0184.jpg,10 car
+資工系,光復第二宿舍,S,LARGE,13,65,120.2160752,22.99945225,output/output_0185.jpg,1 car
+資工系,光復第二宿舍,S,LARGE,14,70,120.2161232,22.99944418,output/output_0186.jpg,11 car
+資工系,光復第二宿舍,S,LARGE,15,75,120.2161711,22.99943612,output/output_0187.jpg,"8 car, 1 motorcycle"
+資工系,光復第二宿舍,S,LARGE,16,80,120.2162191,22.99942805,output/output_0188.jpg,"8 car, 1 motorcycle"
+資工系,光復第二宿舍,S,LARGE,17,85,120.216267,22.99941999,output/output_0189.jpg,"9 car, 1 motorcycle"
+資工系,光復第二宿舍,S,LARGE,18,90,120.216315,22.99941192,output/output_0190.jpg,"9 car, 1 motorcycle"
+資工系,光復第二宿舍,S,LARGE,19,95,120.216363,22.99940385,output/output_0191.jpg,13 car
+資工系,光復第二宿舍,S,LARGE,20,100,120.2164109,22.99939579,output/output_0192.jpg,13 car
+資工系,光復第二宿舍,S,LARGE,21,105,120.2164589,22.99938772,output/output_0193.jpg,10 car
+資工系,光復第二宿舍,S,LARGE,22,110,120.2165068,22.99937966,output/output_0194.jpg,10 car
+資工系,光復第二宿舍,S,LARGE,23,115,120.2165548,22.99937159,output/output_0195.jpg,1 bus
+資工系,光復第二宿舍,S,LARGE,24,120,120.2166027,22.99936353,output/output_0196.jpg,
+資工系,光復第二宿舍,S,LARGE,25,125,120.2166507,22.99935546,output/output_0197.jpg,
+資工系,光復第二宿舍,S,LARGE,26,130,120.2166986,22.9993474,output/output_0198.jpg,8 bicycle
+資工系,光復第二宿舍,S,LARGE,27,135,120.2167465,22.99933901,output/output_0199.jpg,7 bicycle
+資工系,光復第二宿舍,S,LARGE,28,140,120.2167944,22.9993306,output/output_0200.jpg,1 person
+資工系,光復第二宿舍,S,LARGE,29,145,120.2168423,22.9993222,output/output_0201.jpg,1 person
+資工系,光復第二宿舍,S,LARGE,30,150,120.2168902,22.9993138,output/output_0202.jpg,1 person
+資工系,光復第二宿舍,S,LARGE,31,155,120.2169381,22.9993054,output/output_0203.jpg,"2 bicycle, 2 bench, 1 potted plant"
+資工系,光復第二宿舍,S,LARGE,32,160,120.216986,22.99929699,output/output_0204.jpg,3 bicycle
+資工系,光復第二宿舍,S,LARGE,33,165,120.2170339,22.99928859,output/output_0205.jpg,3 bicycle
+資工系,光復第二宿舍,S,LARGE,34,170,120.2170817,22.99928019,output/output_0206.jpg,"1 truck, 1 bench"
+資工系,光復第二宿舍,S,LARGE,35,175,120.2171296,22.99927179,output/output_0207.jpg,"1 truck, 1 bench"
+資工系,光復第二宿舍,S,LARGE,36,180,120.2171775,22.99926338,output/output_0208.jpg,"1 bench, 1 car, 1 person"
+資工系,光復第二宿舍,S,LARGE,37,185,120.2172254,22.99925498,output/output_0209.jpg,"1 bench, 1 car, 1 person"
+資工系,光復第二宿舍,S,LARGE,38,190,120.2172733,22.99924658,output/output_0210.jpg,1 person
+資工系,光復第二宿舍,S,LARGE,39,195,120.2173212,22.99923818,output/output_0211.jpg,
+資工系,光復第二宿舍,S,LARGE,40,200,120.2173691,22.99922977,output/output_0212.jpg,
+資工系,光復第二宿舍,S,LARGE,41,205,120.217417,22.99922137,output/output_0213.jpg,1 bicycle
+資工系,光復第二宿舍,S,LARGE,42,210,120.2174648,22.99921297,output/output_0214.jpg,
+資工系,光復第二宿舍,S,LARGE,43,215,120.2175127,22.99920457,output/output_0215.jpg,
+資工系,光復第二宿舍,S,LARGE,44,220,120.2175606,22.99919616,output/output_0216.jpg,1 bicycle
+資工系,光復第二宿舍,S,LARGE,45,225,120.2176085,22.99918776,output/output_0217.jpg,1 bicycle
+資工系,光復第二宿舍,S,LARGE,46,230,120.2176564,22.99917936,output/output_0218.jpg,"3 person, 1 backpack"
+資工系,光復第二宿舍,S,LARGE,47,235,120.2177043,22.99917096,output/output_0219.jpg,"3 person, 1 backpack"
+資工系,光復第二宿舍,S,LARGE,48,240,120.2177522,22.99916255,output/output_0220.jpg,
+資工系,光復第二宿舍,S,LARGE,49,245,120.2178001,22.99915415,output/output_0221.jpg,1 car
+資工系,光復第二宿舍,S,LARGE,50,250,120.2178479,22.99914575,output/output_0222.jpg,1 car
+資工系,光復第二宿舍,S,LARGE,51,255,120.2178958,22.99913735,output/output_0223.jpg,"2 car, 2 person, 1 bicycle"
+資工系,光復第二宿舍,S,LARGE,52,260,120.2179437,22.99912894,output/output_0224.jpg,8 motorcycle
+資工系,光復第二宿舍,S,LARGE,53,265,120.2179493,22.99908795,output/output_0225.jpg,"6 motorcycle, 1 bench"
+資工系,光復第二宿舍,S,LARGE,54,270,120.2179496,22.99904283,output/output_0226.jpg,
+資工系,光復第二宿舍,S,LARGE,55,275,120.2179499,22.99899771,output/output_0227.jpg,
+資工系,光復第二宿舍,S,LARGE,56,280,120.2179502,22.99895259,output/output_0228.jpg,1 car
+資工系,光復第二宿舍,S,LARGE,57,285,120.2179505,22.99890746,output/output_0229.jpg,"1 person, 6 motorcycle"
+資工系,光復第二宿舍,S,LARGE,58,290,120.2179507,22.99886234,output/output_0230.jpg,"1 person, 6 motorcycle"
+資工系,光復第二宿舍,S,LARGE,59,295,120.217951,22.99881722,output/output_0231.jpg,4 motorcycle
+資工系,光復第二宿舍,S,LARGE,60,300,120.2179513,22.9987721,output/output_0232.jpg,4 motorcycle
+資工系,光復第二宿舍,S,LARGE,61,305,120.2179516,22.99872698,output/output_0233.jpg,2 motorcycle
+資工系,光復第二宿舍,S,LARGE,62,310,120.2179519,22.99868186,output/output_0234.jpg,2 motorcycle
+資工系,光復第二宿舍,S,LARGE,63,315,120.2179521,22.99863674,output/output_0235.jpg,"1 person, 1 bicycle"
+資工系,光復第二宿舍,S,LARGE,64,320,120.2179524,22.99859162,output/output_0236.jpg,1 person
+資工系,光復第二宿舍,S,LARGE,65,325,120.2179527,22.99854649,output/output_0237.jpg,1 person
+資工系,光復第二宿舍,S,LARGE,66,330,120.217953,22.99850137,output/output_0238.jpg,1 person
+資工系,光復第二宿舍,S,LARGE,67,335,120.2179624,22.99846461,output/output_0239.jpg,1 person
+資工系,光復第二宿舍,S,LARGE,68,340,120.2180112,22.99846359,output/output_0240.jpg,
+資工系,光復第二宿舍,S,LARGE,69,345,120.2180599,22.99846257,output/output_0241.jpg,"5 person, 3 bicycle"
+資工系,光復第二宿舍,S,LARGE,70,350,120.2181086,22.99846155,output/output_0242.jpg,"5 person, 3 bicycle"
+資工系,光復第二宿舍,S,LARGE,71,355,120.2181573,22.99846053,output/output_0243.jpg,5 person
+資工系,光復第二宿舍,S,LARGE,72,360,120.2182061,22.99845952,output/output_0244.jpg,5 person
+資工系,光復第二宿舍,S,LARGE,73,365,120.2182548,22.9984585,output/output_0245.jpg,"1 person, 1 bicycle"
+資工系,光復第二宿舍,S,LARGE,74,370,120.2183035,22.99845698,output/output_0246.jpg,"1 person, 2 bicycle"
+資工系,光復第二宿舍,S,LARGE,75,375,120.2183522,22.99845534,output/output_0247.jpg,"2 bicycle, 5 person, 2 motorcycle"
+資工系,光復第二宿舍,S,LARGE,76,380,120.2184009,22.9984533,output/output_0248.jpg,"1 bicycle, 6 person, 1 motorcycle"
+資工系,光復第二宿舍,S,LARGE,77,385,120.2184495,22.99845025,output/output_0249.jpg,"4 bicycle, 4 person, 1 bench, 1 clock"
+資工系,光復第二宿舍,S,LARGE,78,390,120.2184981,22.99844657,output/output_0250.jpg,"4 bicycle, 5 person, 1 bench"
+資工系,光復第二宿舍,S,LARGE,79,395,120.2185467,22.99844289,output/output_0251.jpg,"4 person, 2 bicycle"
+資工系,光復第二宿舍,S,LARGE,80,400,120.2185953,22.99843921,output/output_0252.jpg,"4 person, 2 bicycle"
+資工系,光復第二宿舍,S,LARGE,81,405,120.2186438,22.99843553,output/output_0253.jpg,"3 bicycle, 2 person"
+資工系,光復第二宿舍,S,LARGE,82,410,120.2186924,22.99843185,output/output_0254.jpg,"3 bicycle, 2 person"
+資工系,光復第二宿舍,S,LARGE,83,415,120.218741,22.99842817,output/output_0255.jpg,"4 person, 5 bicycle"
+資工系,光復第二宿舍,S,LARGE,84,420,120.2187896,22.99842449,output/output_0256.jpg,"4 person, 5 bicycle"
+資工系,光復第二宿舍,S,LARGE,85,425,120.2188381,22.99842081,output/output_0257.jpg,"4 person, 1 backpack"
+資工系,光復第二宿舍,S,LARGE,86,430,120.2188867,22.99841713,output/output_0258.jpg,"4 person, 1 backpack"
+資工系,光復第二宿舍,S,LARGE,87,435,120.2189353,22.99841345,output/output_0259.jpg,"2 bicycle, 1 car, 1 fire hydrant"
+資工系,光復第二宿舍,S,LARGE,88,440,120.2189839,22.99840977,output/output_0260.jpg,"2 bicycle, 1 car, 1 fire hydrant"
+資工系,光復第二宿舍,S,LARGE,89,445,120.2190324,22.99840601,output/output_0261.jpg,"2 person, 1 truck, 3 bicycle, 1 car"
+資工系,光復第二宿舍,S,LARGE,90,450,120.219081,22.99840206,output/output_0262.jpg,2 bicycle
+資工系,光復第二宿舍,S,LARGE,91,455,120.2191296,22.99839811,output/output_0263.jpg,"1 person, 1 parking meter, 1 fire hydrant"
+資工系,光復第二宿舍,S,LARGE,92,460,120.2191781,22.99839406,output/output_0264.jpg,
+資工系,光復第二宿舍,S,LARGE,93,465,120.2192266,22.99839002,output/output_0265.jpg,
+資工系,光復第二宿舍,S,LARGE,94,470,120.2192752,22.99838597,output/output_0266.jpg,"1 bench, 3 car, 1 person"
+資工系,光復第二宿舍,S,LARGE,95,475,120.2193237,22.99838192,output/output_0267.jpg,"1 bench, 3 car, 1 person"
+資工系,光復第二宿舍,S,LARGE,96,480,120.2193723,22.99837787,output/output_0268.jpg,3 car
+資工系,光復第二宿舍,S,LARGE,97,485,120.2194208,22.99837382,output/output_0269.jpg,3 car
+資工系,光復第二宿舍,S,LARGE,98,490,120.2194694,22.99836977,output/output_0270.jpg,"4 car, 1 fire hydrant, 2 bicycle"
+資工系,光復第二宿舍,S,LARGE,99,495,120.2195179,22.99836573,output/output_0271.jpg,"4 car, 1 fire hydrant, 2 bicycle"
+資工系,光復第二宿舍,S,LARGE,100,500,120.2195664,22.99836168,output/output_0272.jpg,1 car
+資工系,光復第二宿舍,S,LARGE,101,505,120.219615,22.99835763,output/output_0273.jpg,"4 car, 1 person, 6 bicycle"
+資工系,光復第二宿舍,S,LARGE,102,510,120.2196635,22.99835373,output/output_0274.jpg,1 person
+資工系,光復第二宿舍,S,LARGE,103,515,120.2197121,22.99835016,output/output_0275.jpg,"2 car, 2 person, 9 bicycle"
+資工系,光復第二宿舍,S,LARGE,104,520,120.2197607,22.99834658,output/output_0276.jpg,2 person
+資工系,光復第二宿舍,S,LARGE,105,525,120.2198093,22.998343,output/output_0277.jpg,"2 person, 1 car"
+資工系,光復第二宿舍,S,LARGE,106,530,120.2198579,22.99833942,output/output_0278.jpg,"2 person, 1 car"
+資工系,光復第二宿舍,S,LARGE,107,535,120.2199065,22.99833584,output/output_0279.jpg,"1 car, 2 bicycle"
+資工系,光復第二宿舍,S,LARGE,108,540,120.2199551,22.99833227,output/output_0280.jpg,"3 bicycle, 1 person"
+資工系,光復第二宿舍,S,LARGE,109,545,120.2200036,22.99832869,output/output_0281.jpg,"2 car, 2 person, 3 bicycle"
+資工系,光復第二宿舍,S,LARGE,110,550,120.2200522,22.99832511,output/output_0282.jpg,"1 person, 1 handbag"
+資工系,光復第二宿舍,S,LARGE,111,555,120.2201008,22.99832153,output/output_0283.jpg,"2 car, 1 person"
+資工系,光復第二宿舍,S,LARGE,112,560,120.2201494,22.99831795,output/output_0284.jpg,1 car
+資工系,光復第二宿舍,S,LARGE,113,565,120.220198,22.99831437,output/output_0285.jpg,"4 car, 1 bicycle"
+資工系,光復第二宿舍,S,LARGE,114,570,120.2202466,22.9983108,output/output_0286.jpg,"4 car, 1 bicycle"
+資工系,光復第二宿舍,S,LARGE,115,575,120.2202952,22.99830722,output/output_0287.jpg,8 car
+資工系,光復第二宿舍,S,LARGE,116,580,120.2203437,22.99830364,output/output_0288.jpg,8 car
+資工系,光復第二宿舍,S,LARGE,117,585,120.2203784,22.99828923,output/output_0289.jpg,7 car
+資工系,光復第二宿舍,S,LARGE,118,590,120.2203736,22.99824432,output/output_0290.jpg,"1 car, 1 bicycle"
+資工系,光復第二宿舍,S,LARGE,119,595,120.2203696,22.99819936,output/output_0291.jpg,1 car
+資工系,光復第二宿舍,S,LARGE,120,600,120.2203658,22.99815437,output/output_0292.jpg,"1 car, 3 bicycle"
+資工系,光復第二宿舍,S,LARGE,121,605,120.2203619,22.99810939,output/output_0293.jpg,"1 car, 3 bicycle"
+資工系,光復第二宿舍,S,LARGE,122,610,120.2203581,22.99806441,output/output_0294.jpg,3 car
+資工系,光復第二宿舍,S,LARGE,123,615,120.2203543,22.99801942,output/output_0295.jpg,3 car
+資工系,光復第二宿舍,S,LARGE,124,620,120.2203505,22.99797444,output/output_0296.jpg,8 car
+資工系,光復第二宿舍,S,LARGE,125,625,120.2203466,22.99792946,output/output_0297.jpg,8 car
+資工系,光復第二宿舍,S,LARGE,126,630,120.2203428,22.99788448,output/output_0298.jpg,8 car
+資工系,光復第二宿舍,S,LARGE,127,635,120.220339,22.99783949,output/output_0299.jpg,2 car
+資工系,光復第二宿舍,S,LARGE,128,640,120.2203352,22.99779451,output/output_0300.jpg,2 car
+資工系,光復第二宿舍,S,LARGE,129,645,120.2203313,22.99774953,output/output_0301.jpg,2 car
+資工系,光復第二宿舍,S,LARGE,130,650,120.2203275,22.99770455,output/output_0302.jpg,
+資工系,光復第二宿舍,S,LARGE,131,655,120.2203237,22.99765956,output/output_0303.jpg,
+資工系,光復第二宿舍,S,LARGE,132,660,120.2203199,22.99761458,output/output_0304.jpg,
+資工系,光復第二宿舍,S,LARGE,133,665,120.2203159,22.9975696,output/output_0305.jpg,
+資工系,光復第二宿舍,S,LARGE,134,670,120.220312,22.99752463,output/output_0306.jpg,3 person
+資工系,光復第二宿舍,S,LARGE,135,675,120.220308,22.99747966,output/output_0307.jpg,3 person
+資工系,光復第二宿舍,S,LARGE,136,680,120.2203041,22.99743468,output/output_0308.jpg,2 car
+資工系,光復第二宿舍,S,LARGE,137,685,120.2203001,22.99738971,output/output_0309.jpg,2 person
+資工系,光復第二宿舍,S,LARGE,138,690,120.2202962,22.99734474,output/output_0310.jpg,2 person
+資工系,光復第二宿舍,S,LARGE,139,695,120.2202922,22.99729976,output/output_0311.jpg,4 car
+資工系,光復第二宿舍,S,LARGE,140,700,120.2202883,22.99725479,output/output_0312.jpg,"2 car, 1 person, 1 bicycle"
+資工系,光復第二宿舍,S,LARGE,141,705,120.2202843,22.99720982,output/output_0313.jpg,"2 car, 1 person, 1 bicycle"
+資工系,光復第二宿舍,S,LARGE,142,710,120.2202804,22.99716484,output/output_0314.jpg,"2 car, 1 person"
+資工系,光復第二宿舍,S,LARGE,143,715,120.2202764,22.99711987,output/output_0315.jpg,"2 car, 1 person"
+資工系,光復第二宿舍,S,LARGE,144,720,120.2202725,22.99707489,output/output_0316.jpg,"3 person, 1 car"
+資工系,光復第二宿舍,S,LARGE,145,725,120.2202685,22.99702992,output/output_0317.jpg,"3 person, 1 car"
+資工系,光復第二宿舍,S,LARGE,146,730,120.2202646,22.99698495,output/output_0318.jpg,1 car
+資工系,光復第二宿舍,S,LARGE,147,735,120.220262,22.9969554,output/output_0319.jpg,1 car
+工程系/化工系,光復第二宿舍,S,LARGE,0,0,120.2204121,22.99823367,output/output_0320.jpg,"1 person, 1 bench"
+工程系/化工系,光復第二宿舍,S,LARGE,1,5,120.2204608,22.99823105,output/output_0321.jpg,10 car
+工程系/化工系,光復第二宿舍,S,LARGE,2,10,120.2205094,22.99822842,output/output_0322.jpg,9 car
+工程系/化工系,光復第二宿舍,S,LARGE,3,15,120.2205581,22.9982258,output/output_0323.jpg,9 car
+工程系/化工系,光復第二宿舍,S,LARGE,4,20,120.2206068,22.99822317,output/output_0324.jpg,"5 car, 2 bicycle"
+工程系/化工系,光復第二宿舍,S,LARGE,5,25,120.2206554,22.99822055,output/output_0325.jpg,"5 car, 2 bicycle"
+工程系/化工系,光復第二宿舍,S,LARGE,6,30,120.2207041,22.99821792,output/output_0326.jpg,2 car
+工程系/化工系,光復第二宿舍,S,LARGE,7,35,120.2207527,22.9982153,output/output_0327.jpg,2 car
+工程系/化工系,光復第二宿舍,S,LARGE,8,40,120.2208014,22.99821267,output/output_0328.jpg,2 car
+工程系/化工系,光復第二宿舍,S,LARGE,9,45,120.22085,22.99821004,output/output_0329.jpg,2 car
+工程系/化工系,光復第二宿舍,S,LARGE,10,50,120.2208987,22.99820742,output/output_0330.jpg,1 person
+工程系/化工系,光復第二宿舍,S,LARGE,11,55,120.2209474,22.99820479,output/output_0331.jpg,1 person
+工程系/化工系,光復第二宿舍,S,LARGE,12,60,120.220996,22.99820217,output/output_0332.jpg,"5 bicycle, 1 person"
+工程系/化工系,光復第二宿舍,S,LARGE,13,65,120.2210447,22.99819954,output/output_0333.jpg,"5 bicycle, 1 person"
+工程系/化工系,光復第二宿舍,S,LARGE,14,70,120.2210933,22.99819692,output/output_0334.jpg,"5 bicycle, 1 person"
+工程系/化工系,光復第二宿舍,S,LARGE,15,75,120.221142,22.99819429,output/output_0335.jpg,"11 bicycle, 1 parking meter"
+工程系/化工系,光復第二宿舍,S,LARGE,16,80,120.2211906,22.99819167,output/output_0336.jpg,"11 bicycle, 1 parking meter"
+工程系/化工系,光復第二宿舍,S,LARGE,17,85,120.2212393,22.99818904,output/output_0337.jpg,4 bicycle
+工程系/化工系,光復第二宿舍,S,LARGE,18,90,120.221288,22.99818641,output/output_0338.jpg,4 bicycle
+工程系/化工系,光復第二宿舍,S,LARGE,19,95,120.2213366,22.99818379,output/output_0339.jpg,1 bicycle
+工程系/化工系,光復第二宿舍,S,LARGE,20,100,120.2213853,22.99818116,output/output_0340.jpg,1 bicycle
+工程系/化工系,光復第二宿舍,S,LARGE,21,105,120.2214339,22.99817854,output/output_0341.jpg,3 bicycle
+工程系/化工系,光復第二宿舍,S,LARGE,22,110,120.2214826,22.99817591,output/output_0342.jpg,3 bicycle
+工程系/化工系,光復第二宿舍,S,LARGE,23,115,120.2215312,22.99817329,output/output_0343.jpg,3 bicycle
+工程系/化工系,光復第二宿舍,S,LARGE,24,120,120.2215799,22.99817066,output/output_0344.jpg,3 bicycle
+工程系/化工系,光復第二宿舍,S,LARGE,25,125,120.2216286,22.99816803,output/output_0345.jpg,"1 bicycle, 2 car, 1 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,26,130,120.2216772,22.99816541,output/output_0346.jpg,"1 bicycle, 2 car, 1 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,27,135,120.2217259,22.99816278,output/output_0347.jpg,"1 bicycle, 2 car, 1 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,28,140,120.2217745,22.99816016,output/output_0348.jpg,"1 bicycle, 2 car, 1 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,29,145,120.2218232,22.99815753,output/output_0349.jpg,"1 bicycle, 2 car, 1 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,30,150,120.2218718,22.99815491,output/output_0350.jpg,"1 bicycle, 2 car, 1 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,31,155,120.2219205,22.99815228,output/output_0351.jpg,"9 car, 1 person, 1 bench"
+工程系/化工系,光復第二宿舍,S,LARGE,32,160,120.2219692,22.99814965,output/output_0352.jpg,"9 car, 1 person, 1 bench"
+工程系/化工系,光復第二宿舍,S,LARGE,33,165,120.2220179,22.99814882,output/output_0353.jpg,5 motorcycle
+工程系/化工系,光復第二宿舍,S,LARGE,34,170,120.2220636,22.99815127,output/output_0354.jpg,"2 motorcycle, 2 bench"
+工程系/化工系,光復第二宿舍,S,LARGE,35,175,120.2220668,22.99819629,output/output_0355.jpg,"6 car, 2 person, 1 traffic light, 1 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,36,180,120.22207,22.99824131,output/output_0356.jpg,"6 car, 2 person, 1 traffic light, 1 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,37,185,120.2220733,22.99828634,output/output_0357.jpg,"6 car, 2 person, 3 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,38,190,120.2220765,22.99833136,output/output_0358.jpg,"9 car, 1 person, 1 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,39,195,120.2221162,22.99833767,output/output_0359.jpg,"1 person, 3 motorcycle"
+工程系/化工系,光復第二宿舍,S,LARGE,40,200,120.2221648,22.99833446,output/output_0360.jpg,"1 motorcycle, 1 traffic light, 1 stop sign"
+工程系/化工系,光復第二宿舍,S,LARGE,41,205,120.2222134,22.99833097,output/output_0361.jpg,2 stop sign
+工程系/化工系,光復第二宿舍,S,LARGE,42,210,120.222262,22.99832746,output/output_0362.jpg,1 stop sign
+工程系/化工系,光復第二宿舍,S,LARGE,43,215,120.2223106,22.99832392,output/output_0363.jpg,"6 car, 1 stop sign"
+工程系/化工系,光復第二宿舍,S,LARGE,44,220,120.2223592,22.99832039,output/output_0364.jpg,2 car
+工程系/化工系,光復第二宿舍,S,LARGE,45,225,120.2224077,22.99831685,output/output_0365.jpg,2 car
+工程系/化工系,光復第二宿舍,S,LARGE,46,230,120.2224563,22.99831331,output/output_0366.jpg,"1 bicycle, 1 car"
+工程系/化工系,光復第二宿舍,S,LARGE,47,235,120.2225049,22.99830977,output/output_0367.jpg,"1 bicycle, 1 car"
+工程系/化工系,光復第二宿舍,S,LARGE,48,240,120.2225535,22.99830624,output/output_0368.jpg,1 car
+工程系/化工系,光復第二宿舍,S,LARGE,49,245,120.2226021,22.9983027,output/output_0369.jpg,1 car
+工程系/化工系,光復第二宿舍,S,LARGE,50,250,120.2226507,22.99829916,output/output_0370.jpg,1 car
+工程系/化工系,光復第二宿舍,S,LARGE,51,255,120.2226993,22.99829562,output/output_0371.jpg,1 car
+工程系/化工系,光復第二宿舍,S,LARGE,52,260,120.2227479,22.99829209,output/output_0372.jpg,1 person
+工程系/化工系,光復第二宿舍,S,LARGE,53,265,120.2227965,22.99828855,output/output_0373.jpg,1 person
+工程系/化工系,光復第二宿舍,S,LARGE,54,270,120.2228451,22.99828501,output/output_0374.jpg,1 person
+工程系/化工系,光復第二宿舍,S,LARGE,55,275,120.2228936,22.99828147,output/output_0375.jpg,"1 person, 1 car"
+工程系/化工系,光復第二宿舍,S,LARGE,56,280,120.2229422,22.99827794,output/output_0376.jpg,1 car
+工程系/化工系,光復第二宿舍,S,LARGE,57,285,120.222957,22.9982474,output/output_0377.jpg,"1 car, 1 person"
+工程系/化工系,光復第二宿舍,S,LARGE,58,290,120.2229536,22.99820239,output/output_0378.jpg,
+工程系/化工系,光復第二宿舍,S,LARGE,59,295,120.2229503,22.99815737,output/output_0379.jpg,"2 person, 1 bench"
+工程系/化工系,光復第二宿舍,S,LARGE,60,300,120.2229469,22.99811236,output/output_0380.jpg,"2 person, 1 car, 1 dog"
+工程系/化工系,光復第二宿舍,S,LARGE,61,305,120.2229435,22.99806734,output/output_0381.jpg,"2 person, 1 car, 1 dog"
+工程系/化工系,光復第二宿舍,S,LARGE,62,310,120.2229402,22.99802233,output/output_0382.jpg,
+工程系/化工系,光復第二宿舍,S,LARGE,63,315,120.2229368,22.99797731,output/output_0383.jpg,
+工程系/化工系,光復第二宿舍,S,LARGE,64,320,120.2229335,22.9979323,output/output_0384.jpg,"3 person, 1 car, 1 umbrella"
+工程系/化工系,光復第二宿舍,S,LARGE,65,325,120.2229301,22.99788729,output/output_0385.jpg,"3 person, 1 car, 1 umbrella"
+工程系/化工系,光復第二宿舍,S,LARGE,66,330,120.2229267,22.99784227,output/output_0386.jpg,
+工程系/化工系,光復第二宿舍,S,LARGE,67,335,120.2229234,22.99779726,output/output_0387.jpg,
+工程系/化工系,光復第二宿舍,S,LARGE,68,340,120.22292,22.99775224,output/output_0388.jpg,"2 person, 1 car"
+工程系/化工系,光復第二宿舍,S,LARGE,69,345,120.2229166,22.99770723,output/output_0389.jpg,"2 person, 1 car"
+工程系/化工系,光復第二宿舍,S,LARGE,70,350,120.2228684,22.99771099,output/output_0390.jpg,"2 car, 1 potted plant"
+工程系/化工系,光復第二宿舍,S,LARGE,71,355,120.2228199,22.99771511,output/output_0391.jpg,"2 car, 1 potted plant"
+工程系/化工系,光復第二宿舍,S,LARGE,72,360,120.2227713,22.99771923,output/output_0392.jpg,"2 car, 1 potted plant"
+工程系/化工系,光復第二宿舍,S,LARGE,73,365,120.2227228,22.99772335,output/output_0393.jpg,"2 car, 1 potted plant"
+機械系,光復第二宿舍,S,LARGE,0,0,120.2229908,22.99827428,output/output_0394.jpg,2 car
+機械系,光復第二宿舍,S,LARGE,1,5,120.2230394,22.99827057,output/output_0395.jpg,2 car
+機械系,光復第二宿舍,S,LARGE,2,10,120.223088,22.99826686,output/output_0396.jpg,2 car
+機械系,光復第二宿舍,S,LARGE,3,15,120.2231365,22.99826314,output/output_0397.jpg,2 car
+機械系,光復第二宿舍,S,LARGE,4,20,120.2231851,22.99825943,output/output_0398.jpg,2 potted plant
+機械系,光復第二宿舍,S,LARGE,5,25,120.2232337,22.99825572,output/output_0399.jpg,2 potted plant
+機械系,光復第二宿舍,S,LARGE,6,30,120.2232823,22.998252,output/output_0400.jpg,2 potted plant
+機械系,光復第二宿舍,S,LARGE,7,35,120.2233308,22.99824829,output/output_0401.jpg,2 potted plant
+機械系,光復第二宿舍,S,LARGE,8,40,120.2233794,22.99824458,output/output_0402.jpg,2 potted plant
+機械系,光復第二宿舍,S,LARGE,9,45,120.2234275,22.99824045,output/output_0403.jpg,2 potted plant
+機械系,光復第二宿舍,S,LARGE,10,50,120.2234235,22.99819548,output/output_0404.jpg,2 potted plant
+機械系,光復第二宿舍,S,LARGE,11,55,120.2234195,22.99815051,output/output_0405.jpg,2 potted plant
+機械系,光復第二宿舍,S,LARGE,12,60,120.2234155,22.99810554,output/output_0406.jpg,
+機械系,光復第二宿舍,S,LARGE,13,65,120.2234115,22.99806057,output/output_0407.jpg,"1 person, 1 car, 1 truck"
+機械系,光復第二宿舍,S,LARGE,14,70,120.2234075,22.99801559,output/output_0408.jpg,
+機械系,光復第二宿舍,S,LARGE,15,75,120.2234035,22.99797062,output/output_0409.jpg,"1 person, 1 car, 1 backpack, 1 handbag"
+機械系,光復第二宿舍,S,LARGE,16,80,120.2233995,22.99792565,output/output_0410.jpg,"1 person, 1 car, 1 backpack, 1 handbag"
+機械系,光復第二宿舍,S,LARGE,17,85,120.2233956,22.99788068,output/output_0411.jpg,
+機械系,光復第二宿舍,S,LARGE,18,90,120.2233916,22.99783571,output/output_0412.jpg,
+機械系,光復第二宿舍,S,LARGE,19,95,120.2233875,22.99779074,output/output_0413.jpg,
+機械系,光復第二宿舍,S,LARGE,20,100,120.2233835,22.99774578,output/output_0414.jpg,
+機械系,光復第二宿舍,S,LARGE,21,105,120.2233795,22.99770081,output/output_0415.jpg,2 car
+機械系,光復第二宿舍,S,LARGE,22,110,120.2233755,22.99765584,output/output_0416.jpg,
+機械系,光復第二宿舍,S,LARGE,23,115,120.2233714,22.99761087,output/output_0417.jpg,
+機械系,光復第二宿舍,S,LARGE,24,120,120.2233674,22.9975659,output/output_0418.jpg,
+機械系,光復第二宿舍,S,LARGE,25,125,120.2233634,22.99752093,output/output_0419.jpg,
+機械系,光復第二宿舍,S,LARGE,26,130,120.2233594,22.99747597,output/output_0420.jpg,
+機械系,光復第二宿舍,S,LARGE,27,135,120.2233554,22.997431,output/output_0421.jpg,
+機械系,光復第二宿舍,S,LARGE,28,140,120.2233514,22.99738603,output/output_0422.jpg,
+機械系,光復第二宿舍,S,LARGE,29,145,120.2233474,22.99734106,output/output_0423.jpg,
+機械系,光復第二宿舍,S,LARGE,30,150,120.2233434,22.99729609,output/output_0424.jpg,
+機械系,光復第二宿舍,S,LARGE,31,155,120.2233393,22.99725112,output/output_0425.jpg,
+機械系,光復第二宿舍,S,LARGE,32,160,120.2233353,22.99720615,output/output_0426.jpg,
+機械系,光復第二宿舍,S,LARGE,33,165,120.2233313,22.99716118,output/output_0427.jpg,
+機械系,光復第二宿舍,S,LARGE,34,170,120.2233273,22.99711621,output/output_0428.jpg,"1 person, 1 bench"
+機械系,光復第二宿舍,S,LARGE,35,175,120.2233233,22.99707125,output/output_0429.jpg,"1 person, 1 bench"
+機械系,光復第二宿舍,S,LARGE,36,180,120.2233193,22.99702628,output/output_0430.jpg,"1 person, 1 bench"
+機械系,光復第二宿舍,S,LARGE,37,185,120.2233153,22.99698131,output/output_0431.jpg,"1 person, 1 bench"
+機械系,光復第二宿舍,S,LARGE,38,190,120.2233112,22.99693634,output/output_0432.jpg,"1 person, 1 bench"
+機械系,光復第二宿舍,S,LARGE,39,195,120.2233072,22.99689137,output/output_0433.jpg,"1 person, 1 bench"
+機械系,光復第二宿舍,S,LARGE,40,200,120.2233032,22.9968464,output/output_0434.jpg,"1 bicycle, 1 person, 1 backpack"
+機械系,光復第二宿舍,S,LARGE,41,205,120.2233007,22.9968182,output/output_0435.jpg,"1 bicycle, 1 person, 1 backpack"
+醫學院,光復第一宿舍,S,LARGE,0,0,120.2142815,22.9990799,output/output_0436.jpg,"1 bicycle, 1 person, 1 backpack"
+醫學院,光復第一宿舍,S,LARGE,1,5,120.2143237,22.99910249,output/output_0437.jpg,"1 bicycle, 1 person, 1 backpack"
+醫學院,光復第一宿舍,S,LARGE,2,10,120.2143659,22.99912507,output/output_0438.jpg,
+醫學院,光復第一宿舍,S,LARGE,3,15,120.2144081,22.99914766,output/output_0439.jpg,
+醫學院,光復第一宿舍,S,LARGE,4,20,120.2144503,22.99917025,output/output_0440.jpg,
+醫學院,光復第一宿舍,S,LARGE,5,25,120.2144925,22.99919283,output/output_0441.jpg,
+醫學院,光復第一宿舍,S,LARGE,6,30,120.2145347,22.99921542,output/output_0442.jpg,
+醫學院,光復第一宿舍,S,LARGE,7,35,120.2145769,22.99923801,output/output_0443.jpg,
+醫學院,光復第一宿舍,S,LARGE,8,40,120.2146191,22.99926059,output/output_0444.jpg,
+醫學院,光復第一宿舍,S,LARGE,9,45,120.2146278,22.99930461,output/output_0445.jpg,
+醫學院,光復第一宿舍,S,LARGE,10,50,120.2146359,22.99934911,output/output_0446.jpg,
+醫學院,光復第一宿舍,S,LARGE,11,55,120.2146439,22.99939362,output/output_0447.jpg,
+醫學院,光復第一宿舍,S,LARGE,12,60,120.2146519,22.99943813,output/output_0448.jpg,
+醫學院,光復第一宿舍,S,LARGE,13,65,120.2146599,22.99948263,output/output_0449.jpg,"1 car, 1 truck"
+醫學院,光復第一宿舍,S,LARGE,14,70,120.2146679,22.99952714,output/output_0450.jpg,"1 car, 1 truck"
+醫學院,光復第一宿舍,S,LARGE,15,75,120.2147141,22.99952099,output/output_0451.jpg,"1 car, 1 truck"
+醫學院,光復第一宿舍,S,LARGE,16,80,120.2147619,22.9995125,output/output_0452.jpg,"1 car, 1 truck"
+資工系,光復第一宿舍,S,LARGE,0,0,120.2146561,22.99923229,output/output_0453.jpg,
+資工系,光復第一宿舍,S,LARGE,1,5,120.214693,22.99920282,output/output_0454.jpg,
+資工系,光復第一宿舍,S,LARGE,2,10,120.2147299,22.99917335,output/output_0455.jpg,1 truck
+資工系,光復第一宿舍,S,LARGE,3,15,120.2147668,22.99914388,output/output_0456.jpg,1 truck
+資工系,光復第一宿舍,S,LARGE,4,20,120.2148037,22.99911441,output/output_0457.jpg,1 truck
+資工系,光復第一宿舍,S,LARGE,5,25,120.2148406,22.99908494,output/output_0458.jpg,1 truck
+資工系,光復第一宿舍,S,LARGE,6,30,120.2148775,22.99905547,output/output_0459.jpg,
+資工系,光復第一宿舍,S,LARGE,7,35,120.2149144,22.999026,output/output_0460.jpg,
+資工系,光復第一宿舍,S,LARGE,8,40,120.2149542,22.99900773,output/output_0461.jpg,
+資工系,光復第一宿舍,S,LARGE,9,45,120.2150015,22.99901865,output/output_0462.jpg,
+資工系,光復第一宿舍,S,LARGE,10,50,120.2150488,22.99902957,output/output_0463.jpg,1 person
+資工系,光復第一宿舍,S,LARGE,11,55,120.2150961,22.99904048,output/output_0464.jpg,1 person
+資工系,光復第一宿舍,S,LARGE,12,60,120.2151434,22.9990514,output/output_0465.jpg,1 person
+資工系,光復第一宿舍,S,LARGE,13,65,120.2151907,22.99906232,output/output_0466.jpg,
+資工系,光復第一宿舍,S,LARGE,14,70,120.215238,22.99907324,output/output_0467.jpg,
+資工系,光復第一宿舍,S,LARGE,15,75,120.2152853,22.99908416,output/output_0468.jpg,
+資工系,光復第一宿舍,S,LARGE,16,80,120.2153326,22.99909508,output/output_0469.jpg,1 bicycle
+資工系,光復第一宿舍,S,LARGE,17,85,120.2153798,22.99910599,output/output_0470.jpg,19 car
+資工系,光復第一宿舍,S,LARGE,18,90,120.2153816,22.99906774,output/output_0471.jpg,19 car
+資工系,光復第一宿舍,S,LARGE,19,95,120.2153772,22.9990228,output/output_0472.jpg,4 car
+資工系,光復第一宿舍,S,LARGE,20,100,120.2153728,22.99897786,output/output_0473.jpg,4 car
+資工系,光復第一宿舍,S,LARGE,21,105,120.2153684,22.99893292,output/output_0474.jpg,2 bench
+資工系,光復第一宿舍,S,LARGE,22,110,120.2154027,22.99891509,output/output_0475.jpg,2 bench
+資工系,光復第一宿舍,S,LARGE,23,115,120.2154506,22.99890683,output/output_0476.jpg,2 bench
+資工系,光復第一宿舍,S,LARGE,24,120,120.2154985,22.99889857,output/output_0477.jpg,2 bench
+資工系,光復第一宿舍,S,LARGE,25,125,120.2155465,22.99889031,output/output_0478.jpg,10 bicycle
+資工系,光復第一宿舍,S,LARGE,26,130,120.2155944,22.99888205,output/output_0479.jpg,12 bicycle
+資工系,光復第一宿舍,S,LARGE,27,135,120.2156423,22.99887379,output/output_0480.jpg,1 bicycle
+資工系,光復第一宿舍,S,LARGE,28,140,120.2156902,22.99886553,output/output_0481.jpg,1 bicycle
+資工系,光復第一宿舍,S,LARGE,29,145,120.2157381,22.99885727,output/output_0482.jpg,
+資工系,光復第一宿舍,S,LARGE,30,150,120.215786,22.99884901,output/output_0483.jpg,
+資工系,光復第一宿舍,S,LARGE,31,155,120.215834,22.99884075,output/output_0484.jpg,"12 bicycle, 4 car"
+資工系,光復第一宿舍,S,LARGE,32,160,120.2158819,22.99883249,output/output_0485.jpg,"2 car, 5 bicycle"
+資工系,光復第一宿舍,S,LARGE,33,165,120.2159298,22.99882423,output/output_0486.jpg,5 car
+資工系,光復第一宿舍,S,LARGE,34,170,120.2159777,22.99881596,output/output_0487.jpg,
+資工系,光復第一宿舍,S,LARGE,35,175,120.2160256,22.9988077,output/output_0488.jpg,
+資工系,光復第一宿舍,S,LARGE,36,180,120.2160735,22.99879944,output/output_0489.jpg,7 bicycle
+資工系,光復第一宿舍,S,LARGE,37,185,120.2161215,22.99879118,output/output_0490.jpg,"1 car, 1 truck, 1 bottle, 1 person"
+資工系,光復第一宿舍,S,LARGE,38,190,120.2161694,22.99878292,output/output_0491.jpg,"1 car, 1 truck, 1 bottle, 1 person"
+資工系,光復第一宿舍,S,LARGE,39,195,120.2162173,22.99877466,output/output_0492.jpg,"1 car, 1 truck, 1 bottle, 1 person"
+資工系,光復第一宿舍,S,LARGE,40,200,120.2162652,22.9987664,output/output_0493.jpg,"1 car, 1 truck, 1 bottle, 1 person"
+資工系,光復第一宿舍,S,LARGE,41,205,120.2163131,22.99875814,output/output_0494.jpg,2 bicycle
+資工系,光復第一宿舍,S,LARGE,42,210,120.216361,22.99874988,output/output_0495.jpg,"11 bicycle, 1 person"
+資工系,光復第一宿舍,S,LARGE,43,215,120.216409,22.99874161,output/output_0496.jpg,"11 bicycle, 1 person"
+資工系,光復第一宿舍,S,LARGE,44,220,120.2164569,22.99873335,output/output_0497.jpg,13 bicycle
+資工系,光復第一宿舍,S,LARGE,45,225,120.2165043,22.99872802,output/output_0498.jpg,13 bicycle
+資工系,光復第一宿舍,S,LARGE,46,230,120.216547,22.9987497,output/output_0499.jpg,1 bicycle
+資工系,光復第一宿舍,S,LARGE,47,235,120.2165852,22.99875238,output/output_0500.jpg,1 bicycle
+資工系,光復第一宿舍,S,LARGE,48,240,120.2166139,22.9987159,output/output_0501.jpg,1 car
+資工系,光復第一宿舍,S,LARGE,49,245,120.2166532,22.99869512,output/output_0502.jpg,1 car
+資工系,光復第一宿舍,S,LARGE,50,250,120.2167012,22.99868687,output/output_0503.jpg,2 car
+資工系,光復第一宿舍,S,LARGE,51,255,120.2167491,22.99867863,output/output_0504.jpg,1 car
+資工系,光復第一宿舍,S,LARGE,52,260,120.216797,22.99867038,output/output_0505.jpg,1 car
+資工系,光復第一宿舍,S,LARGE,53,265,120.2168449,22.99866214,output/output_0506.jpg,"4 bicycle, 2 car"
+資工系,光復第一宿舍,S,LARGE,54,270,120.2168928,22.99865389,output/output_0507.jpg,"4 bicycle, 2 car"
+資工系,光復第一宿舍,S,LARGE,55,275,120.2169407,22.99864564,output/output_0508.jpg,"1 car, 7 bicycle, 1 motorcycle"
+資工系,光復第一宿舍,S,LARGE,56,280,120.2169887,22.9986374,output/output_0509.jpg,"2 car, 8 bicycle, 1 motorcycle"
+資工系,光復第一宿舍,S,LARGE,57,285,120.2170366,22.99862915,output/output_0510.jpg,"1 car, 1 bicycle"
+資工系,光復第一宿舍,S,LARGE,58,290,120.2170845,22.99862091,output/output_0511.jpg,"1 car, 1 bicycle"
+資工系,光復第一宿舍,S,LARGE,59,295,120.2171324,22.9986125,output/output_0512.jpg,"1 car, 1 bicycle"
+資工系,光復第一宿舍,S,LARGE,60,300,120.2171802,22.99860389,output/output_0513.jpg,11 bicycle
+資工系,光復第一宿舍,S,LARGE,61,305,120.2172281,22.99859528,output/output_0514.jpg,11 bicycle
+資工系,光復第一宿舍,S,LARGE,62,310,120.2172759,22.99858667,output/output_0515.jpg,15 bicycle
+資工系,光復第一宿舍,S,LARGE,63,315,120.2173238,22.99857806,output/output_0516.jpg,12 bicycle
+資工系,光復第一宿舍,S,LARGE,64,320,120.2173716,22.99856945,output/output_0517.jpg,12 bicycle
+資工系,光復第一宿舍,S,LARGE,65,325,120.2174195,22.99856084,output/output_0518.jpg,"9 bicycle, 1 car"
+資工系,光復第一宿舍,S,LARGE,66,330,120.2174673,22.99855223,output/output_0519.jpg,"9 bicycle, 1 car"
+資工系,光復第一宿舍,S,LARGE,67,335,120.2175151,22.99854362,output/output_0520.jpg,"11 bicycle, 1 person"
+資工系,光復第一宿舍,S,LARGE,68,340,120.217563,22.99853502,output/output_0521.jpg,"11 bicycle, 1 person"
+資工系,光復第一宿舍,S,LARGE,69,345,120.2176108,22.99852641,output/output_0522.jpg,"11 bicycle, 1 person"
+資工系,光復第一宿舍,S,LARGE,70,350,120.2176587,22.9985178,output/output_0523.jpg,"8 bicycle, 4 person, 2 car, 1 backpack"
+資工系,光復第一宿舍,S,LARGE,71,355,120.2177065,22.99850919,output/output_0524.jpg,"8 bicycle, 4 person, 2 car, 1 backpack"
+資工系,光復第一宿舍,S,LARGE,72,360,120.2177544,22.99850058,output/output_0525.jpg,"8 bicycle, 4 person, 2 car, 1 backpack"
+資工系,光復第一宿舍,S,LARGE,73,365,120.2178022,22.99849197,output/output_0526.jpg,"1 person, 11 bicycle, 1 car"
+資工系,光復第一宿舍,S,LARGE,74,370,120.2178501,22.99848336,output/output_0527.jpg,"1 person, 11 bicycle, 1 car"
+資工系,光復第一宿舍,S,LARGE,75,375,120.2178979,22.99847475,output/output_0528.jpg,"8 bicycle, 1 car"
+醫學院,總圖書館,S,LARGE,0,0,120.2198443,22.9996264,output/output_0529.jpg,"8 bicycle, 1 car"
+醫學院,總圖書館,S,LARGE,1,5,120.2198875,22.99964726,output/output_0530.jpg,
+醫學院,總圖書館,S,LARGE,2,10,120.2199307,22.99966812,output/output_0531.jpg,1 person
+醫學院,總圖書館,S,LARGE,3,15,120.219974,22.99968898,output/output_0532.jpg,"2 person, 1 bicycle, 1 car"
+醫學院,總圖書館,S,LARGE,4,20,120.2200172,22.99970984,output/output_0533.jpg,1 person
+醫學院,總圖書館,S,LARGE,5,25,120.2200604,22.9997307,output/output_0534.jpg,
+醫學院,總圖書館,S,LARGE,6,30,120.2201036,22.99975156,output/output_0535.jpg,"11 bicycle, 1 person"
+醫學院,總圖書館,S,LARGE,7,35,120.2201468,22.99977242,output/output_0536.jpg,"6 bicycle, 1 person, 1 fire hydrant"
+醫學院,總圖書館,S,LARGE,8,40,120.2201901,22.99979328,output/output_0537.jpg,"6 bicycle, 1 person, 1 fire hydrant"
+醫學院,總圖書館,S,LARGE,9,45,120.2202333,22.99981414,output/output_0538.jpg,4 bicycle
+醫學院,總圖書館,S,LARGE,10,50,120.2202765,22.999835,output/output_0539.jpg,4 bicycle
+醫學院,總圖書館,S,LARGE,11,55,120.2203197,22.99985586,output/output_0540.jpg,2 potted plant
+醫學院,總圖書館,S,LARGE,12,60,120.2203629,22.99987672,output/output_0541.jpg,2 potted plant
+醫學院,總圖書館,S,LARGE,13,65,120.220409,22.99988448,output/output_0542.jpg,2 potted plant
+醫學院,總圖書館,S,LARGE,14,70,120.2204575,22.99988047,output/output_0543.jpg,"10 bicycle, 1 person"
+醫學院,總圖書館,S,LARGE,15,75,120.2205061,22.99987733,output/output_0544.jpg,"10 bicycle, 1 person"
+醫學院,總圖書館,S,LARGE,16,80,120.2205215,22.99991076,output/output_0545.jpg,"8 bicycle, 1 person"
+醫學院,總圖書館,S,LARGE,17,85,120.2205261,22.99995569,output/output_0546.jpg,"8 bicycle, 1 person, 1 bench"
+醫學院,總圖書館,S,LARGE,18,90,120.2205306,23.00000061,output/output_0547.jpg,"8 bicycle, 1 person, 1 bench"
+醫學院,總圖書館,S,LARGE,19,95,120.2205352,23.00004554,output/output_0548.jpg,"9 bicycle, 3 person"
+醫學院,總圖書館,S,LARGE,20,100,120.2205397,23.00009046,output/output_0549.jpg,"9 bicycle, 3 person"
+醫學院,總圖書館,S,LARGE,21,105,120.2205443,23.00013538,output/output_0550.jpg,"12 bicycle, 4 person"
+醫學院,總圖書館,S,LARGE,22,110,120.2205489,23.00018031,output/output_0551.jpg,"12 bicycle, 4 person"
+醫學院,總圖書館,S,LARGE,23,115,120.2205534,23.00022523,output/output_0552.jpg,"15 bicycle, 1 person"
+醫學院,總圖書館,S,LARGE,24,120,120.220558,23.00027016,output/output_0553.jpg,"15 bicycle, 1 person"
+醫學院,總圖書館,S,LARGE,25,125,120.2205625,23.00031508,output/output_0554.jpg,"10 bicycle, 1 person"
+醫學院,總圖書館,S,LARGE,26,130,120.2205671,23.00036001,output/output_0555.jpg,"10 bicycle, 1 person"
+醫學院,總圖書館,S,LARGE,27,135,120.2205716,23.00040493,output/output_0556.jpg,"10 bicycle, 3 person"
+醫學院,總圖書館,S,LARGE,28,140,120.2205762,23.00044986,output/output_0557.jpg,"10 bicycle, 3 person"
+醫學院,總圖書館,S,LARGE,29,145,120.2205807,23.00049478,output/output_0558.jpg,"10 bicycle, 3 person"
+醫學院,總圖書館,S,LARGE,30,150,120.2205853,23.00053971,output/output_0559.jpg,
+醫學院,總圖書館,S,LARGE,31,155,120.2205898,23.00058463,output/output_0560.jpg,
+醫學院,總圖書館,S,LARGE,32,160,120.2205944,23.00062956,output/output_0561.jpg,2 motorcycle
+醫學院,總圖書館,S,LARGE,33,165,120.2205991,23.00067447,output/output_0562.jpg,1 person
+醫學院,總圖書館,S,LARGE,34,170,120.2206042,23.00071934,output/output_0563.jpg,1 person
+醫學院,總圖書館,S,LARGE,35,175,120.2206092,23.00076422,output/output_0564.jpg,1 person
+醫學院,總圖書館,S,LARGE,36,180,120.2206141,23.00080912,output/output_0565.jpg,
+醫學院,總圖書館,S,LARGE,37,185,120.220619,23.00085401,output/output_0566.jpg,"2 person, 4 potted plant, 1 bench"
+醫學院,總圖書館,S,LARGE,38,190,120.220623,23.00089897,output/output_0567.jpg,"2 person, 4 potted plant, 1 bench"
+醫學院,總圖書館,S,LARGE,39,195,120.2206262,23.000944,output/output_0568.jpg,"2 person, 4 potted plant, 1 bench"
+資工系,總圖書館,S,LARGE,0,0,120.2198457,22.9995813,output/output_0569.jpg,"2 person, 4 potted plant, 1 bench"
+資工系,總圖書館,S,LARGE,1,5,120.2198472,22.9995362,output/output_0570.jpg,"2 person, 4 potted plant, 1 bench"
+資工系,總圖書館,S,LARGE,2,10,120.2198486,22.99949109,output/output_0571.jpg,"10 bicycle, 1 bench, 2 person"
+資工系,總圖書館,S,LARGE,3,15,120.2198501,22.99944599,output/output_0572.jpg,"10 bicycle, 1 bench, 2 person"
+資工系,總圖書館,S,LARGE,4,20,120.2198515,22.99940089,output/output_0573.jpg,"10 bicycle, 1 bench, 2 person"
+資工系,總圖書館,S,LARGE,5,25,120.2198782,22.99937534,output/output_0574.jpg,"10 bicycle, 1 bench, 2 person"
+資工系,總圖書館,S,LARGE,6,30,120.2199259,22.99936607,output/output_0575.jpg,"13 bicycle, 1 car"
+資工系,總圖書館,S,LARGE,7,35,120.2199736,22.9993568,output/output_0576.jpg,"20 bicycle, 1 person, 2 car, 1 backpack"
+資工系,總圖書館,S,LARGE,8,40,120.2200213,22.99934753,output/output_0577.jpg,"21 bicycle, 1 person, 2 car, 1 backpack"
+資工系,總圖書館,S,LARGE,9,45,120.220069,22.99933826,output/output_0578.jpg,"18 bicycle, 1 person"
+資工系,總圖書館,S,LARGE,10,50,120.2201167,22.99932899,output/output_0579.jpg,"1 person, 16 bicycle, 1 car"
+資工系,總圖書館,S,LARGE,11,55,120.2201644,22.99931972,output/output_0580.jpg,"1 person, 16 bicycle, 1 car"
+資工系,總圖書館,S,LARGE,12,60,120.2202121,22.99931045,output/output_0581.jpg,"3 car, 8 bicycle, 2 person"
+資工系,總圖書館,S,LARGE,13,65,120.220259,22.99929947,output/output_0582.jpg,"3 car, 8 bicycle, 2 person"
+資工系,總圖書館,S,LARGE,14,70,120.2202968,22.99927102,output/output_0583.jpg,"4 car, 7 bicycle"
+資工系,總圖書館,S,LARGE,15,75,120.2203346,22.99924256,output/output_0584.jpg,"1 person, 3 car, 4 bicycle"
+資工系,總圖書館,S,LARGE,16,80,120.2203724,22.9992141,output/output_0585.jpg,"1 person, 3 car, 4 bicycle"
+資工系,總圖書館,S,LARGE,17,85,120.2204102,22.99918564,output/output_0586.jpg,"2 car, 1 person"
+資工系,總圖書館,S,LARGE,18,90,120.2204481,22.99915718,output/output_0587.jpg,1 bench
+資工系,總圖書館,S,LARGE,19,95,120.2204481,22.99911369,output/output_0588.jpg,1 bench
+資工系,總圖書館,S,LARGE,20,100,120.2204444,22.9990687,output/output_0589.jpg,"1 person, 1 bicycle, 1 bench, 1 motorcycle"
+資工系,總圖書館,S,LARGE,21,105,120.2204407,22.99902371,output/output_0590.jpg,"1 person, 1 bicycle, 1 bench, 1 motorcycle"
+資工系,總圖書館,S,LARGE,22,110,120.220437,22.99897872,output/output_0591.jpg,4 car
+資工系,總圖書館,S,LARGE,23,115,120.2204332,22.99893373,output/output_0592.jpg,4 car
+資工系,總圖書館,S,LARGE,24,120,120.2204295,22.99888874,output/output_0593.jpg,4 car
+資工系,總圖書館,S,LARGE,25,125,120.2204256,22.99884376,output/output_0594.jpg,"8 car, 1 motorcycle"
+資工系,總圖書館,S,LARGE,26,130,120.2204218,22.99879877,output/output_0595.jpg,"9 car, 1 person"
+資工系,總圖書館,S,LARGE,27,135,120.220418,22.99875379,output/output_0596.jpg,"3 car, 3 person, 6 motorcycle"
+資工系,總圖書館,S,LARGE,28,140,120.2204142,22.99870881,output/output_0597.jpg,"3 car, 4 person, 6 motorcycle"
+資工系,總圖書館,S,LARGE,29,145,120.2204104,22.99866382,output/output_0598.jpg,"3 car, 3 person, 5 motorcycle"
+資工系,總圖書館,S,LARGE,30,150,120.2204066,22.99861884,output/output_0599.jpg,1 bicycle
+資工系,總圖書館,S,LARGE,31,155,120.2204027,22.99857386,output/output_0600.jpg,"1 motorcycle, 1 bicycle"
+資工系,總圖書館,S,LARGE,32,160,120.2203989,22.99852887,output/output_0601.jpg,1 bird
+資工系,總圖書館,S,LARGE,33,165,120.2203951,22.99848389,output/output_0602.jpg,
+資工系,總圖書館,S,LARGE,34,170,120.2203913,22.99843891,output/output_0603.jpg,
+資工系,總圖書館,S,LARGE,35,175,120.2203875,22.99839392,output/output_0604.jpg,1 person
+資工系,總圖書館,S,LARGE,36,180,120.2203837,22.99834894,output/output_0605.jpg,
+工程系/化工系,總圖書館,S,LARGE,0,0,120.220463,22.99891512,output/output_0606.jpg,
+工程系/化工系,總圖書館,S,LARGE,1,5,120.2205115,22.9989114,output/output_0607.jpg,2 person
+工程系/化工系,總圖書館,S,LARGE,2,10,120.2205601,22.99890768,output/output_0608.jpg,2 person
+工程系/化工系,總圖書館,S,LARGE,3,15,120.2206087,22.99890396,output/output_0609.jpg,2 bench
+工程系/化工系,總圖書館,S,LARGE,4,20,120.2206573,22.99890024,output/output_0610.jpg,2 bench
+工程系/化工系,總圖書館,S,LARGE,5,25,120.2207058,22.99889652,output/output_0611.jpg,
+工程系/化工系,總圖書館,S,LARGE,6,30,120.2207544,22.9988928,output/output_0612.jpg,
+工程系/化工系,總圖書館,S,LARGE,7,35,120.220803,22.99888908,output/output_0613.jpg,
+工程系/化工系,總圖書館,S,LARGE,8,40,120.2208515,22.99888536,output/output_0614.jpg,
+工程系/化工系,總圖書館,S,LARGE,9,45,120.2209001,22.99888164,output/output_0615.jpg,
+工程系/化工系,總圖書館,S,LARGE,10,50,120.2209487,22.99887792,output/output_0616.jpg,1 bicycle
+工程系/化工系,總圖書館,S,LARGE,11,55,120.2209973,22.9988742,output/output_0617.jpg,1 bicycle
+工程系/化工系,總圖書館,S,LARGE,12,60,120.2210458,22.99887047,output/output_0618.jpg,"2 car, 6 bicycle"
+工程系/化工系,總圖書館,S,LARGE,13,65,120.2210944,22.99886675,output/output_0619.jpg,"2 car, 6 bicycle"
+工程系/化工系,總圖書館,S,LARGE,14,70,120.221143,22.99886303,output/output_0620.jpg,"2 bicycle, 3 person, 3 car"
+工程系/化工系,總圖書館,S,LARGE,15,75,120.2211916,22.99885931,output/output_0621.jpg,"1 car, 2 bicycle"
+工程系/化工系,總圖書館,S,LARGE,16,80,120.2212401,22.99885559,output/output_0622.jpg,"1 person, 3 bicycle"
+工程系/化工系,總圖書館,S,LARGE,17,85,120.2212887,22.99885187,output/output_0623.jpg,"1 car, 1 person, 1 bicycle"
+工程系/化工系,總圖書館,S,LARGE,18,90,120.2213373,22.99884815,output/output_0624.jpg,"1 car, 1 person, 1 bicycle"
+工程系/化工系,總圖書館,S,LARGE,19,95,120.2213859,22.99884443,output/output_0625.jpg,
+工程系/化工系,總圖書館,S,LARGE,20,100,120.2214344,22.99884071,output/output_0626.jpg,"1 car, 1 bicycle"
+工程系/化工系,總圖書館,S,LARGE,21,105,120.221483,22.99883699,output/output_0627.jpg,
+工程系/化工系,總圖書館,S,LARGE,22,110,120.2215316,22.99883327,output/output_0628.jpg,1 car
+工程系/化工系,總圖書館,S,LARGE,23,115,120.2215802,22.99882955,output/output_0629.jpg,
+工程系/化工系,總圖書館,S,LARGE,24,120,120.2216287,22.99882583,output/output_0630.jpg,"1 car, 1 bicycle"
+工程系/化工系,總圖書館,S,LARGE,25,125,120.2216773,22.9988221,output/output_0631.jpg,
+工程系/化工系,總圖書館,S,LARGE,26,130,120.2217259,22.99881838,output/output_0632.jpg,"4 car, 4 bicycle, 1 person"
+工程系/化工系,總圖書館,S,LARGE,27,135,120.2217745,22.99881466,output/output_0633.jpg,"4 car, 4 bicycle, 1 person"
+工程系/化工系,總圖書館,S,LARGE,28,140,120.221823,22.99881094,output/output_0634.jpg,5 car
+工程系/化工系,總圖書館,S,LARGE,29,145,120.2218716,22.99880722,output/output_0635.jpg,5 car
+工程系/化工系,總圖書館,S,LARGE,30,150,120.2219202,22.9988035,output/output_0636.jpg,3 car
+工程系/化工系,總圖書館,S,LARGE,31,155,120.2219687,22.99879978,output/output_0637.jpg,3 car
+工程系/化工系,總圖書館,S,LARGE,32,160,120.2220173,22.99879606,output/output_0638.jpg,"1 person, 1 car, 1 bicycle"
+工程系/化工系,總圖書館,S,LARGE,33,165,120.2220452,22.99877612,output/output_0639.jpg,"3 bicycle, 1 person"
+工程系/化工系,總圖書館,S,LARGE,34,170,120.2220411,22.99873116,output/output_0640.jpg,9 car
+工程系/化工系,總圖書館,S,LARGE,35,175,120.222037,22.9986862,output/output_0641.jpg,9 car
+工程系/化工系,總圖書館,S,LARGE,36,180,120.2220661,22.99866776,output/output_0642.jpg,5 car
+工程系/化工系,總圖書館,S,LARGE,37,185,120.2221052,22.99865734,output/output_0643.jpg,5 car
+工程系/化工系,總圖書館,S,LARGE,38,190,120.2221012,22.99861236,output/output_0644.jpg,5 car
+工程系/化工系,總圖書館,S,LARGE,39,195,120.2220972,22.99856739,output/output_0645.jpg,5 car
+工程系/化工系,總圖書館,S,LARGE,40,200,120.2220932,22.99852242,output/output_0646.jpg,4 car
+工程系/化工系,總圖書館,S,LARGE,41,205,120.2220893,22.99847745,output/output_0647.jpg,4 car
+工程系/化工系,總圖書館,S,LARGE,42,210,120.2220853,22.99843248,output/output_0648.jpg,4 car
+工程系/化工系,總圖書館,S,LARGE,43,215,120.2220813,22.99838751,output/output_0649.jpg,7 car
+醫學院,第一學生活動中心,S,LARGE,0,0,120.2161756,22.9978556,output/output_0650.jpg,7 car
+醫學院,第一學生活動中心,S,LARGE,1,5,120.2162236,22.99784799,output/output_0651.jpg,7 car
+醫學院,第一學生活動中心,S,LARGE,2,10,120.2162717,22.99784037,output/output_0652.jpg,3 car
+醫學院,第一學生活動中心,S,LARGE,3,15,120.2163197,22.99783276,output/output_0653.jpg,3 car
+醫學院,第一學生活動中心,S,LARGE,4,20,120.2163678,22.99782514,output/output_0654.jpg,2 car
+醫學院,第一學生活動中心,S,LARGE,5,25,120.2164158,22.99781753,output/output_0655.jpg,2 car
+醫學院,第一學生活動中心,S,LARGE,6,30,120.2164638,22.99780991,output/output_0656.jpg,2 car
+醫學院,第一學生活動中心,S,LARGE,7,35,120.2165119,22.9978023,output/output_0657.jpg,1 car
+醫學院,第一學生活動中心,S,LARGE,8,40,120.2165599,22.99779468,output/output_0658.jpg,1 car
+醫學院,第一學生活動中心,S,LARGE,9,45,120.216608,22.99778707,output/output_0659.jpg,
+醫學院,第一學生活動中心,S,LARGE,10,50,120.216656,22.99777946,output/output_0660.jpg,
+醫學院,第一學生活動中心,S,LARGE,11,55,120.216704,22.99777184,output/output_0661.jpg,
+醫學院,第一學生活動中心,S,LARGE,12,60,120.2167521,22.99776423,output/output_0662.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,13,65,120.2168001,22.99775661,output/output_0663.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,14,70,120.2168482,22.997749,output/output_0664.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,15,75,120.2168962,22.99774138,output/output_0665.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,16,80,120.2169442,22.99773377,output/output_0666.jpg,
+醫學院,第一學生活動中心,S,LARGE,17,85,120.2169625,22.9977642,output/output_0667.jpg,
+醫學院,第一學生活動中心,S,LARGE,18,90,120.2169697,22.99780884,output/output_0668.jpg,1 car
+醫學院,第一學生活動中心,S,LARGE,19,95,120.2169768,22.99785347,output/output_0669.jpg,1 car
+醫學院,第一學生活動中心,S,LARGE,20,100,120.216984,22.9978981,output/output_0670.jpg,1 bench
+醫學院,第一學生活動中心,S,LARGE,21,105,120.2169912,22.99794273,output/output_0671.jpg,1 bench
+醫學院,第一學生活動中心,S,LARGE,22,110,120.2169983,22.99798736,output/output_0672.jpg,4 car
+醫學院,第一學生活動中心,S,LARGE,23,115,120.2170055,22.998032,output/output_0673.jpg,"3 car, 1 motorcycle"
+醫學院,第一學生活動中心,S,LARGE,24,120,120.2170127,22.99807663,output/output_0674.jpg,"3 car, 1 motorcycle"
+醫學院,第一學生活動中心,S,LARGE,25,125,120.2170203,22.99812118,output/output_0675.jpg,"1 car, 11 motorcycle"
+醫學院,第一學生活動中心,S,LARGE,26,130,120.2170285,22.99816568,output/output_0676.jpg,9 motorcycle
+醫學院,第一學生活動中心,S,LARGE,27,135,120.2170366,22.99821017,output/output_0677.jpg,3 car
+醫學院,第一學生活動中心,S,LARGE,28,140,120.2170447,22.99825466,output/output_0678.jpg,"1 traffic light, 2 car, 1 motorcycle"
+醫學院,第一學生活動中心,S,LARGE,29,145,120.2170528,22.99829915,output/output_0679.jpg,"1 traffic light, 2 car, 1 motorcycle"
+醫學院,第一學生活動中心,S,LARGE,30,150,120.2170609,22.99834364,output/output_0680.jpg,"3 car, 2 person"
+醫學院,第一學生活動中心,S,LARGE,31,155,120.217069,22.99838813,output/output_0681.jpg,"3 car, 2 person"
+醫學院,第一學生活動中心,S,LARGE,32,160,120.2170772,22.99843262,output/output_0682.jpg,"3 car, 2 person"
+醫學院,第一學生活動中心,S,LARGE,33,165,120.2170853,22.99847712,output/output_0683.jpg,1 bus
+醫學院,第一學生活動中心,S,LARGE,34,170,120.2170934,22.99852161,output/output_0684.jpg,2 bicycle
+醫學院,第一學生活動中心,S,LARGE,35,175,120.2171015,22.9985661,output/output_0685.jpg,2 bicycle
+醫學院,第一學生活動中心,S,LARGE,36,180,120.2190226,22.99846897,output/output_0686.jpg,2 bicycle
+醫學院,第一學生活動中心,S,LARGE,37,185,120.2190261,22.99851398,output/output_0687.jpg,2 bicycle
+醫學院,第一學生活動中心,S,LARGE,38,190,120.2190296,22.99855898,output/output_0688.jpg,
+醫學院,第一學生活動中心,S,LARGE,39,195,120.219033,22.99860399,output/output_0689.jpg,
+醫學院,第一學生活動中心,S,LARGE,40,200,120.2190365,22.99864899,output/output_0690.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,41,205,120.21904,22.998694,output/output_0691.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,42,210,120.2190435,22.99873901,output/output_0692.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,43,215,120.219047,22.99878401,output/output_0693.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,44,220,120.2190506,22.99882901,output/output_0694.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,45,225,120.2190546,22.99887398,output/output_0695.jpg,1 person
+醫學院,第一學生活動中心,S,LARGE,46,230,120.2190587,22.99891894,output/output_0696.jpg,"2 person, 3 potted plant"
+醫學院,第一學生活動中心,S,LARGE,47,235,120.2190627,22.99896391,output/output_0697.jpg,"2 person, 3 potted plant"
+醫學院,第一學生活動中心,S,LARGE,48,240,120.2190668,22.99900888,output/output_0698.jpg,"2 person, 3 potted plant"
+醫學院,第一學生活動中心,S,LARGE,49,245,120.2190708,22.99905384,output/output_0699.jpg,"2 person, 2 potted plant"
+醫學院,第一學生活動中心,S,LARGE,50,250,120.2190749,22.99909881,output/output_0700.jpg,"4 person, 4 bicycle, 1 potted plant"
+醫學院,第一學生活動中心,S,LARGE,51,255,120.2190789,22.99914377,output/output_0701.jpg,"7 bicycle, 3 person, 1 potted plant"
+醫學院,第一學生活動中心,S,LARGE,52,260,120.219083,22.99918874,output/output_0702.jpg,"7 bicycle, 3 person, 1 potted plant"
+醫學院,第一學生活動中心,S,LARGE,53,265,120.2190871,22.9992337,output/output_0703.jpg,"10 bicycle, 3 person, 1 potted plant"
+醫學院,第一學生活動中心,S,LARGE,54,270,120.2190911,22.99927867,output/output_0704.jpg,"10 bicycle, 3 person, 1 potted plant"
+醫學院,第一學生活動中心,S,LARGE,55,275,120.2190952,22.99932363,output/output_0705.jpg,"2 bicycle, 2 person"
+醫學院,第一學生活動中心,S,LARGE,56,280,120.2191225,22.99934629,output/output_0706.jpg,"2 bicycle, 2 person"
+醫學院,第一學生活動中心,S,LARGE,57,285,120.2191712,22.99934857,output/output_0707.jpg,"8 bicycle, 2 person"
+醫學院,第一學生活動中心,S,LARGE,58,290,120.2192199,22.99935084,output/output_0708.jpg,"9 bicycle, 2 person"
+醫學院,第一學生活動中心,S,LARGE,59,295,120.2192686,22.99935312,output/output_0709.jpg,"7 bicycle, 2 person"
+醫學院,第一學生活動中心,S,LARGE,60,300,120.2193173,22.99935539,output/output_0710.jpg,"2 person, 2 bicycle, 2 airplane"
+醫學院,第一學生活動中心,S,LARGE,61,305,120.2193659,22.99935767,output/output_0711.jpg,"2 person, 2 bicycle, 2 airplane"
+醫學院,第一學生活動中心,S,LARGE,62,310,120.2194146,22.99935994,output/output_0712.jpg,"2 person, 2 bicycle, 2 airplane"
+醫學院,第一學生活動中心,S,LARGE,63,315,120.2194633,22.99936222,output/output_0713.jpg,"5 bicycle, 2 person"
+醫學院,第一學生活動中心,S,LARGE,64,320,120.219512,22.99936449,output/output_0714.jpg,
+醫學院,第一學生活動中心,S,LARGE,65,325,120.2195606,22.99936677,output/output_0715.jpg,
+醫學院,第一學生活動中心,S,LARGE,66,330,120.2196093,22.99936905,output/output_0716.jpg,
+醫學院,第一學生活動中心,S,LARGE,67,335,120.219658,22.99937132,output/output_0717.jpg,7 bicycle
+醫學院,第一學生活動中心,S,LARGE,68,340,120.2197067,22.9993736,output/output_0718.jpg,7 bicycle
+醫學院,第一學生活動中心,S,LARGE,69,345,120.2197554,22.99937587,output/output_0719.jpg,"3 person, 1 car, 1 fire hydrant"
+醫學院,第一學生活動中心,S,LARGE,70,350,120.219804,22.99937815,output/output_0720.jpg,
+醫學院,第一學生活動中心,S,LARGE,71,355,120.2203242,22.9993316,output/output_0721.jpg,"1 person, 1 umbrella, 1 car"
+醫學院,第一學生活動中心,S,LARGE,72,360,120.2203684,22.99935066,output/output_0722.jpg,"1 person, 2 car"
+醫學院,第一學生活動中心,S,LARGE,73,365,120.2204126,22.99936971,output/output_0723.jpg,2 car
+醫學院,第一學生活動中心,S,LARGE,74,370,120.2204568,22.99938877,output/output_0724.jpg,3 car
+醫學院,第一學生活動中心,S,LARGE,75,375,120.2204744,22.99942498,output/output_0725.jpg,"7 bicycle, 2 car, 1 person"
+醫學院,第一學生活動中心,S,LARGE,76,380,120.2204785,22.99946994,output/output_0726.jpg,3 car
+醫學院,第一學生活動中心,S,LARGE,77,385,120.2204826,22.9995149,output/output_0727.jpg,"3 car, 11 bicycle"
+醫學院,第一學生活動中心,S,LARGE,78,390,120.2204867,22.99955986,output/output_0728.jpg,"3 car, 10 bicycle"
+醫學院,第一學生活動中心,S,LARGE,79,395,120.2204908,22.99960483,output/output_0729.jpg,"3 car, 2 bicycle"
+醫學院,第一學生活動中心,S,LARGE,80,400,120.220495,22.99964978,output/output_0730.jpg,5 car
+醫學院,第一學生活動中心,S,LARGE,81,405,120.2204996,22.9996947,output/output_0731.jpg,5 car
+醫學院,第一學生活動中心,S,LARGE,82,410,120.2205042,22.99973963,output/output_0732.jpg,4 car
+醫學院,第一學生活動中心,S,LARGE,83,415,120.2205087,22.99978455,output/output_0733.jpg,4 car
+醫學院,第一學生活動中心,S,LARGE,84,420,120.2205133,22.99982947,output/output_0734.jpg,"4 car, 2 person"
+資工系,第一學生活動中心,S,LARGE,0,0,120.2161682,22.99781099,output/output_0735.jpg,"4 car, 2 person"
+資工系,第一學生活動中心,S,LARGE,1,5,120.2161609,22.99776639,output/output_0736.jpg,1 car
+資工系,第一學生活動中心,S,LARGE,2,10,120.2161535,22.99772178,output/output_0737.jpg,1 car
+資工系,第一學生活動中心,S,LARGE,3,15,120.2161462,22.99767718,output/output_0738.jpg,
+資工系,第一學生活動中心,S,LARGE,4,20,120.2161388,22.99763257,output/output_0739.jpg,
+資工系,第一學生活動中心,S,LARGE,5,25,120.2161315,22.99758797,output/output_0740.jpg,1 person
+資工系,第一學生活動中心,S,LARGE,6,30,120.2161241,22.99754336,output/output_0741.jpg,
+資工系,第一學生活動中心,S,LARGE,7,35,120.2161168,22.99749875,output/output_0742.jpg,
+資工系,第一學生活動中心,S,LARGE,8,40,120.2161094,22.99745415,output/output_0743.jpg,
+資工系,第一學生活動中心,S,LARGE,9,45,120.2161021,22.99740954,output/output_0744.jpg,2 bench
+資工系,第一學生活動中心,S,LARGE,10,50,120.2161178,22.99738029,output/output_0745.jpg,2 bench
+資工系,第一學生活動中心,S,LARGE,11,55,120.2161658,22.99737258,output/output_0746.jpg,"1 bicycle, 2 bench, 1 person"
+資工系,第一學生活動中心,S,LARGE,12,60,120.2162138,22.99736487,output/output_0747.jpg,"1 bicycle, 2 bench, 1 person"
+資工系,第一學生活動中心,S,LARGE,13,65,120.2162619,22.99735716,output/output_0748.jpg,"1 person, 1 backpack"
+資工系,第一學生活動中心,S,LARGE,14,70,120.2163099,22.99734945,output/output_0749.jpg,"1 person, 1 backpack"
+資工系,第一學生活動中心,S,LARGE,15,75,120.2163579,22.99734175,output/output_0750.jpg,"3 potted plant, 1 person"
+資工系,第一學生活動中心,S,LARGE,16,80,120.2164059,22.99733404,output/output_0751.jpg,"3 potted plant, 1 person"
+資工系,第一學生活動中心,S,LARGE,17,85,120.2164539,22.99732633,output/output_0752.jpg,
+資工系,第一學生活動中心,S,LARGE,18,90,120.216502,22.99731862,output/output_0753.jpg,
+資工系,第一學生活動中心,S,LARGE,19,95,120.21655,22.99731091,output/output_0754.jpg,1 bicycle
+資工系,第一學生活動中心,S,LARGE,20,100,120.216598,22.9973032,output/output_0755.jpg,
+資工系,第一學生活動中心,S,LARGE,21,105,120.216646,22.99729549,output/output_0756.jpg,6 car
+資工系,第一學生活動中心,S,LARGE,22,110,120.2166941,22.99728778,output/output_0757.jpg,6 car
+資工系,第一學生活動中心,S,LARGE,23,115,120.2167421,22.99728007,output/output_0758.jpg,"6 car, 7 bicycle, 1 person"
+資工系,第一學生活動中心,S,LARGE,24,120,120.2167901,22.99727236,output/output_0759.jpg,"8 bicycle, 1 person, 4 car"
+資工系,第一學生活動中心,S,LARGE,25,125,120.2168381,22.99726465,output/output_0760.jpg,8 bicycle
+資工系,第一學生活動中心,S,LARGE,26,130,120.2168863,22.99725768,output/output_0761.jpg,"1 car, 11 bicycle, 1 person, 1 motorcycle"
+資工系,第一學生活動中心,S,LARGE,27,135,120.2169345,22.99725128,output/output_0762.jpg,11 bicycle
+資工系,第一學生活動中心,S,LARGE,28,140,120.2169828,22.99724488,output/output_0763.jpg,"16 bicycle, 2 person"
+資工系,第一學生活動中心,S,LARGE,29,145,120.217031,22.99723848,output/output_0764.jpg,"19 bicycle, 2 person"
+資工系,第一學生活動中心,S,LARGE,30,150,120.2170793,22.99723207,output/output_0765.jpg,14 bicycle
+資工系,第一學生活動中心,S,LARGE,31,155,120.2171275,22.99722567,output/output_0766.jpg,14 bicycle
+資工系,第一學生活動中心,S,LARGE,32,160,120.2171758,22.99721927,output/output_0767.jpg,12 bicycle
+資工系,第一學生活動中心,S,LARGE,33,165,120.217224,22.99721287,output/output_0768.jpg,
+資工系,第一學生活動中心,S,LARGE,34,170,120.2172722,22.99720647,output/output_0769.jpg,
+資工系,第一學生活動中心,S,LARGE,35,175,120.2173205,22.99720007,output/output_0770.jpg,
+資工系,第一學生活動中心,S,LARGE,36,180,120.2173687,22.99719367,output/output_0771.jpg,
+資工系,第一學生活動中心,S,LARGE,37,185,120.217417,22.99718726,output/output_0772.jpg,
+資工系,第一學生活動中心,S,LARGE,38,190,120.2174652,22.99718086,output/output_0773.jpg,17 bicycle
+資工系,第一學生活動中心,S,LARGE,39,195,120.2175135,22.99717446,output/output_0774.jpg,17 bicycle
+資工系,第一學生活動中心,S,LARGE,40,200,120.2175617,22.99716806,output/output_0775.jpg,17 bicycle
+資工系,第一學生活動中心,S,LARGE,41,205,120.21761,22.99716166,output/output_0776.jpg,17 bicycle
+資工系,第一學生活動中心,S,LARGE,42,210,120.2176582,22.99715525,output/output_0777.jpg,17 bicycle
+資工系,第一學生活動中心,S,LARGE,43,215,120.2177065,22.99714885,output/output_0778.jpg,19 bicycle
+資工系,第一學生活動中心,S,LARGE,44,220,120.2177547,22.99714245,output/output_0779.jpg,"8 bicycle, 1 bench"
+資工系,第一學生活動中心,S,LARGE,45,225,120.217803,22.99713605,output/output_0780.jpg,"8 bicycle, 1 bench"
+資工系,第一學生活動中心,S,LARGE,46,230,120.2178512,22.99712965,output/output_0781.jpg,6 bicycle
+資工系,第一學生活動中心,S,LARGE,47,235,120.2178994,22.99712325,output/output_0782.jpg,6 bicycle
+資工系,第一學生活動中心,S,LARGE,48,240,120.2179477,22.99711684,output/output_0783.jpg,3 bicycle
+資工系,第一學生活動中心,S,LARGE,49,245,120.2179959,22.99711044,output/output_0784.jpg,3 bicycle
+資工系,第一學生活動中心,S,LARGE,50,250,120.2180442,22.99710415,output/output_0785.jpg,3 bicycle
+資工系,第一學生活動中心,S,LARGE,51,255,120.2180925,22.9970979,output/output_0786.jpg,"8 bicycle, 3 bench, 2 person"
+資工系,第一學生活動中心,S,LARGE,52,260,120.2181407,22.99709164,output/output_0787.jpg,"8 bicycle, 3 bench, 2 person"
+資工系,第一學生活動中心,S,LARGE,53,265,120.218189,22.99708536,output/output_0788.jpg,"3 bicycle, 1 person"
+資工系,第一學生活動中心,S,LARGE,54,270,120.2182373,22.99707908,output/output_0789.jpg,"3 bicycle, 1 person"
+資工系,第一學生活動中心,S,LARGE,55,275,120.2182497,22.99704633,output/output_0790.jpg,"3 bicycle, 1 person"
+資工系,第一學生活動中心,S,LARGE,56,280,120.2182456,22.99700137,output/output_0791.jpg,"1 car, 1 potted plant"
+資工系,第一學生活動中心,S,LARGE,57,285,120.2182415,22.99695641,output/output_0792.jpg,"1 car, 1 potted plant"
+資工系,第一學生活動中心,S,LARGE,58,290,120.2182373,22.99691145,output/output_0793.jpg,"3 car, 1 potted plant, 3 bicycle"
+資工系,第一學生活動中心,S,LARGE,59,295,120.2182332,22.99686649,output/output_0794.jpg,"1 car, 1 bicycle"
+資工系,第一學生活動中心,S,LARGE,60,300,120.2182291,22.99682153,output/output_0795.jpg,"7 car, 2 bicycle"
+資工系,第一學生活動中心,S,LARGE,61,305,120.218225,22.99677656,output/output_0796.jpg,"7 car, 2 bicycle"
+資工系,第一學生活動中心,S,LARGE,62,310,120.2182209,22.9967316,output/output_0797.jpg,"7 car, 2 bicycle"
+資工系,第一學生活動中心,S,LARGE,63,315,120.2182168,22.99668664,output/output_0798.jpg,"7 car, 2 bicycle"
+資工系,第一學生活動中心,S,LARGE,64,320,120.2182127,22.99664168,output/output_0799.jpg,"9 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,65,325,120.2182085,22.99659672,output/output_0800.jpg,"9 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,66,330,120.2182044,22.99655176,output/output_0801.jpg,"8 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,67,335,120.2182003,22.9965068,output/output_0802.jpg,"8 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,68,340,120.2181962,22.99646184,output/output_0803.jpg,"8 car, 2 person"
+資工系,第一學生活動中心,S,LARGE,69,345,120.2181921,22.99641688,output/output_0804.jpg,"8 car, 2 person"
+資工系,第一學生活動中心,S,LARGE,70,350,120.2181934,22.99637603,output/output_0805.jpg,10 car
+資工系,第一學生活動中心,S,LARGE,71,355,120.2182418,22.99637056,output/output_0806.jpg,10 car
+資工系,第一學生活動中心,S,LARGE,72,360,120.2182777,22.99634139,output/output_0807.jpg,10 car
+資工系,第一學生活動中心,S,LARGE,73,365,120.2183197,22.99632395,output/output_0808.jpg,"12 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,74,370,120.2183684,22.99632184,output/output_0809.jpg,"12 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,75,375,120.218417,22.99631973,output/output_0810.jpg,"12 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,76,380,120.2184657,22.99631761,output/output_0811.jpg,"8 car, 2 person"
+資工系,第一學生活動中心,S,LARGE,77,385,120.2185144,22.9963155,output/output_0812.jpg,"8 car, 2 person"
+資工系,第一學生活動中心,S,LARGE,78,390,120.2185631,22.99631339,output/output_0813.jpg,"8 car, 2 person"
+資工系,第一學生活動中心,S,LARGE,79,395,120.2186118,22.99631127,output/output_0814.jpg,"2 car, 2 person, 1 motorcycle, 1 backpack"
+資工系,第一學生活動中心,S,LARGE,80,400,120.2186605,22.99630916,output/output_0815.jpg,"2 car, 2 person, 1 motorcycle, 1 backpack"
+資工系,第一學生活動中心,S,LARGE,81,405,120.2187092,22.99630705,output/output_0816.jpg,"2 car, 2 person, 1 motorcycle, 1 backpack"
+資工系,第一學生活動中心,S,LARGE,82,410,120.2187578,22.99630493,output/output_0817.jpg,"1 car, 17 motorcycle"
+資工系,第一學生活動中心,S,LARGE,83,415,120.2188065,22.99630282,output/output_0818.jpg,"22 motorcycle, 1 car"
+資工系,第一學生活動中心,S,LARGE,84,420,120.2188552,22.99630071,output/output_0819.jpg,"20 motorcycle, 3 person"
+資工系,第一學生活動中心,S,LARGE,85,425,120.2189039,22.99629859,output/output_0820.jpg,"20 motorcycle, 3 person"
+資工系,第一學生活動中心,S,LARGE,86,430,120.2189526,22.99629648,output/output_0821.jpg,"23 motorcycle, 3 person"
+資工系,第一學生活動中心,S,LARGE,87,435,120.2190012,22.99629337,output/output_0822.jpg,28 motorcycle
+資工系,第一學生活動中心,S,LARGE,88,440,120.2190498,22.99629011,output/output_0823.jpg,"7 car, 15 motorcycle"
+資工系,第一學生活動中心,S,LARGE,89,445,120.2190984,22.99628685,output/output_0824.jpg,"6 car, 7 motorcycle"
+資工系,第一學生活動中心,S,LARGE,90,450,120.219147,22.99628358,output/output_0825.jpg,"4 car, 6 motorcycle"
+資工系,第一學生活動中心,S,LARGE,91,455,120.2191957,22.99628032,output/output_0826.jpg,"4 car, 6 motorcycle"
+資工系,第一學生活動中心,S,LARGE,92,460,120.2192443,22.99627706,output/output_0827.jpg,"3 car, 3 motorcycle"
+資工系,第一學生活動中心,S,LARGE,93,465,120.2192929,22.9962738,output/output_0828.jpg,"3 car, 3 motorcycle"
+資工系,第一學生活動中心,S,LARGE,94,470,120.2193415,22.99627054,output/output_0829.jpg,"8 motorcycle, 3 person"
+資工系,第一學生活動中心,S,LARGE,95,475,120.2193901,22.99626728,output/output_0830.jpg,"8 motorcycle, 3 person"
+資工系,第一學生活動中心,S,LARGE,96,480,120.2194387,22.99626402,output/output_0831.jpg,"8 motorcycle, 3 person"
+資工系,第一學生活動中心,S,LARGE,97,485,120.2194873,22.99626076,output/output_0832.jpg,"4 person, 5 motorcycle, 1 traffic light"
+資工系,第一學生活動中心,S,LARGE,98,490,120.2195359,22.99625749,output/output_0833.jpg,"4 person, 5 motorcycle, 1 traffic light"
+資工系,第一學生活動中心,S,LARGE,99,495,120.2195845,22.99625423,output/output_0834.jpg,"1 bus, 1 person, 1 traffic light, 4 car"
+資工系,第一學生活動中心,S,LARGE,100,500,120.2196332,22.99625097,output/output_0835.jpg,"13 person, 1 traffic light, 8 motorcycle"
+資工系,第一學生活動中心,S,LARGE,101,505,120.2196818,22.99624771,output/output_0836.jpg,"13 person, 1 traffic light, 8 motorcycle"
+資工系,第一學生活動中心,S,LARGE,102,510,120.2197304,22.99624445,output/output_0837.jpg,"6 motorcycle, 6 person, 1 car"
+資工系,第一學生活動中心,S,LARGE,103,515,120.219779,22.99624119,output/output_0838.jpg,"3 motorcycle, 3 person"
+資工系,第一學生活動中心,S,LARGE,104,520,120.2198276,22.99623793,output/output_0839.jpg,"1 stop sign, 1 traffic light"
+資工系,第一學生活動中心,S,LARGE,105,525,120.2198762,22.99623466,output/output_0840.jpg,"1 car, 4 person, 6 motorcycle, 1 clock, 1 bicycle"
+資工系,第一學生活動中心,S,LARGE,106,530,120.2199248,22.9962314,output/output_0841.jpg,"3 motorcycle, 4 person, 1 car"
+資工系,第一學生活動中心,S,LARGE,107,535,120.2199734,22.99622814,output/output_0842.jpg,"2 person, 2 motorcycle, 2 car"
+資工系,第一學生活動中心,S,LARGE,108,540,120.220022,22.99622488,output/output_0843.jpg,"2 person, 2 motorcycle, 2 car"
+資工系,第一學生活動中心,S,LARGE,109,545,120.2200707,22.99622162,output/output_0844.jpg,"1 motorcycle, 4 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,110,550,120.2201193,22.99621836,output/output_0845.jpg,"1 motorcycle, 4 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,111,555,120.2201679,22.99621509,output/output_0846.jpg,"4 car, 9 motorcycle"
+資工系,第一學生活動中心,S,LARGE,112,560,120.2202005,22.9962291,output/output_0847.jpg,"4 car, 9 motorcycle"
+資工系,第一學生活動中心,S,LARGE,113,565,120.2202043,22.99627408,output/output_0848.jpg,"4 car, 9 motorcycle"
+資工系,第一學生活動中心,S,LARGE,114,570,120.2202081,22.99631906,output/output_0849.jpg,"3 car, 3 motorcycle"
+資工系,第一學生活動中心,S,LARGE,115,575,120.2202119,22.99636405,output/output_0850.jpg,"3 car, 3 motorcycle"
+資工系,第一學生活動中心,S,LARGE,116,580,120.2202157,22.99640903,output/output_0851.jpg,"3 car, 2 bicycle, 1 motorcycle, 1 person"
+資工系,第一學生活動中心,S,LARGE,117,585,120.2202195,22.99645402,output/output_0852.jpg,"3 car, 2 bicycle, 1 motorcycle, 1 person"
+資工系,第一學生活動中心,S,LARGE,118,590,120.2202233,22.996499,output/output_0853.jpg,"4 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,119,595,120.2202271,22.99654398,output/output_0854.jpg,"4 car, 1 person"
+資工系,第一學生活動中心,S,LARGE,120,600,120.220231,22.99658897,output/output_0855.jpg,"2 person, 4 car, 6 motorcycle, 1 handbag"
+資工系,第一學生活動中心,S,LARGE,121,605,120.2202348,22.99663395,output/output_0856.jpg,"1 person, 3 car, 11 motorcycle"
+資工系,第一學生活動中心,S,LARGE,122,610,120.2202386,22.99667893,output/output_0857.jpg,"4 car, 10 motorcycle, 1 person"
+資工系,第一學生活動中心,S,LARGE,123,615,120.2202424,22.99672392,output/output_0858.jpg,"4 car, 10 motorcycle, 1 person"
+資工系,第一學生活動中心,S,LARGE,124,620,120.2202462,22.9967689,output/output_0859.jpg,"4 car, 14 motorcycle, 2 person, 1 bicycle"
+資工系,第一學生活動中心,S,LARGE,125,625,120.22025,22.99681389,output/output_0860.jpg,"4 car, 14 motorcycle, 2 person, 1 bicycle"
+資工系,第一學生活動中心,S,LARGE,126,630,120.2202538,22.99685887,output/output_0861.jpg,"4 car, 14 motorcycle, 2 person, 1 bicycle"
+資工系,第一學生活動中心,S,LARGE,127,635,120.2202576,22.99690385,output/output_0862.jpg,"3 car, 2 motorcycle, 2 bicycle, 11 person, 1 umbrella"
+機械系,第一學生活動中心,S,LARGE,0,0,120.220265,22.99620775,output/output_0863.jpg,"3 car, 2 motorcycle, 2 bicycle, 11 person, 1 umbrella"
+機械系,第一學生活動中心,S,LARGE,1,5,120.2203136,22.99620388,output/output_0864.jpg,"1 car, 1 traffic light, 1 person, 1 bicycle, 1 motorcycle"
+機械系,第一學生活動中心,S,LARGE,2,10,120.2203622,22.99620001,output/output_0865.jpg,"1 car, 1 traffic light, 1 person, 1 bicycle, 1 motorcycle"
+機械系,第一學生活動中心,S,LARGE,3,15,120.2204107,22.99619614,output/output_0866.jpg,"1 car, 2 person, 2 bicycle, 1 potted plant"
+機械系,第一學生活動中心,S,LARGE,4,20,120.2204593,22.99619227,output/output_0867.jpg,"1 car, 2 person, 2 bicycle, 1 potted plant"
+機械系,第一學生活動中心,S,LARGE,5,25,120.2205078,22.9961884,output/output_0868.jpg,"1 person, 17 motorcycle, 1 traffic light"
+機械系,第一學生活動中心,S,LARGE,6,30,120.2205564,22.99618453,output/output_0869.jpg,"1 person, 17 motorcycle, 1 traffic light"
+機械系,第一學生活動中心,S,LARGE,7,35,120.220605,22.99618066,output/output_0870.jpg,15 motorcycle
+機械系,第一學生活動中心,S,LARGE,8,40,120.2206535,22.99617679,output/output_0871.jpg,15 motorcycle
+機械系,第一學生活動中心,S,LARGE,9,45,120.2207021,22.99617292,output/output_0872.jpg,"1 truck, 1 person, 10 motorcycle, 1 traffic light"
+機械系,第一學生活動中心,S,LARGE,10,50,120.2207506,22.99616905,output/output_0873.jpg,"1 truck, 1 person, 10 motorcycle, 1 traffic light"
+機械系,第一學生活動中心,S,LARGE,11,55,120.2207992,22.99616518,output/output_0874.jpg,"8 motorcycle, 3 person, 1 traffic light"
+機械系,第一學生活動中心,S,LARGE,12,60,120.2208477,22.99616131,output/output_0875.jpg,"8 motorcycle, 3 person, 1 traffic light"
+機械系,第一學生活動中心,S,LARGE,13,65,120.2208963,22.99615744,output/output_0876.jpg,"14 motorcycle, 3 person, 1 car"
+機械系,第一學生活動中心,S,LARGE,14,70,120.2209449,22.99615357,output/output_0877.jpg,"10 motorcycle, 3 car, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,15,75,120.2209934,22.9961497,output/output_0878.jpg,"10 motorcycle, 3 car, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,16,80,120.221042,22.99614583,output/output_0879.jpg,"10 motorcycle, 3 car, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,17,85,120.2210905,22.99614196,output/output_0880.jpg,"12 motorcycle, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,18,90,120.2211391,22.99613809,output/output_0881.jpg,"4 person, 1 stop sign, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,19,95,120.2211877,22.99613422,output/output_0882.jpg,"4 person, 1 stop sign, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,20,100,120.2212362,22.99613036,output/output_0883.jpg,"3 person, 1 stop sign"
+機械系,第一學生活動中心,S,LARGE,21,105,120.2212848,22.99612649,output/output_0884.jpg,"3 person, 1 stop sign"
+機械系,第一學生活動中心,S,LARGE,22,110,120.2213333,22.99612262,output/output_0885.jpg,
+機械系,第一學生活動中心,S,LARGE,23,115,120.2213819,22.99611875,output/output_0886.jpg,"3 person, 2 car, 2 potted plant"
+機械系,第一學生活動中心,S,LARGE,24,120,120.2214305,22.99611488,output/output_0887.jpg,1 car
+機械系,第一學生活動中心,S,LARGE,25,125,120.221479,22.99611101,output/output_0888.jpg,1 car
+機械系,第一學生活動中心,S,LARGE,26,130,120.2215276,22.99610714,output/output_0889.jpg,
+機械系,第一學生活動中心,S,LARGE,27,135,120.2215761,22.99610327,output/output_0890.jpg,
+機械系,第一學生活動中心,S,LARGE,28,140,120.2216247,22.9960994,output/output_0891.jpg,"1 fire hydrant, 1 person"
+機械系,第一學生活動中心,S,LARGE,29,145,120.2216733,22.99609553,output/output_0892.jpg,"1 fire hydrant, 1 person"
+機械系,第一學生活動中心,S,LARGE,30,150,120.2217218,22.99609166,output/output_0893.jpg,1 person
+機械系,第一學生活動中心,S,LARGE,31,155,120.2217704,22.99608779,output/output_0894.jpg,1 person
+機械系,第一學生活動中心,S,LARGE,32,160,120.221819,22.99608414,output/output_0895.jpg,"1 person, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,33,165,120.2218676,22.99608066,output/output_0896.jpg,18 motorcycle
+機械系,第一學生活動中心,S,LARGE,34,170,120.221916,22.99607617,output/output_0897.jpg,"5 car, 1 potted plant, 9 motorcycle"
+機械系,第一學生活動中心,S,LARGE,35,175,120.2219644,22.99607086,output/output_0898.jpg,"5 car, 1 potted plant, 9 motorcycle"
+機械系,第一學生活動中心,S,LARGE,36,180,120.2220129,22.99606618,output/output_0899.jpg,"3 car, 1 person, 19 motorcycle"
+機械系,第一學生活動中心,S,LARGE,37,185,120.2220614,22.99606164,output/output_0900.jpg,"3 car, 1 person, 19 motorcycle"
+機械系,第一學生活動中心,S,LARGE,38,190,120.22211,22.99605883,output/output_0901.jpg,"4 car, 8 motorcycle, 1 person"
+機械系,第一學生活動中心,S,LARGE,39,195,120.2221587,22.99605602,output/output_0902.jpg,"2 car, 13 motorcycle, 1 person, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,40,200,120.2222073,22.9960532,output/output_0903.jpg,"2 car, 13 motorcycle, 1 person, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,41,205,120.222256,22.99605039,output/output_0904.jpg,"2 car, 13 motorcycle, 1 person, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,42,210,120.2223046,22.99604758,output/output_0905.jpg,"16 motorcycle, 2 person, 2 car"
+機械系,第一學生活動中心,S,LARGE,43,215,120.2223533,22.99604476,output/output_0906.jpg,"16 motorcycle, 2 person, 2 car"
+機械系,第一學生活動中心,S,LARGE,44,220,120.2224019,22.99604195,output/output_0907.jpg,"4 car, 2 person, 15 motorcycle, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,45,225,120.2224506,22.99603913,output/output_0908.jpg,"6 car, 8 motorcycle, 8 person, 1 truck"
+機械系,第一學生活動中心,S,LARGE,46,230,120.2224992,22.99603632,output/output_0909.jpg,"1 car, 9 motorcycle, 1 person"
+機械系,第一學生活動中心,S,LARGE,47,235,120.2225478,22.99603351,output/output_0910.jpg,"1 car, 9 motorcycle, 1 person"
+機械系,第一學生活動中心,S,LARGE,48,240,120.2225965,22.99603069,output/output_0911.jpg,"1 truck, 8 motorcycle, 1 person, 4 car"
+機械系,第一學生活動中心,S,LARGE,49,245,120.2226451,22.99602788,output/output_0912.jpg,"1 truck, 1 fire hydrant, 6 motorcycle, 2 person, 1 car"
+機械系,第一學生活動中心,S,LARGE,50,250,120.2226938,22.99602507,output/output_0913.jpg,"1 truck, 1 fire hydrant, 6 motorcycle, 2 person, 1 car"
+機械系,第一學生活動中心,S,LARGE,51,255,120.2227424,22.99602243,output/output_0914.jpg,"2 car, 13 motorcycle, 1 clock"
+機械系,第一學生活動中心,S,LARGE,52,260,120.2227911,22.99601995,output/output_0915.jpg,"2 car, 13 motorcycle, 1 clock"
+機械系,第一學生活動中心,S,LARGE,53,265,120.2228006,22.99605997,output/output_0916.jpg,"12 motorcycle, 1 car, 1 clock, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,54,270,120.2228057,22.99610484,output/output_0917.jpg,"12 motorcycle, 1 car, 1 clock, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,55,275,120.2228108,22.99614972,output/output_0918.jpg,"13 motorcycle, 1 potted plant"
+機械系,第一學生活動中心,S,LARGE,56,280,120.2228159,22.9961946,output/output_0919.jpg,"13 motorcycle, 1 potted plant"
+機械系,第一學生活動中心,S,LARGE,57,285,120.222852,22.99620485,output/output_0920.jpg,"13 motorcycle, 1 potted plant"
+機械系,第一學生活動中心,S,LARGE,58,290,120.2229006,22.99620128,output/output_0921.jpg,"1 car, 5 motorcycle, 1 person"
+機械系,第一學生活動中心,S,LARGE,59,295,120.2229492,22.99619772,output/output_0922.jpg,"1 car, 5 motorcycle, 1 person"
+機械系,第一學生活動中心,S,LARGE,60,300,120.2229978,22.99619415,output/output_0923.jpg,"3 car, 5 person, 1 traffic light, 3 bicycle, 4 motorcycle"
+機械系,第一學生活動中心,S,LARGE,61,305,120.2230464,22.99619058,output/output_0924.jpg,"3 car, 5 person, 1 traffic light, 3 bicycle, 4 motorcycle"
+機械系,第一學生活動中心,S,LARGE,62,310,120.223095,22.99618702,output/output_0925.jpg,"3 car, 6 motorcycle, 6 person, 1 traffic light, 1 potted plant"
+機械系,第一學生活動中心,S,LARGE,63,315,120.2231435,22.99618345,output/output_0926.jpg,"3 car, 6 motorcycle, 6 person, 1 traffic light, 1 potted plant"
+機械系,第一學生活動中心,S,LARGE,64,320,120.2231921,22.99617989,output/output_0927.jpg,"5 car, 2 person, 2 motorcycle"
+機械系,第一學生活動中心,S,LARGE,65,325,120.2232407,22.99617632,output/output_0928.jpg,"2 car, 6 motorcycle, 5 person, 1 bench"
+機械系,第一學生活動中心,S,LARGE,66,330,120.2232475,22.99621831,output/output_0929.jpg,"1 car, 5 motorcycle, 5 person, 1 bench, 1 traffic light"
+機械系,第一學生活動中心,S,LARGE,67,335,120.2232514,22.99626328,output/output_0930.jpg,"1 car, 6 motorcycle, 5 person, 1 bench"
+機械系,第一學生活動中心,S,LARGE,68,340,120.2232554,22.99630825,output/output_0931.jpg,"12 person, 2 motorcycle"
+機械系,第一學生活動中心,S,LARGE,69,345,120.2232594,22.99635322,output/output_0932.jpg,"13 person, 2 motorcycle"
+機械系,第一學生活動中心,S,LARGE,70,350,120.2232634,22.99639819,output/output_0933.jpg,"3 motorcycle, 1 person, 1 car, 12 bicycle"
+機械系,第一學生活動中心,S,LARGE,71,355,120.2232674,22.99644317,output/output_0934.jpg,"1 car, 3 motorcycle, 2 person, 9 bicycle"
+機械系,第一學生活動中心,S,LARGE,72,360,120.2232714,22.99648814,output/output_0935.jpg,"1 car, 3 motorcycle, 2 person, 9 bicycle"
+機械系,第一學生活動中心,S,LARGE,73,365,120.2232754,22.99653311,output/output_0936.jpg,"1 car, 1 person, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,74,370,120.2232793,22.99657808,output/output_0937.jpg,"1 car, 1 person, 1 bicycle"
+機械系,第一學生活動中心,S,LARGE,75,375,120.2232833,22.99662305,output/output_0938.jpg,"1 person, 1 bicycle, 1 car"
+機械系,第一學生活動中心,S,LARGE,76,380,120.2232873,22.99666802,output/output_0939.jpg,"1 person, 1 bicycle, 1 car"
+機械系,第一學生活動中心,S,LARGE,77,385,120.2232913,22.99671299,output/output_0940.jpg,1 car
+機械系,第一學生活動中心,S,LARGE,78,390,120.2232953,22.99675796,output/output_0941.jpg,1 car
+醫學院,太子學舍,S,LARGE,0,0,120.2187595,22.994976,output/output_0942.jpg,1 car
+醫學院,太子學舍,S,LARGE,1,5,120.2188082,22.99497375,output/output_0943.jpg,"1 car, 2 bicycle, 4 motorcycle"
+醫學院,太子學舍,S,LARGE,2,10,120.2188569,22.9949715,output/output_0944.jpg,"1 car, 2 bicycle, 4 motorcycle"
+醫學院,太子學舍,S,LARGE,3,15,120.2189055,22.99496925,output/output_0945.jpg,1 car
+醫學院,太子學舍,S,LARGE,4,20,120.2189542,22.994967,output/output_0946.jpg,"6 car, 3 traffic light, 5 motorcycle"
+醫學院,太子學舍,S,LARGE,5,25,120.2189998,22.99496794,output/output_0947.jpg,"5 car, 3 traffic light, 6 motorcycle"
+醫學院,太子學舍,S,LARGE,6,30,120.219003,22.99501297,output/output_0948.jpg,"4 car, 9 motorcycle, 3 traffic light"
+醫學院,太子學舍,S,LARGE,7,35,120.2190063,22.99505799,output/output_0949.jpg,1 truck
+醫學院,太子學舍,S,LARGE,8,40,120.2190095,22.99510301,output/output_0950.jpg,"3 person, 2 motorcycle"
+醫學院,太子學舍,S,LARGE,9,45,120.2190127,22.99514803,output/output_0951.jpg,"1 car, 1 truck"
+醫學院,太子學舍,S,LARGE,10,50,120.219016,22.99519306,output/output_0952.jpg,1 car
+醫學院,太子學舍,S,LARGE,11,55,120.2190192,22.99523808,output/output_0953.jpg,"2 person, 1 bicycle"
+醫學院,太子學舍,S,LARGE,12,60,120.2190224,22.9952831,output/output_0954.jpg,1 motorcycle
+醫學院,太子學舍,S,LARGE,13,65,120.2190256,22.99532813,output/output_0955.jpg,
+醫學院,太子學舍,S,LARGE,14,70,120.2190289,22.99537315,output/output_0956.jpg,
+醫學院,太子學舍,S,LARGE,15,75,120.2190321,22.99541817,output/output_0957.jpg,2 bicycle
+醫學院,太子學舍,S,LARGE,16,80,120.2190353,22.99546319,output/output_0958.jpg,2 bicycle
+醫學院,太子學舍,S,LARGE,17,85,120.2190386,22.99550822,output/output_0959.jpg,1 person
+醫學院,太子學舍,S,LARGE,18,90,120.2190418,22.99555324,output/output_0960.jpg,1 person
+醫學院,太子學舍,S,LARGE,19,95,120.219045,22.99559826,output/output_0961.jpg,3 person
+醫學院,太子學舍,S,LARGE,20,100,120.2190483,22.99564328,output/output_0962.jpg,
+醫學院,太子學舍,S,LARGE,21,105,120.2190515,22.99568831,output/output_0963.jpg,
+醫學院,太子學舍,S,LARGE,22,110,120.2190547,22.99573333,output/output_0964.jpg,
+醫學院,太子學舍,S,LARGE,23,115,120.219058,22.99577835,output/output_0965.jpg,
+醫學院,太子學舍,S,LARGE,24,120,120.2190612,22.99582337,output/output_0966.jpg,
+醫學院,太子學舍,S,LARGE,25,125,120.2190645,22.99586839,output/output_0967.jpg,
+醫學院,太子學舍,S,LARGE,26,130,120.2190677,22.99591342,output/output_0968.jpg,"1 person, 3 car"
+醫學院,太子學舍,S,LARGE,27,135,120.2190709,22.99595844,output/output_0969.jpg,"1 person, 3 car"
+醫學院,太子學舍,S,LARGE,28,140,120.2190742,22.99600346,output/output_0970.jpg,"1 person, 2 car"
+醫學院,太子學舍,S,LARGE,29,145,120.2190774,22.99604848,output/output_0971.jpg,"1 person, 2 car"
+醫學院,太子學舍,S,LARGE,30,150,120.2190807,22.9960935,output/output_0972.jpg,
+醫學院,太子學舍,S,LARGE,31,155,120.2190838,22.99613853,output/output_0973.jpg,
+醫學院,太子學舍,S,LARGE,32,160,120.2190976,22.99617195,output/output_0974.jpg,
+醫學院,太子學舍,S,LARGE,33,165,120.2191462,22.99616838,output/output_0975.jpg,"1 person, 11 bicycle, 1 backpack"
+醫學院,太子學舍,S,LARGE,34,170,120.2191948,22.99616482,output/output_0976.jpg,"2 car, 1 person"
+醫學院,太子學舍,S,LARGE,35,175,120.2192434,22.99616125,output/output_0977.jpg,"4 car, 1 person, 1 bicycle, 1 backpack"
+醫學院,太子學舍,S,LARGE,36,180,120.219292,22.99615769,output/output_0978.jpg,"4 car, 1 person, 1 bicycle, 1 backpack"
+醫學院,太子學舍,S,LARGE,37,185,120.2193406,22.99615412,output/output_0979.jpg,"4 car, 1 person, 1 bicycle, 1 backpack"
+醫學院,太子學舍,S,LARGE,38,190,120.2193891,22.99615055,output/output_0980.jpg,2 car
+醫學院,太子學舍,S,LARGE,39,195,120.2194377,22.99614699,output/output_0981.jpg,
+醫學院,太子學舍,S,LARGE,40,200,120.2194863,22.99614342,output/output_0982.jpg,
+醫學院,太子學舍,S,LARGE,41,205,120.2195349,22.99613986,output/output_0983.jpg,
+醫學院,太子學舍,S,LARGE,42,210,120.2195835,22.99613629,output/output_0984.jpg,
+醫學院,太子學舍,S,LARGE,43,215,120.2196321,22.99613273,output/output_0985.jpg,1 clock
+醫學院,太子學舍,S,LARGE,44,220,120.2196807,22.99612916,output/output_0986.jpg,1 clock
+醫學院,太子學舍,S,LARGE,45,225,120.2197292,22.9961256,output/output_0987.jpg,1 person
+醫學院,太子學舍,S,LARGE,46,230,120.2197778,22.99612203,output/output_0988.jpg,1 person
+醫學院,太子學舍,S,LARGE,47,235,120.2198264,22.99611847,output/output_0989.jpg,2 person
+醫學院,太子學舍,S,LARGE,48,240,120.219875,22.9961149,output/output_0990.jpg,2 person
+醫學院,太子學舍,S,LARGE,49,245,120.2199236,22.99611133,output/output_0991.jpg,"2 person, 1 backpack"
+醫學院,太子學舍,S,LARGE,50,250,120.2199722,22.99610777,output/output_0992.jpg,2 person
+醫學院,太子學舍,S,LARGE,51,255,120.2200208,22.9961042,output/output_0993.jpg,2 person
+醫學院,太子學舍,S,LARGE,52,260,120.2200694,22.99610064,output/output_0994.jpg,
+醫學院,太子學舍,S,LARGE,53,265,120.2201179,22.99609708,output/output_0995.jpg,1 person
+醫學院,太子學舍,S,LARGE,54,270,120.2201665,22.99609353,output/output_0996.jpg,3 bicycle
+醫學院,太子學舍,S,LARGE,55,275,120.2201899,22.99611764,output/output_0997.jpg,"1 person, 1 train, 1 bench"
+醫學院,太子學舍,S,LARGE,56,280,120.2201942,22.99616258,output/output_0998.jpg,"1 person, 1 train, 1 bench"
+醫學院,太子學舍,S,LARGE,57,285,120.2203813,22.99832148,output/output_0999.jpg,"6 bicycle, 1 person"
+醫學院,太子學舍,S,LARGE,58,290,120.2204571,22.99922119,output/output_1000.jpg,"6 bicycle, 1 person"
+醫學院,太子學舍,S,LARGE,59,295,120.2204609,22.99926618,output/output_1001.jpg,"6 bicycle, 1 person"
+醫學院,太子學舍,S,LARGE,60,300,120.2204646,22.99931116,output/output_1002.jpg,"9 bicycle, 5 car, 1 person"
+醫學院,太子學舍,S,LARGE,61,305,120.2204684,22.99935615,output/output_1003.jpg,"4 car, 7 bicycle, 2 person"
+工程系/化工系,太子學舍,S,LARGE,0,0,120.2202151,22.99608995,output/output_1004.jpg,"4 car, 7 bicycle, 2 person"
+工程系/化工系,太子學舍,S,LARGE,1,5,120.2202637,22.99608636,output/output_1005.jpg,"9 motorcycle, 2 car"
+工程系/化工系,太子學舍,S,LARGE,2,10,120.2203123,22.99608277,output/output_1006.jpg,"7 motorcycle, 3 car, 1 truck"
+工程系/化工系,太子學舍,S,LARGE,3,15,120.2203609,22.9960792,output/output_1007.jpg,"1 truck, 14 motorcycle, 5 car"
+工程系/化工系,太子學舍,S,LARGE,4,20,120.2204095,22.99607609,output/output_1008.jpg,"3 car, 12 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,5,25,120.2204581,22.99607297,output/output_1009.jpg,"3 car, 12 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,6,30,120.2205067,22.99606986,output/output_1010.jpg,"1 car, 13 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,7,35,120.2205554,22.99606675,output/output_1011.jpg,"1 car, 13 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,8,40,120.220604,22.99606364,output/output_1012.jpg,"3 person, 2 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,9,45,120.2206526,22.99606052,output/output_1013.jpg,"3 person, 2 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,10,50,120.2207012,22.99605741,output/output_1014.jpg,"1 person, 1 traffic light, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,11,55,120.2207499,22.9960543,output/output_1015.jpg,"1 person, 1 traffic light, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,12,60,120.2207985,22.99605118,output/output_1016.jpg,"4 person, 3 car, 5 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,13,65,120.2208471,22.99604807,output/output_1017.jpg,"1 person, 1 traffic light, 7 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,14,70,120.2208957,22.99604498,output/output_1018.jpg,"3 person, 18 motorcycle, 1 traffic light, 1 car"
+工程系/化工系,太子學舍,S,LARGE,15,75,120.2209443,22.99604189,output/output_1019.jpg,"3 person, 18 motorcycle, 1 traffic light, 1 car"
+工程系/化工系,太子學舍,S,LARGE,16,80,120.220993,22.99603881,output/output_1020.jpg,"22 motorcycle, 1 truck"
+工程系/化工系,太子學舍,S,LARGE,17,85,120.2210416,22.99603607,output/output_1021.jpg,"22 motorcycle, 1 truck"
+工程系/化工系,太子學舍,S,LARGE,18,90,120.2210903,22.99603371,output/output_1022.jpg,"1 person, 12 motorcycle, 2 truck, 1 traffic light"
+工程系/化工系,太子學舍,S,LARGE,19,95,120.221139,22.99603135,output/output_1023.jpg,"1 person, 12 motorcycle, 2 truck, 1 traffic light"
+工程系/化工系,太子學舍,S,LARGE,20,100,120.2211876,22.99602899,output/output_1024.jpg,"4 person, 3 motorcycle, 1 car, 1 traffic light"
+工程系/化工系,太子學舍,S,LARGE,21,105,120.2212363,22.99602663,output/output_1025.jpg,"4 person, 3 motorcycle, 1 car, 1 traffic light"
+工程系/化工系,太子學舍,S,LARGE,22,110,120.221285,22.99602427,output/output_1026.jpg,"15 motorcycle, 2 person, 1 car"
+工程系/化工系,太子學舍,S,LARGE,23,115,120.2213337,22.99602191,output/output_1027.jpg,"2 car, 13 motorcycle, 2 person, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,24,120,120.2213823,22.99601955,output/output_1028.jpg,
+工程系/化工系,太子學舍,S,LARGE,25,125,120.221431,22.99601719,output/output_1029.jpg,"4 car, 11 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,26,130,120.2214797,22.99601483,output/output_1030.jpg,"1 person, 2 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,27,135,120.2215283,22.99601247,output/output_1031.jpg,"1 person, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,28,140,120.221577,22.9960101,output/output_1032.jpg,
+工程系/化工系,太子學舍,S,LARGE,29,145,120.2216257,22.99600774,output/output_1033.jpg,
+工程系/化工系,太子學舍,S,LARGE,30,150,120.2216744,22.99600538,output/output_1034.jpg,
+工程系/化工系,太子學舍,S,LARGE,31,155,120.221723,22.99600302,output/output_1035.jpg,"9 bicycle, 6 car, 1 person"
+工程系/化工系,太子學舍,S,LARGE,32,160,120.2217717,22.99600066,output/output_1036.jpg,"7 bicycle, 5 car"
+工程系/化工系,太子學舍,S,LARGE,33,165,120.2218203,22.99599774,output/output_1037.jpg,19 motorcycle
+工程系/化工系,太子學舍,S,LARGE,34,170,120.221869,22.99599463,output/output_1038.jpg,"13 motorcycle, 5 car, 1 person"
+工程系/化工系,太子學舍,S,LARGE,35,175,120.2219175,22.99599086,output/output_1039.jpg,"4 car, 2 potted plant, 10 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,36,180,120.221961,22.99599237,output/output_1040.jpg,"5 car, 1 potted plant, 12 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,37,185,120.2219649,22.99603735,output/output_1041.jpg,"2 person, 2 car, 1 potted plant, 3 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,38,190,120.2228204,22.99625448,output/output_1042.jpg,"4 car, 10 motorcycle, 1 person"
+工程系/化工系,太子學舍,S,LARGE,39,195,120.2228234,22.99629951,output/output_1043.jpg,"4 car, 10 motorcycle, 1 person"
+工程系/化工系,太子學舍,S,LARGE,40,200,120.2228264,22.99634455,output/output_1044.jpg,"2 car, 10 motorcycle, 1 person, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,41,205,120.2228294,22.99638959,output/output_1045.jpg,"2 car, 10 motorcycle, 1 person, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,42,210,120.2228323,22.99643463,output/output_1046.jpg,"2 person, 17 motorcycle, 2 car"
+工程系/化工系,太子學舍,S,LARGE,43,215,120.2228353,22.99647966,output/output_1047.jpg,"2 person, 17 motorcycle, 2 car"
+工程系/化工系,太子學舍,S,LARGE,44,220,120.2228383,22.9965247,output/output_1048.jpg,"3 car, 2 person, 14 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,45,225,120.2228413,22.99656974,output/output_1049.jpg,"3 car, 2 person, 14 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,46,230,120.2228443,22.99661478,output/output_1050.jpg,"6 car, 7 motorcycle, 8 person, 1 truck"
+工程系/化工系,太子學舍,S,LARGE,47,235,120.2228473,22.99665981,output/output_1051.jpg,"1 car, 11 motorcycle, 1 truck, 1 person"
+工程系/化工系,太子學舍,S,LARGE,48,240,120.2228502,22.99670485,output/output_1052.jpg,"1 truck, 7 motorcycle, 4 car, 1 fire hydrant"
+工程系/化工系,太子學舍,S,LARGE,49,245,120.2228532,22.99674989,output/output_1053.jpg,"1 truck, 7 motorcycle, 4 car, 1 fire hydrant"
+工程系/化工系,太子學舍,S,LARGE,50,250,120.2228562,22.99679493,output/output_1054.jpg,"1 truck, 1 fire hydrant, 7 motorcycle, 2 person, 1 car"
+工程系/化工系,太子學舍,S,LARGE,51,255,120.2228592,22.99683996,output/output_1055.jpg,"1 truck, 1 fire hydrant, 1 person, 10 motorcycle, 1 car"
+工程系/化工系,太子學舍,S,LARGE,52,260,120.2228622,22.996885,output/output_1056.jpg,"2 car, 11 motorcycle, 2 clock, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,53,265,120.2228652,22.99693004,output/output_1057.jpg,"2 car, 11 motorcycle, 2 clock, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,54,270,120.2228681,22.99697508,output/output_1058.jpg,"12 motorcycle, 1 car, 2 clock, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,55,275,120.2228711,22.99702011,output/output_1059.jpg,"12 motorcycle, 1 car, 2 clock, 1 bicycle"
+工程系/化工系,太子學舍,S,LARGE,56,280,120.2228741,22.99706515,output/output_1060.jpg,"1 potted plant, 2 car, 12 motorcycle, 2 bicycle, 1 person"
+工程系/化工系,太子學舍,S,LARGE,57,285,120.2228771,22.99711019,output/output_1061.jpg,"1 potted plant, 2 car, 12 motorcycle, 2 bicycle, 1 person"
+工程系/化工系,太子學舍,S,LARGE,58,290,120.2228801,22.99715523,output/output_1062.jpg,"1 car, 3 motorcycle, 1 truck"
+工程系/化工系,太子學舍,S,LARGE,59,295,120.222883,22.99720026,output/output_1063.jpg,"1 car, 3 motorcycle, 1 truck"
+工程系/化工系,太子學舍,S,LARGE,60,300,120.222886,22.9972453,output/output_1064.jpg,"1 car, 3 motorcycle, 1 truck"
+工程系/化工系,太子學舍,S,LARGE,61,305,120.222889,22.99729034,output/output_1065.jpg,"4 car, 3 bicycle, 3 person, 7 motorcycle, 1 traffic light"
+工程系/化工系,太子學舍,S,LARGE,62,310,120.222892,22.99733538,output/output_1066.jpg,"4 car, 3 bicycle, 3 person, 7 motorcycle, 1 traffic light"
+工程系/化工系,太子學舍,S,LARGE,63,315,120.222895,22.99738041,output/output_1067.jpg,"4 car, 8 motorcycle, 8 person, 1 traffic light, 3 potted plant"
+工程系/化工系,太子學舍,S,LARGE,64,320,120.222898,22.99742545,output/output_1068.jpg,"4 car, 8 motorcycle, 8 person, 1 traffic light, 3 potted plant"
+工程系/化工系,太子學舍,S,LARGE,65,325,120.2229009,22.99747049,output/output_1069.jpg,"5 car, 6 person, 2 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,66,330,120.2229039,22.99751553,output/output_1070.jpg,"4 car, 3 person, 1 motorcycle"
+工程系/化工系,太子學舍,S,LARGE,67,335,120.2229069,22.99756056,output/output_1071.jpg,"4 person, 3 motorcycle, 1 bicycle, 1 traffic light"
+工程系/化工系,太子學舍,S,LARGE,68,340,120.2229099,22.9976056,output/output_1072.jpg,"3 person, 1 bicycle, 1 traffic light, 1 motorcycle, 1 car"
+工程系/化工系,太子學舍,S,LARGE,69,345,120.2229129,22.99765064,output/output_1073.jpg,"5 motorcycle, 12 person, 1 car"
+醫學院,成功廳,S,LARGE,0,0,120.2153114,22.9978088,output/output_1074.jpg,"5 car, 9 person, 1 truck, 2 motorcycle, 1 traffic light"
+醫學院,成功廳,S,LARGE,1,5,120.2153201,22.9978532,output/output_1075.jpg,"2 person, 1 motorcycle, 2 bicycle"
+醫學院,成功廳,S,LARGE,2,10,120.2153287,22.99789761,output/output_1076.jpg,"1 person, 1 car"
+醫學院,成功廳,S,LARGE,3,15,120.2153374,22.99794201,output/output_1077.jpg,"1 fire hydrant, 1 car"
+醫學院,成功廳,S,LARGE,4,20,120.2153461,22.99798641,output/output_1078.jpg,"1 fire hydrant, 1 car"
+醫學院,成功廳,S,LARGE,5,25,120.2153547,22.99803082,output/output_1079.jpg,
+醫學院,成功廳,S,LARGE,6,30,120.2153634,22.99807522,output/output_1080.jpg,
+醫學院,成功廳,S,LARGE,7,35,120.215372,22.99811962,output/output_1081.jpg,1 person
+醫學院,成功廳,S,LARGE,8,40,120.2153807,22.99816403,output/output_1082.jpg,
+醫學院,成功廳,S,LARGE,9,45,120.2153894,22.99820843,output/output_1083.jpg,1 car
+醫學院,成功廳,S,LARGE,10,50,120.215398,22.99825283,output/output_1084.jpg,"1 car, 1 potted plant"
+醫學院,成功廳,S,LARGE,11,55,120.2154067,22.99829724,output/output_1085.jpg,"1 car, 1 potted plant"
+醫學院,成功廳,S,LARGE,12,60,120.2154154,22.99834164,output/output_1086.jpg,"1 car, 1 potted plant"
+醫學院,成功廳,S,LARGE,13,65,120.2154028,22.99838455,output/output_1087.jpg,1 car
+醫學院,成功廳,S,LARGE,14,70,120.2153958,22.99842883,output/output_1088.jpg,1 car
+醫學院,成功廳,S,LARGE,15,75,120.2153932,22.99847388,output/output_1089.jpg,1 car
+醫學院,成功廳,S,LARGE,16,80,120.2153906,22.99851894,output/output_1090.jpg,1 car
+醫學院,成功廳,S,LARGE,17,85,120.215388,22.998564,output/output_1091.jpg,1 car
+醫學院,成功廳,S,LARGE,18,90,120.2153854,22.99860906,output/output_1092.jpg,"1 car, 1 bicycle"
+醫學院,成功廳,S,LARGE,19,95,120.2153828,22.99865411,output/output_1093.jpg,1 car
+醫學院,成功廳,S,LARGE,20,100,120.2153802,22.99869917,output/output_1094.jpg,2 car
+醫學院,成功廳,S,LARGE,21,105,120.2153776,22.99874423,output/output_1095.jpg,2 car
+醫學院,成功廳,S,LARGE,22,110,120.2153749,22.99878928,output/output_1096.jpg,3 car
+醫學院,成功廳,S,LARGE,23,115,120.2153723,22.99883434,output/output_1097.jpg,"3 car, 2 person"
+醫學院,成功廳,S,LARGE,24,120,120.2153697,22.9988794,output/output_1098.jpg,
+醫學院,成功廳,S,LARGE,25,125,120.216582,22.99879351,output/output_1099.jpg,
+醫學院,成功廳,S,LARGE,26,130,120.2165915,22.99883777,output/output_1100.jpg,
+醫學院,成功廳,S,LARGE,27,135,120.216601,22.99888203,output/output_1101.jpg,1 person
+醫學院,成功廳,S,LARGE,28,140,120.2166104,22.99892629,output/output_1102.jpg,1 person
+醫學院,成功廳,S,LARGE,29,145,120.2166199,22.99897056,output/output_1103.jpg,1 car
+醫學院,成功廳,S,LARGE,30,150,120.2166294,22.99901482,output/output_1104.jpg,1 stop sign
+醫學院,成功廳,S,LARGE,31,155,120.2166388,22.99905908,output/output_1105.jpg,1 person
+醫學院,成功廳,S,LARGE,32,160,120.2166483,22.99910335,output/output_1106.jpg,1 person
+醫學院,成功廳,S,LARGE,33,165,120.2166578,22.99914761,output/output_1107.jpg,
+醫學院,成功廳,S,LARGE,34,170,120.2166672,22.99919187,output/output_1108.jpg,"9 car, 2 person"
+醫學院,成功廳,S,LARGE,35,175,120.2166767,22.99923614,output/output_1109.jpg,"9 car, 2 person"
+醫學院,成功廳,S,LARGE,36,180,120.2166861,22.9992804,output/output_1110.jpg,11 car
+醫學院,成功廳,S,LARGE,37,185,120.2167166,22.99941279,output/output_1111.jpg,11 car
+醫學院,成功廳,S,LARGE,38,190,120.2167264,22.99945693,output/output_1112.jpg,"9 car, 1 truck"
+醫學院,成功廳,S,LARGE,39,195,120.2167298,22.99950194,output/output_1113.jpg,"9 car, 1 truck"
+醫學院,成功廳,S,LARGE,40,200,120.2167332,22.99954695,output/output_1114.jpg,"9 car, 1 truck"
+醫學院,成功廳,S,LARGE,41,205,120.2167366,22.99959196,output/output_1115.jpg,2 car
+醫學院,成功廳,S,LARGE,42,210,120.21674,22.99963697,output/output_1116.jpg,2 car
+醫學院,成功廳,S,LARGE,43,215,120.2167434,22.99968198,output/output_1117.jpg,2 car
+醫學院,成功廳,S,LARGE,44,220,120.2167468,22.99972699,output/output_1118.jpg,1 car
+醫學院,成功廳,S,LARGE,45,225,120.2167502,22.99977201,output/output_1119.jpg,1 car
+資工系,成功廳,S,LARGE,0,0,120.2153048,22.99776409,output/output_1120.jpg,1 bicycle
+資工系,成功廳,S,LARGE,1,5,120.2152983,22.99771938,output/output_1121.jpg,1 bicycle
+資工系,成功廳,S,LARGE,2,10,120.2152917,22.99767467,output/output_1122.jpg,1 bicycle
+資工系,成功廳,S,LARGE,3,15,120.2152851,22.99762996,output/output_1123.jpg,"1 person, 1 car"
+資工系,成功廳,S,LARGE,4,20,120.2152786,22.99758525,output/output_1124.jpg,"1 person, 1 car"
+資工系,成功廳,S,LARGE,5,25,120.2153023,22.99755922,output/output_1125.jpg,"1 person, 3 car, 1 bicycle"
+資工系,成功廳,S,LARGE,6,30,120.2153494,22.99754758,output/output_1126.jpg,"1 person, 3 car, 1 bicycle"
+資工系,成功廳,S,LARGE,7,35,120.2153965,22.99753594,output/output_1127.jpg,"1 person, 3 car, 1 bicycle"
+資工系,成功廳,S,LARGE,8,40,120.2154436,22.9975243,output/output_1128.jpg,"2 car, 1 bicycle"
+資工系,成功廳,S,LARGE,9,45,120.2154907,22.99751266,output/output_1129.jpg,"2 car, 1 bicycle"
+資工系,成功廳,S,LARGE,10,50,120.2155378,22.99750102,output/output_1130.jpg,"2 car, 1 bicycle"
+資工系,成功廳,S,LARGE,11,55,120.2155848,22.99748938,output/output_1131.jpg,"2 car, 1 bicycle"
+資工系,成功廳,S,LARGE,12,60,120.2156319,22.99747774,output/output_1132.jpg,
+資工系,成功廳,S,LARGE,13,65,120.215679,22.99746609,output/output_1133.jpg,"13 car, 1 stop sign"
+資工系,成功廳,S,LARGE,14,70,120.2157261,22.99745445,output/output_1134.jpg,"10 car, 1 person"
+資工系,成功廳,S,LARGE,15,75,120.2157732,22.99744281,output/output_1135.jpg,"10 car, 1 person"
+資工系,成功廳,S,LARGE,16,80,120.2158203,22.99743117,output/output_1136.jpg,12 car
+資工系,成功廳,S,LARGE,17,85,120.2158682,22.99742277,output/output_1137.jpg,12 car
+資工系,成功廳,S,LARGE,18,90,120.2159161,22.99741458,output/output_1138.jpg,10 car
+資工系,成功廳,S,LARGE,19,95,120.215964,22.99740638,output/output_1139.jpg,10 car
+資工系,成功廳,S,LARGE,20,100,120.216012,22.99739818,output/output_1140.jpg,10 car
+資工系,成功廳,S,LARGE,21,105,120.2160599,22.99738999,output/output_1141.jpg,9 car
+工程系/化工系,成功廳,S,LARGE,0,0,120.2154775,22.99838362,output/output_1142.jpg,9 car
+工程系/化工系,成功廳,S,LARGE,1,5,120.2155253,22.99837472,output/output_1143.jpg,9 car
+工程系/化工系,成功廳,S,LARGE,2,10,120.2155731,22.99836583,output/output_1144.jpg,"6 person, 1 bench"
+工程系/化工系,成功廳,S,LARGE,3,15,120.2156209,22.99835694,output/output_1145.jpg,"7 person, 1 bicycle"
+工程系/化工系,成功廳,S,LARGE,4,20,120.2156687,22.99834804,output/output_1146.jpg,"7 car, 1 person"
+工程系/化工系,成功廳,S,LARGE,5,25,120.2157165,22.9983394,output/output_1147.jpg,"2 car, 2 bicycle, 1 person, 1 motorcycle"
+工程系/化工系,成功廳,S,LARGE,6,30,120.2157644,22.99833082,output/output_1148.jpg,"1 car, 1 bicycle, 1 person"
+工程系/化工系,成功廳,S,LARGE,7,35,120.2158122,22.99832223,output/output_1149.jpg,"1 car, 1 bicycle, 1 person"
+工程系/化工系,成功廳,S,LARGE,8,40,120.2158601,22.99831365,output/output_1150.jpg,"2 car, 1 bicycle"
+工程系/化工系,成功廳,S,LARGE,9,45,120.2159079,22.99830507,output/output_1151.jpg,
+工程系/化工系,成功廳,S,LARGE,10,50,120.2159558,22.99829647,output/output_1152.jpg,
+工程系/化工系,成功廳,S,LARGE,11,55,120.2160036,22.99828784,output/output_1153.jpg,2 person
+工程系/化工系,成功廳,S,LARGE,12,60,120.2160513,22.99827848,output/output_1154.jpg,
+工程系/化工系,成功廳,S,LARGE,13,65,120.2160989,22.99826868,output/output_1155.jpg,"7 person, 8 bicycle"
+工程系/化工系,成功廳,S,LARGE,14,70,120.2161464,22.99825887,output/output_1156.jpg,"7 person, 8 bicycle"
+工程系/化工系,成功廳,S,LARGE,15,75,120.216194,22.99824906,output/output_1157.jpg,"9 person, 16 bicycle"
+工程系/化工系,成功廳,S,LARGE,16,80,120.2162416,22.99823928,output/output_1158.jpg,"3 person, 10 bicycle"
+工程系/化工系,成功廳,S,LARGE,17,85,120.2162894,22.99823052,output/output_1159.jpg,"6 bicycle, 3 person"
+工程系/化工系,成功廳,S,LARGE,18,90,120.2163372,22.99822176,output/output_1160.jpg,"4 person, 9 bicycle"
+工程系/化工系,成功廳,S,LARGE,19,95,120.216385,22.998213,output/output_1161.jpg,"4 person, 9 bicycle"
+工程系/化工系,成功廳,S,LARGE,20,100,120.2164328,22.99820424,output/output_1162.jpg,"4 person, 9 bicycle"
+工程系/化工系,成功廳,S,LARGE,21,105,120.2164806,22.99819548,output/output_1163.jpg,"4 person, 9 bicycle"
+工程系/化工系,成功廳,S,LARGE,22,110,120.2165285,22.99818673,output/output_1164.jpg,"4 person, 9 bicycle"
+工程系/化工系,成功廳,S,LARGE,23,115,120.2165763,22.99817797,output/output_1165.jpg,9 bicycle
+工程系/化工系,成功廳,S,LARGE,24,120,120.2166241,22.99816921,output/output_1166.jpg,9 bicycle
+工程系/化工系,成功廳,S,LARGE,25,125,120.2166719,22.99816045,output/output_1167.jpg,6 bicycle
+工程系/化工系,成功廳,S,LARGE,26,130,120.2167197,22.99815169,output/output_1168.jpg,6 bicycle
+工程系/化工系,成功廳,S,LARGE,27,135,120.2167675,22.99814293,output/output_1169.jpg,"6 bicycle, 4 person"
+工程系/化工系,成功廳,S,LARGE,28,140,120.2168153,22.99813417,output/output_1170.jpg,"6 bicycle, 4 person"
+工程系/化工系,成功廳,S,LARGE,29,145,120.2168631,22.99812541,output/output_1171.jpg,5 bicycle
+工程系/化工系,成功廳,S,LARGE,30,150,120.216911,22.99811665,output/output_1172.jpg,"9 bicycle, 1 person"
+工程系/化工系,成功廳,S,LARGE,31,155,120.2169588,22.99810789,output/output_1173.jpg,"9 bicycle, 1 person"
+工程系/化工系,成功廳,S,LARGE,32,160,120.2179306,22.99846886,output/output_1174.jpg,"9 bicycle, 1 person"
+醫學院,成大醫院,S,LARGE,0,0,120.2190496,23.0022108,output/output_1175.jpg,1 bicycle
+醫學院,成大醫院,S,LARGE,1,5,120.2190235,23.00219163,output/output_1176.jpg,
+醫學院,成大醫院,S,LARGE,2,10,120.2190201,23.00214662,output/output_1177.jpg,
+醫學院,成大醫院,S,LARGE,3,15,120.2190168,23.00210161,output/output_1178.jpg,3 car
+醫學院,成大醫院,S,LARGE,4,20,120.2190134,23.00205659,output/output_1179.jpg,3 car
+醫學院,成大醫院,S,LARGE,5,25,120.21901,23.00201158,output/output_1180.jpg,7 car
+醫學院,成大醫院,S,LARGE,6,30,120.2189766,23.00198596,output/output_1181.jpg,8 car
+醫學院,成大醫院,S,LARGE,7,35,120.2189321,23.00196744,output/output_1182.jpg,8 car
+醫學院,成大醫院,S,LARGE,8,40,120.2188877,23.00194893,output/output_1183.jpg,3 car
+醫學院,成大醫院,S,LARGE,9,45,120.2188432,23.00193042,output/output_1184.jpg,3 car
+醫學院,成大醫院,S,LARGE,10,50,120.2187988,23.00191191,output/output_1185.jpg,3 car
+醫學院,成大醫院,S,LARGE,11,55,120.2187543,23.0018934,output/output_1186.jpg,1 car
+醫學院,成大醫院,S,LARGE,12,60,120.2187239,23.00186597,output/output_1187.jpg,
+醫學院,成大醫院,S,LARGE,13,65,120.2187214,23.00182091,output/output_1188.jpg,1 stop sign
+醫學院,成大醫院,S,LARGE,14,70,120.2187189,23.00177585,output/output_1189.jpg,1 stop sign
+醫學院,成大醫院,S,LARGE,15,75,120.2187163,23.00173079,output/output_1190.jpg,1 stop sign
+醫學院,成大醫院,S,LARGE,16,80,120.2187138,23.00168573,output/output_1191.jpg,
+醫學院,成大醫院,S,LARGE,17,85,120.2187112,23.00164067,output/output_1192.jpg,
+醫學院,成大醫院,S,LARGE,18,90,120.2187087,23.00159561,output/output_1193.jpg,
+醫學院,成大醫院,S,LARGE,19,95,120.2187061,23.00155055,output/output_1194.jpg,
+醫學院,成大醫院,S,LARGE,20,100,120.2187036,23.00150549,output/output_1195.jpg,
+醫學院,成大醫院,S,LARGE,21,105,120.218701,23.00146043,output/output_1196.jpg,
+醫學院,成大醫院,S,LARGE,22,110,120.2186986,23.00141536,output/output_1197.jpg,
+醫學院,成大醫院,S,LARGE,23,115,120.2186966,23.00137028,output/output_1198.jpg,
+醫學院,成大醫院,S,LARGE,24,120,120.2186945,23.0013252,output/output_1199.jpg,
+醫學院,成大醫院,S,LARGE,25,125,120.2186924,23.00128012,output/output_1200.jpg,
+醫學院,成大醫院,S,LARGE,26,130,120.2186903,23.00123504,output/output_1201.jpg,"3 person, 1 handbag"
+醫學院,成大醫院,S,LARGE,27,135,120.2186883,23.00118996,output/output_1202.jpg,"3 person, 1 handbag"
+醫學院,成大醫院,S,LARGE,28,140,120.2186862,23.00114488,output/output_1203.jpg,"2 bicycle, 1 potted plant"
+醫學院,成大醫院,S,LARGE,29,145,120.2187053,23.00110447,output/output_1204.jpg,"2 bicycle, 1 potted plant"
+資工系,成大醫院,S,LARGE,0,0,120.2187273,23.00097672,output/output_1205.jpg,
+資工系,成大醫院,S,LARGE,1,5,120.2187227,23.0009318,output/output_1206.jpg,
+資工系,成大醫院,S,LARGE,2,10,120.2187181,23.00088688,output/output_1207.jpg,1 person
+資工系,成大醫院,S,LARGE,3,15,120.2187135,23.00084195,output/output_1208.jpg,"7 car, 2 person"
+資工系,成大醫院,S,LARGE,4,20,120.2187139,23.00080085,output/output_1209.jpg,"17 car, 1 person"
+資工系,成大醫院,S,LARGE,5,25,120.2187625,23.0007971,output/output_1210.jpg,"10 car, 2 person"
+資工系,成大醫院,S,LARGE,6,30,120.2188111,23.00079334,output/output_1211.jpg,"9 car, 4 person"
+資工系,成大醫院,S,LARGE,7,35,120.2188596,23.00078958,output/output_1212.jpg,"9 car, 4 person"
+資工系,成大醫院,S,LARGE,8,40,120.2189082,23.00078583,output/output_1213.jpg,"2 person, 4 car"
+資工系,成大醫院,S,LARGE,9,45,120.2189568,23.00078207,output/output_1214.jpg,"12 car, 3 person, 3 motorcycle"
+資工系,成大醫院,S,LARGE,10,50,120.2190053,23.00077831,output/output_1215.jpg,"16 car, 11 person, 2 motorcycle, 1 umbrella"
+資工系,成大醫院,S,LARGE,11,55,120.2190539,23.00077456,output/output_1216.jpg,"16 car, 11 person, 2 motorcycle, 1 umbrella"
+資工系,成大醫院,S,LARGE,12,60,120.2191025,23.0007708,output/output_1217.jpg,"16 car, 7 person, 2 motorcycle, 1 traffic light"
+資工系,成大醫院,S,LARGE,13,65,120.2191511,23.00076704,output/output_1218.jpg,"16 car, 7 person, 2 motorcycle, 1 traffic light"
+資工系,成大醫院,S,LARGE,14,70,120.2191996,23.00076329,output/output_1219.jpg,"16 car, 7 person, 2 motorcycle, 1 traffic light"
+資工系,成大醫院,S,LARGE,15,75,120.2192482,23.00075954,output/output_1220.jpg,"17 car, 3 person, 1 truck, 1 traffic light, 1 bus, 1 motorcycle"
+資工系,成大醫院,S,LARGE,16,80,120.2192968,23.00075604,output/output_1221.jpg,"15 car, 1 train"
+資工系,成大醫院,S,LARGE,17,85,120.2193454,23.00075254,output/output_1222.jpg,"13 car, 2 motorcycle, 1 person"
+資工系,成大醫院,S,LARGE,18,90,120.219394,23.00074904,output/output_1223.jpg,"13 car, 2 motorcycle, 1 person"
+資工系,成大醫院,S,LARGE,19,95,120.2194426,23.00074554,output/output_1224.jpg,"13 car, 2 motorcycle, 1 person"
+資工系,成大醫院,S,LARGE,20,100,120.2194912,23.00074204,output/output_1225.jpg,15 car
+資工系,成大醫院,S,LARGE,21,105,120.2195398,23.00073854,output/output_1226.jpg,15 car
+資工系,成大醫院,S,LARGE,22,110,120.2195884,23.00073504,output/output_1227.jpg,12 car
+資工系,成大醫院,S,LARGE,23,115,120.2196369,23.00073154,output/output_1228.jpg,12 car
+資工系,成大醫院,S,LARGE,24,120,120.2196855,23.00072804,output/output_1229.jpg,"11 car, 3 person"
+資工系,成大醫院,S,LARGE,25,125,120.2197341,23.00072455,output/output_1230.jpg,"10 car, 5 person"
+資工系,成大醫院,S,LARGE,26,130,120.2197827,23.00072105,output/output_1231.jpg,"14 car, 12 person"
+資工系,成大醫院,S,LARGE,27,135,120.2198313,23.00071755,output/output_1232.jpg,12 car
+資工系,成大醫院,S,LARGE,28,140,120.2198799,23.00071405,output/output_1233.jpg,12 car
+資工系,成大醫院,S,LARGE,29,145,120.2199285,23.00071055,output/output_1234.jpg,12 car
+資工系,成大醫院,S,LARGE,30,150,120.2199771,23.00070705,output/output_1235.jpg,"13 car, 1 person"
+資工系,成大醫院,S,LARGE,31,155,120.2200257,23.00070355,output/output_1236.jpg,"13 car, 1 person"
+資工系,成大醫院,S,LARGE,32,160,120.2200743,23.00070005,output/output_1237.jpg,"1 person, 13 car, 2 motorcycle, 2 backpack"
+資工系,成大醫院,S,LARGE,33,165,120.2201229,23.00069655,output/output_1238.jpg,"11 car, 1 person, 1 motorcycle, 2 backpack"
+資工系,成大醫院,S,LARGE,34,170,120.2201715,23.00069305,output/output_1239.jpg,"4 car, 2 person"
+資工系,成大醫院,S,LARGE,35,175,120.2202201,23.00068955,output/output_1240.jpg,"4 car, 2 person"
+資工系,成大醫院,S,LARGE,36,180,120.2202687,23.00068606,output/output_1241.jpg,"5 car, 2 person"
+資工系,成大醫院,S,LARGE,37,185,120.2203173,23.00068256,output/output_1242.jpg,"4 car, 1 person, 1 airplane"
+資工系,成大醫院,S,LARGE,38,190,120.2203659,23.00067906,output/output_1243.jpg,14 car
+資工系,成大醫院,S,LARGE,39,195,120.2204144,23.00067556,output/output_1244.jpg,14 car
+資工系,成大醫院,S,LARGE,40,200,120.220463,23.00067206,output/output_1245.jpg,14 car
+資工系,成大醫院,S,LARGE,41,205,120.2205116,23.0006686,output/output_1246.jpg,13 car
+資工系,成大醫院,S,LARGE,42,210,120.2205603,23.00066555,output/output_1247.jpg,13 car
+工程系/化工系,成大醫院,S,LARGE,0,0,120.2187515,23.00087153,output/output_1248.jpg,"11 car, 2 person, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,1,5,120.2188001,23.00086807,output/output_1249.jpg,"11 car, 2 person, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,2,10,120.2188487,23.00086461,output/output_1250.jpg,"8 car, 2 person, 6 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,3,15,120.2188973,23.00086115,output/output_1251.jpg,"8 car, 2 person, 6 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,4,20,120.2189459,23.00085769,output/output_1252.jpg,"14 car, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,5,25,120.2189945,23.00085423,output/output_1253.jpg,"14 car, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,6,30,120.219043,23.00085077,output/output_1254.jpg,"14 car, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,7,35,120.2190916,23.00084731,output/output_1255.jpg,"14 car, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,8,40,120.2191402,23.00084385,output/output_1256.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,9,45,120.2191888,23.00084039,output/output_1257.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,10,50,120.2192374,23.00083693,output/output_1258.jpg,13 car
+工程系/化工系,成大醫院,S,LARGE,11,55,120.219286,23.00083347,output/output_1259.jpg,13 car
+工程系/化工系,成大醫院,S,LARGE,12,60,120.2193346,23.00083001,output/output_1260.jpg,13 car
+工程系/化工系,成大醫院,S,LARGE,13,65,120.2193832,23.00082655,output/output_1261.jpg,13 car
+工程系/化工系,成大醫院,S,LARGE,14,70,120.2194318,23.00082309,output/output_1262.jpg,11 car
+工程系/化工系,成大醫院,S,LARGE,15,75,120.2194804,23.00081963,output/output_1263.jpg,11 car
+工程系/化工系,成大醫院,S,LARGE,16,80,120.219529,23.00081617,output/output_1264.jpg,13 car
+工程系/化工系,成大醫院,S,LARGE,17,85,120.2195776,23.00081271,output/output_1265.jpg,13 car
+工程系/化工系,成大醫院,S,LARGE,18,90,120.2196262,23.00080925,output/output_1266.jpg,12 car
+工程系/化工系,成大醫院,S,LARGE,19,95,120.2196748,23.00080579,output/output_1267.jpg,12 car
+工程系/化工系,成大醫院,S,LARGE,20,100,120.2197234,23.00080233,output/output_1268.jpg,"16 car, 1 person"
+工程系/化工系,成大醫院,S,LARGE,21,105,120.219772,23.00079887,output/output_1269.jpg,"16 car, 1 person"
+工程系/化工系,成大醫院,S,LARGE,22,110,120.2198206,23.00079541,output/output_1270.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,23,115,120.2198692,23.00079195,output/output_1271.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,24,120,120.2199178,23.00078849,output/output_1272.jpg,10 car
+工程系/化工系,成大醫院,S,LARGE,25,125,120.2199664,23.00078503,output/output_1273.jpg,12 car
+工程系/化工系,成大醫院,S,LARGE,26,130,120.220015,23.00078157,output/output_1274.jpg,12 car
+工程系/化工系,成大醫院,S,LARGE,27,135,120.2200636,23.00077811,output/output_1275.jpg,"7 car, 3 person, 1 traffic light"
+工程系/化工系,成大醫院,S,LARGE,28,140,120.2201122,23.00077465,output/output_1276.jpg,"7 car, 3 person, 1 traffic light"
+工程系/化工系,成大醫院,S,LARGE,29,145,120.2201608,23.00077119,output/output_1277.jpg,"9 car, 2 person, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,30,150,120.2202094,23.00076773,output/output_1278.jpg,"2 bicycle, 3 person, 3 car"
+工程系/化工系,成大醫院,S,LARGE,31,155,120.220258,23.00076427,output/output_1279.jpg,"1 bicycle, 3 person, 3 car"
+工程系/化工系,成大醫院,S,LARGE,32,160,120.2203066,23.00076081,output/output_1280.jpg,"1 person, 3 car, 9 motorcycle, 1 bicycle"
+工程系/化工系,成大醫院,S,LARGE,33,165,120.2203552,23.00075735,output/output_1281.jpg,"7 person, 3 car, 1 bicycle, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,34,170,120.2204038,23.00075389,output/output_1282.jpg,15 car
+工程系/化工系,成大醫院,S,LARGE,35,175,120.2204524,23.00075043,output/output_1283.jpg,15 car
+工程系/化工系,成大醫院,S,LARGE,36,180,120.220501,23.00074697,output/output_1284.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,37,185,120.2205496,23.00074427,output/output_1285.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,38,190,120.2206469,23.0007384,output/output_1286.jpg,"12 car, 2 person, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,39,195,120.2206955,23.00073479,output/output_1287.jpg,"12 car, 2 person, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,40,200,120.2207441,23.00073133,output/output_1288.jpg,"8 car, 2 person, 6 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,41,205,120.2207927,23.00072787,output/output_1289.jpg,"8 car, 2 person, 6 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,42,210,120.2208413,23.00072441,output/output_1290.jpg,"13 car, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,43,215,120.2208899,23.00072095,output/output_1291.jpg,"13 car, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,44,220,120.2209385,23.00071749,output/output_1292.jpg,"14 car, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,45,225,120.220987,23.00071404,output/output_1293.jpg,"14 car, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,46,230,120.2210356,23.00071058,output/output_1294.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,47,235,120.2210842,23.00070712,output/output_1295.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,48,240,120.2211328,23.00070366,output/output_1296.jpg,9 car
+工程系/化工系,成大醫院,S,LARGE,49,245,120.2211814,23.0007002,output/output_1297.jpg,9 car
+工程系/化工系,成大醫院,S,LARGE,50,250,120.22123,23.00069674,output/output_1298.jpg,18 car
+工程系/化工系,成大醫院,S,LARGE,51,255,120.2212786,23.00069328,output/output_1299.jpg,18 car
+工程系/化工系,成大醫院,S,LARGE,52,260,120.2213272,23.00068982,output/output_1300.jpg,11 car
+工程系/化工系,成大醫院,S,LARGE,53,265,120.2213758,23.00068636,output/output_1301.jpg,11 car
+工程系/化工系,成大醫院,S,LARGE,54,270,120.2214244,23.0006829,output/output_1302.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,55,275,120.221473,23.00067944,output/output_1303.jpg,14 car
+工程系/化工系,成大醫院,S,LARGE,56,280,120.2215216,23.00067598,output/output_1304.jpg,16 car
+工程系/化工系,成大醫院,S,LARGE,57,285,120.2215702,23.00067253,output/output_1305.jpg,16 car
+工程系/化工系,成大醫院,S,LARGE,58,290,120.2216188,23.00066907,output/output_1306.jpg,12 car
+工程系/化工系,成大醫院,S,LARGE,59,295,120.2216674,23.00066561,output/output_1307.jpg,12 car
+工程系/化工系,成大醫院,S,LARGE,60,300,120.221716,23.00066215,output/output_1308.jpg,"14 car, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,61,305,120.2217646,23.00065869,output/output_1309.jpg,"14 car, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,62,310,120.2218132,23.00065523,output/output_1310.jpg,9 car
+工程系/化工系,成大醫院,S,LARGE,63,315,120.2218618,23.00065177,output/output_1311.jpg,12 car
+工程系/化工系,成大醫院,S,LARGE,64,320,120.2219104,23.00064831,output/output_1312.jpg,12 car
+工程系/化工系,成大醫院,S,LARGE,65,325,120.221959,23.00064485,output/output_1313.jpg,"9 car, 2 person, 1 traffic light"
+工程系/化工系,成大醫院,S,LARGE,66,330,120.2220076,23.00064139,output/output_1314.jpg,"9 car, 2 person, 1 traffic light"
+工程系/化工系,成大醫院,S,LARGE,67,335,120.2220562,23.00063793,output/output_1315.jpg,"9 car, 2 person, 1 traffic light"
+工程系/化工系,成大醫院,S,LARGE,68,340,120.2221048,23.00063447,output/output_1316.jpg,"7 car, 2 person, 4 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,69,345,120.2221534,23.00063101,output/output_1317.jpg,"8 car, 4 motorcycle, 2 person"
+工程系/化工系,成大醫院,S,LARGE,70,350,120.222202,23.00062747,output/output_1318.jpg,"10 car, 1 bicycle, 2 motorcycle, 5 person"
+工程系/化工系,成大醫院,S,LARGE,71,355,120.2222505,23.00062365,output/output_1319.jpg,"13 car, 1 traffic light, 3 person, 4 motorcycle, 1 bench"
+工程系/化工系,成大醫院,S,LARGE,72,360,120.2222665,23.00058809,output/output_1320.jpg,"14 car, 3 person, 1 traffic light, 3 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,73,365,120.222273,23.00054337,output/output_1321.jpg,"14 car, 2 person, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,74,370,120.2222922,23.00051055,output/output_1322.jpg,"14 car, 2 person, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,75,375,120.2223406,23.00050539,output/output_1323.jpg,"15 car, 1 fire hydrant, 1 person"
+工程系/化工系,成大醫院,S,LARGE,76,380,120.2223476,23.00046883,output/output_1324.jpg,"15 car, 1 fire hydrant, 1 person"
+工程系/化工系,成大醫院,S,LARGE,77,385,120.2223436,23.00042386,output/output_1325.jpg,"12 car, 1 fire hydrant"
+工程系/化工系,成大醫院,S,LARGE,78,390,120.2223395,23.0003789,output/output_1326.jpg,"12 car, 1 fire hydrant"
+工程系/化工系,成大醫院,S,LARGE,79,395,120.2223355,23.00033393,output/output_1327.jpg,"8 car, 3 person, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,80,400,120.2223315,23.00028896,output/output_1328.jpg,"8 car, 3 person, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,81,405,120.2223274,23.000244,output/output_1329.jpg,"8 car, 3 person"
+工程系/化工系,成大醫院,S,LARGE,82,410,120.2223234,23.00019903,output/output_1330.jpg,"8 car, 3 person"
+工程系/化工系,成大醫院,S,LARGE,83,415,120.2223193,23.00015406,output/output_1331.jpg,"10 car, 2 truck, 3 person, 1 giraffe"
+工程系/化工系,成大醫院,S,LARGE,84,420,120.2223153,23.0001091,output/output_1332.jpg,"10 car, 2 truck, 3 person, 1 giraffe"
+工程系/化工系,成大醫院,S,LARGE,85,425,120.2223113,23.00006413,output/output_1333.jpg,"20 car, 2 person"
+工程系/化工系,成大醫院,S,LARGE,86,430,120.2223072,23.00001916,output/output_1334.jpg,"20 car, 2 person"
+工程系/化工系,成大醫院,S,LARGE,87,435,120.2223032,22.9999742,output/output_1335.jpg,"15 car, 2 person, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,88,440,120.2222991,22.99992923,output/output_1336.jpg,"15 car, 2 person, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,89,445,120.2222951,22.99988426,output/output_1337.jpg,"12 car, 3 person, 1 bird, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,90,450,120.222291,22.9998393,output/output_1338.jpg,"12 car, 3 person, 1 bird, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,91,455,120.222287,22.99979433,output/output_1339.jpg,"13 car, 3 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,92,460,120.222283,22.99974936,output/output_1340.jpg,"13 car, 3 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,93,465,120.2222789,22.9997044,output/output_1341.jpg,"15 car, 5 person, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,94,470,120.2222749,22.99965943,output/output_1342.jpg,"15 car, 5 person, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,95,475,120.2222708,22.99961446,output/output_1343.jpg,"11 car, 2 person, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,96,480,120.2222668,22.9995695,output/output_1344.jpg,"11 car, 2 person, 2 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,97,485,120.2222628,22.99952453,output/output_1345.jpg,"10 car, 5 person, 3 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,98,490,120.2222587,22.99947956,output/output_1346.jpg,"10 car, 5 person, 3 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,99,495,120.2222547,22.99943459,output/output_1347.jpg,"9 car, 1 traffic light, 1 motorcycle, 1 person"
+工程系/化工系,成大醫院,S,LARGE,100,500,120.2222506,22.99938963,output/output_1348.jpg,"9 car, 1 traffic light, 1 motorcycle, 1 person"
+工程系/化工系,成大醫院,S,LARGE,101,505,120.2222466,22.99934466,output/output_1349.jpg,"9 car, 1 traffic light, 1 motorcycle, 1 person"
+工程系/化工系,成大醫院,S,LARGE,102,510,120.2222426,22.99929969,output/output_1350.jpg,"1 bus, 1 motorcycle, 1 car, 3 person"
+工程系/化工系,成大醫院,S,LARGE,103,515,120.2222385,22.99925473,output/output_1351.jpg,"1 bus, 3 car, 1 person, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,104,520,120.2222345,22.99920976,output/output_1352.jpg,5 car
+工程系/化工系,成大醫院,S,LARGE,105,525,120.2222304,22.99916479,output/output_1353.jpg,7 car
+工程系/化工系,成大醫院,S,LARGE,106,530,120.2222264,22.99911983,output/output_1354.jpg,"7 car, 1 traffic light, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,107,535,120.2222224,22.99907486,output/output_1355.jpg,"13 person, 6 car, 10 motorcycle, 1 truck"
+工程系/化工系,成大醫院,S,LARGE,108,540,120.2222183,22.99902989,output/output_1356.jpg,"1 person, 1 traffic light, 6 motorcycle, 1 skateboard, 2 car"
+工程系/化工系,成大醫院,S,LARGE,109,545,120.2222143,22.99898493,output/output_1357.jpg,"10 car, 7 motorcycle, 9 person"
+工程系/化工系,成大醫院,S,LARGE,110,550,120.2222102,22.99893996,output/output_1358.jpg,"9 car, 1 truck, 2 motorcycle, 1 person"
+工程系/化工系,成大醫院,S,LARGE,111,555,120.2222062,22.99889499,output/output_1359.jpg,"9 car, 1 truck, 2 motorcycle, 1 person"
+工程系/化工系,成大醫院,S,LARGE,112,560,120.2222022,22.99885003,output/output_1360.jpg,"14 car, 1 motorcycle, 3 bicycle"
+工程系/化工系,成大醫院,S,LARGE,113,565,120.2221981,22.99880506,output/output_1361.jpg,"14 car, 1 motorcycle, 3 bicycle"
+工程系/化工系,成大醫院,S,LARGE,114,570,120.2221941,22.99876009,output/output_1362.jpg,"10 car, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,115,575,120.22219,22.99871513,output/output_1363.jpg,"10 car, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,116,580,120.222186,22.99867016,output/output_1364.jpg,"8 car, 2 motorcycle, 2 person"
+工程系/化工系,成大醫院,S,LARGE,117,585,120.222182,22.99862519,output/output_1365.jpg,"8 car, 2 motorcycle, 2 person"
+工程系/化工系,成大醫院,S,LARGE,118,590,120.2221779,22.99858023,output/output_1366.jpg,"10 car, 2 person, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,119,595,120.2221739,22.99853526,output/output_1367.jpg,"10 car, 2 person, 1 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,120,600,120.2221698,22.99849029,output/output_1368.jpg,"9 car, 2 person, 3 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,121,605,120.2221658,22.99844533,output/output_1369.jpg,"9 car, 2 person, 3 motorcycle"
+工程系/化工系,成大醫院,S,LARGE,122,610,120.2221618,22.99840036,output/output_1370.jpg,"11 car, 1 motorcycle, 1 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,0,0,120.2168773,22.9965302,output/output_1371.jpg,"11 car, 1 motorcycle, 1 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,1,5,120.216925,22.99652114,output/output_1372.jpg,"12 car, 4 motorcycle, 2 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,2,10,120.2169728,22.99651208,output/output_1373.jpg,"12 car, 4 motorcycle, 2 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,3,15,120.2170205,22.99650303,output/output_1374.jpg,"10 car, 9 motorcycle, 4 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,4,20,120.2170686,22.99649576,output/output_1375.jpg,"10 car, 9 motorcycle, 4 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,5,25,120.2171168,22.99648897,output/output_1376.jpg,"14 car, 2 motorcycle, 5 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,6,30,120.217165,22.99648218,output/output_1377.jpg,"14 car, 2 motorcycle, 5 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,7,35,120.2172132,22.99647531,output/output_1378.jpg,"10 car, 5 motorcycle, 5 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,8,40,120.2172613,22.99646828,output/output_1379.jpg,"10 car, 5 motorcycle, 5 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,9,45,120.2173095,22.99646126,output/output_1380.jpg,"8 car, 6 person, 4 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,10,50,120.2173576,22.99645423,output/output_1381.jpg,"8 car, 6 person, 4 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,11,55,120.2174057,22.9964472,output/output_1382.jpg,"7 car, 6 motorcycle, 3 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,12,60,120.2174539,22.99644018,output/output_1383.jpg,"7 car, 6 motorcycle, 3 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,13,65,120.217502,22.99643315,output/output_1384.jpg,"11 car, 2 person, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,14,70,120.2175502,22.99642613,output/output_1385.jpg,"11 car, 2 person, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,15,75,120.2175983,22.9964191,output/output_1386.jpg,"3 car, 1 person, 5 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,16,80,120.2176465,22.99641208,output/output_1387.jpg,"7 car, 1 person, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,17,85,120.2176946,22.99640505,output/output_1388.jpg,"7 car, 1 person, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,18,90,120.2177428,22.99639802,output/output_1389.jpg,"9 car, 3 person, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,19,95,120.2177909,22.996391,output/output_1390.jpg,"9 car, 3 person, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,20,100,120.217839,22.99638397,output/output_1391.jpg,"6 car, 3 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,21,105,120.2178727,22.99639565,output/output_1392.jpg,"6 car, 3 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,22,110,120.2178811,22.99644011,output/output_1393.jpg,"7 car, 5 motorcycle, 1 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,23,115,120.2178894,22.99648456,output/output_1394.jpg,"7 car, 5 motorcycle, 1 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,24,120,120.2178978,22.99652902,output/output_1395.jpg,"4 car, 8 motorcycle, 1 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,25,125,120.2179062,22.99657347,output/output_1396.jpg,"4 car, 8 motorcycle, 1 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,26,130,120.2179145,22.99661792,output/output_1397.jpg,"6 car, 1 truck, 1 person, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,27,135,120.2179229,22.99666238,output/output_1398.jpg,"6 car, 1 truck, 1 person, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,28,140,120.2179312,22.99670683,output/output_1399.jpg,"7 car, 1 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,29,145,120.2179396,22.99675129,output/output_1400.jpg,"7 car, 1 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,30,150,120.2179479,22.99679574,output/output_1401.jpg,"3 car, 2 motorcycle, 1 stop sign"
+醫學院,國立成功大學 光復校區正門,S,LARGE,31,155,120.2179563,22.99684019,output/output_1402.jpg,"3 car, 2 motorcycle, 1 stop sign"
+醫學院,國立成功大學 光復校區正門,S,LARGE,32,160,120.2179646,22.99688465,output/output_1403.jpg,"2 car, 1 person, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,33,165,120.217973,22.9969291,output/output_1404.jpg,"1 car, 1 person, 1 bicycle, 1 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,34,170,120.2179813,22.99697356,output/output_1405.jpg,"8 person, 1 chair, 3 potted plant, 1 bowl, 1 vase, 1 oven, 1 bottle, 1 book"
+醫學院,國立成功大學 光復校區正門,S,LARGE,35,175,120.2179897,22.99701801,output/output_1406.jpg,"8 person, 1 chair, 3 potted plant, 1 bowl, 1 vase, 1 oven, 1 bottle, 1 book"
+醫學院,國立成功大學 光復校區正門,S,LARGE,36,180,120.2179981,22.99706246,output/output_1407.jpg,"8 person, 1 chair, 3 potted plant, 1 bowl, 1 vase, 1 oven, 1 bottle, 1 book"
+醫學院,國立成功大學 光復校區正門,S,LARGE,37,185,120.2181519,22.99713694,output/output_1408.jpg,"4 car, 5 person, 6 motorcycle, 1 traffic light"
+醫學院,國立成功大學 光復校區正門,S,LARGE,38,190,120.2181558,22.99718192,output/output_1409.jpg,"4 car, 6 person, 6 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,39,195,120.2181596,22.9972269,output/output_1410.jpg,"3 car, 1 truck, 5 motorcycle, 5 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,40,200,120.2181634,22.99727188,output/output_1411.jpg,"5 car, 1 truck, 4 person, 7 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,41,205,120.2181672,22.99731687,output/output_1412.jpg,"1 truck, 2 car, 6 person, 8 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,42,210,120.2181711,22.99736185,output/output_1413.jpg,
+醫學院,國立成功大學 光復校區正門,S,LARGE,43,215,120.2181749,22.99740683,output/output_1414.jpg,
+醫學院,國立成功大學 光復校區正門,S,LARGE,44,220,120.2181787,22.99745182,output/output_1415.jpg,"2 car, 4 person, 1 bus, 12 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,45,225,120.2181825,22.9974968,output/output_1416.jpg,"2 car, 4 person, 1 bus, 12 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,46,230,120.2181864,22.99754178,output/output_1417.jpg,"2 car, 4 person, 1 bus, 12 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,47,235,120.2181902,22.99758676,output/output_1418.jpg,"2 car, 1 bicycle, 1 truck, 15 motorcycle, 4 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,48,240,120.218194,22.99763175,output/output_1419.jpg,"2 car, 1 bicycle, 1 truck, 15 motorcycle, 4 person"
+醫學院,國立成功大學 光復校區正門,S,LARGE,49,245,120.2181978,22.99767673,output/output_1420.jpg,"19 motorcycle, 2 truck, 5 person, 1 car"
+醫學院,國立成功大學 光復校區正門,S,LARGE,50,250,120.2182017,22.99772171,output/output_1421.jpg,"19 motorcycle, 2 truck, 5 person, 1 car"
+醫學院,國立成功大學 光復校區正門,S,LARGE,51,255,120.2182055,22.99776669,output/output_1422.jpg,"2 truck, 8 motorcycle, 7 person, 1 traffic light"
+醫學院,國立成功大學 光復校區正門,S,LARGE,52,260,120.2182093,22.99781168,output/output_1423.jpg,"2 truck, 8 motorcycle, 7 person, 1 traffic light"
+醫學院,國立成功大學 光復校區正門,S,LARGE,53,265,120.2182131,22.99785666,output/output_1424.jpg,"2 truck, 8 motorcycle, 7 person, 1 traffic light"
+醫學院,國立成功大學 光復校區正門,S,LARGE,54,270,120.218217,22.99790164,output/output_1425.jpg,"1 truck, 5 motorcycle, 3 person, 1 traffic light"
+醫學院,國立成功大學 光復校區正門,S,LARGE,55,275,120.2182208,22.99794662,output/output_1426.jpg,"8 car, 2 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,56,280,120.2182246,22.99799161,output/output_1427.jpg,"8 car, 2 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,57,285,120.2182284,22.99803659,output/output_1428.jpg,"8 car, 2 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,58,290,120.2182323,22.99808157,output/output_1429.jpg,"8 car, 2 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,59,295,120.2182361,22.99812656,output/output_1430.jpg,"4 car, 5 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,60,300,120.2182399,22.99817154,output/output_1431.jpg,"4 car, 5 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,61,305,120.2182437,22.99821652,output/output_1432.jpg,"6 car, 8 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,62,310,120.2182476,22.9982615,output/output_1433.jpg,"6 car, 8 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,63,315,120.2182514,22.99830649,output/output_1434.jpg,"6 car, 8 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,64,320,120.2182552,22.99835147,output/output_1435.jpg,"11 car, 3 motorcycle"
+醫學院,國立成功大學 光復校區正門,S,LARGE,65,325,120.218259,22.99839645,output/output_1436.jpg,"11 car, 3 motorcycle"
+資工系,國立成功大學 光復校區正門,S,LARGE,0,0,120.2179361,22.99637758,output/output_1437.jpg,"11 car, 3 motorcycle"
+資工系,國立成功大學 光復校區正門,S,LARGE,1,5,120.2179848,22.99637618,output/output_1438.jpg,"6 car, 3 person"
+資工系,國立成功大學 光復校區正門,S,LARGE,2,10,120.2180335,22.99637477,output/output_1439.jpg,"6 car, 3 person"
+資工系,國立成功大學 光復校區正門,S,LARGE,3,15,120.2180823,22.99637336,output/output_1440.jpg,"6 car, 3 person"
+資工系,國立成功大學 光復校區正門,S,LARGE,4,20,120.218131,22.99637424,output/output_1441.jpg,"20 motorcycle, 3 car, 2 person"
+工程系/化工系,國立成功大學 光復校區正門,S,LARGE,0,0,120.2228186,22.99622681,output/output_1442.jpg,"6 car, 13 motorcycle"
+機械系,國立成功大學 光復校區正門,S,LARGE,0,0,120.2232982,22.99679017,output/output_1443.jpg,"6 car, 8 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,0,0,120.2134024,22.9963506,output/output_1444.jpg,"6 car, 8 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,1,5,120.2134495,22.99636214,output/output_1445.jpg,"4 car, 12 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,2,10,120.2134675,22.9963982,output/output_1446.jpg,"4 car, 12 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,3,15,120.2134755,22.99644272,output/output_1447.jpg,"6 car, 6 motorcycle, 2 person, 2 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,4,20,120.2134834,22.99648723,output/output_1448.jpg,"6 car, 6 motorcycle, 2 person, 2 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,5,25,120.2134914,22.99653175,output/output_1449.jpg,"5 car, 5 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,6,30,120.2134994,22.99657626,output/output_1450.jpg,"5 car, 5 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,7,35,120.2135073,22.99662078,output/output_1451.jpg,"6 car, 1 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,8,40,120.2135153,22.9966653,output/output_1452.jpg,"6 car, 1 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,9,45,120.2135232,22.99670981,output/output_1453.jpg,"3 car, 6 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,10,50,120.2135363,22.99674794,output/output_1454.jpg,"3 car, 6 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,11,55,120.2135769,22.99675613,output/output_1455.jpg,"1 person, 4 motorcycle, 2 car, 1 bicycle, 1 bench"
+醫學院,臺南車站臨時後站,S,LARGE,12,60,120.2136007,22.99679553,output/output_1456.jpg,"1 person, 4 motorcycle, 2 car, 1 bicycle, 1 bench"
+醫學院,臺南車站臨時後站,S,LARGE,13,65,120.2136244,22.99683494,output/output_1457.jpg,"4 car, 1 bench, 7 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,14,70,120.2136482,22.99687435,output/output_1458.jpg,"4 car, 1 bench, 7 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,15,75,120.2136606,22.99691713,output/output_1459.jpg,"3 car, 5 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,16,80,120.2136662,22.99696195,output/output_1460.jpg,"3 car, 5 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,17,85,120.2136719,22.99700676,output/output_1461.jpg,"3 car, 3 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,18,90,120.2136786,22.99705145,output/output_1462.jpg,"3 car, 3 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,19,95,120.2136853,22.99709614,output/output_1463.jpg,"2 car, 9 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,20,100,120.2136921,22.99714083,output/output_1464.jpg,"2 car, 9 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,21,105,120.2136988,22.99718552,output/output_1465.jpg,"1 traffic light, 2 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,22,110,120.2137055,22.99723022,output/output_1466.jpg,"1 traffic light, 2 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,23,115,120.2137122,22.99727491,output/output_1467.jpg,"4 person, 3 motorcycle, 2 car, 1 traffic light, 1 bench"
+醫學院,臺南車站臨時後站,S,LARGE,24,120,120.2137189,22.9973196,output/output_1468.jpg,"4 person, 3 motorcycle, 2 car, 1 traffic light, 1 bench"
+醫學院,臺南車站臨時後站,S,LARGE,25,125,120.2137256,22.99736429,output/output_1469.jpg,1 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,26,130,120.2137323,22.99740898,output/output_1470.jpg,"13 motorcycle, 1 person, 1 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,27,135,120.2137391,22.99745367,output/output_1471.jpg,"1 car, 1 motorcycle, 4 person, 2 clock"
+醫學院,臺南車站臨時後站,S,LARGE,28,140,120.2137458,22.99749837,output/output_1472.jpg,"1 car, 1 motorcycle, 4 person, 2 clock"
+醫學院,臺南車站臨時後站,S,LARGE,29,145,120.2137525,22.99754306,output/output_1473.jpg,"2 motorcycle, 2 bicycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,30,150,120.2137592,22.99758775,output/output_1474.jpg,"1 motorcycle, 1 traffic light, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,31,155,120.2137666,22.99763232,output/output_1475.jpg,"2 person, 1 bicycle, 1 fire hydrant"
+醫學院,臺南車站臨時後站,S,LARGE,32,160,120.2137764,22.99767654,output/output_1476.jpg,
+醫學院,臺南車站臨時後站,S,LARGE,33,165,120.2137861,22.99772075,output/output_1477.jpg,"14 person, 2 suitcase, 1 backpack, 3 handbag"
+醫學院,臺南車站臨時後站,S,LARGE,34,170,120.2137958,22.99776497,output/output_1478.jpg,"4 car, 4 person, 3 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,35,175,120.2138055,22.99780918,output/output_1479.jpg,"10 person, 1 car, 1 suitcase, 1 cell phone, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,36,180,120.2138153,22.9978534,output/output_1480.jpg,"3 car, 3 person"
+醫學院,臺南車站臨時後站,S,LARGE,37,185,120.213825,22.99789761,output/output_1481.jpg,"3 car, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,38,190,120.2138347,22.99794182,output/output_1482.jpg,"8 person, 1 car, 1 handbag, 4 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,39,195,120.2138445,22.99798604,output/output_1483.jpg,"8 person, 1 car, 1 handbag, 4 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,40,200,120.2138542,22.99803025,output/output_1484.jpg,"3 car, 1 bicycle, 8 person"
+醫學院,臺南車站臨時後站,S,LARGE,41,205,120.2138639,22.99807447,output/output_1485.jpg,"4 car, 6 motorcycle, 1 bird, 4 person, 1 traffic light"
+醫學院,臺南車站臨時後站,S,LARGE,42,210,120.2138736,22.99811868,output/output_1486.jpg,"4 car, 5 motorcycle, 1 bird, 4 person, 1 traffic light"
+醫學院,臺南車站臨時後站,S,LARGE,43,215,120.2138834,22.99816289,output/output_1487.jpg,"9 motorcycle, 4 car, 5 person"
+醫學院,臺南車站臨時後站,S,LARGE,44,220,120.2138931,22.99820711,output/output_1488.jpg,"6 motorcycle, 1 person, 2 car"
+醫學院,臺南車站臨時後站,S,LARGE,45,225,120.2139028,22.99825132,output/output_1489.jpg,"5 car, 4 motorcycle, 1 truck, 3 person"
+醫學院,臺南車站臨時後站,S,LARGE,46,230,120.2139125,22.99829554,output/output_1490.jpg,"6 car, 5 person, 2 motorcycle, 1 handbag"
+醫學院,臺南車站臨時後站,S,LARGE,47,235,120.2139223,22.99833975,output/output_1491.jpg,"7 car, 2 motorcycle, 1 person, 1 traffic light, 1 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,48,240,120.213932,22.99838396,output/output_1492.jpg,"6 car, 2 motorcycle, 2 person, 1 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,49,245,120.2139417,22.99842818,output/output_1493.jpg,"1 car, 5 person, 1 traffic light"
+醫學院,臺南車站臨時後站,S,LARGE,50,250,120.2139515,22.99847239,output/output_1494.jpg,"1 car, 4 person, 1 traffic light"
+醫學院,臺南車站臨時後站,S,LARGE,51,255,120.2139612,22.99851661,output/output_1495.jpg,"1 car, 4 person, 1 motorcycle, 1 chair, 1 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,52,260,120.2139709,22.99856082,output/output_1496.jpg,"1 car, 4 person, 1 motorcycle, 1 chair, 1 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,53,265,120.2139806,22.99860503,output/output_1497.jpg,"1 bicycle, 2 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,54,270,120.2139908,22.99864915,output/output_1498.jpg,"1 bicycle, 2 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,55,275,120.2140011,22.99869326,output/output_1499.jpg,7 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,56,280,120.2140114,22.99873736,output/output_1500.jpg,7 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,57,285,120.2140217,22.99878147,output/output_1501.jpg,
+醫學院,臺南車站臨時後站,S,LARGE,58,290,120.214032,22.99882557,output/output_1502.jpg,
+醫學院,臺南車站臨時後站,S,LARGE,59,295,120.2140423,22.99886968,output/output_1503.jpg,"2 motorcycle, 2 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,60,300,120.2140526,22.99891378,output/output_1504.jpg,"2 motorcycle, 2 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,61,305,120.2140629,22.99895788,output/output_1505.jpg,"3 bicycle, 11 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,62,310,120.2140732,22.99900199,output/output_1506.jpg,"3 bicycle, 11 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,63,315,120.2140835,22.99904609,output/output_1507.jpg,"3 bicycle, 11 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,64,320,120.2140938,22.9990902,output/output_1508.jpg,2 bicycle
+醫學院,臺南車站臨時後站,S,LARGE,65,325,120.2141041,22.9991343,output/output_1509.jpg,"3 motorcycle, 1 person, 1 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,66,330,120.2141143,22.99917841,output/output_1510.jpg,"6 bicycle, 1 fire hydrant, 2 motorcycle, 1 car"
+醫學院,臺南車站臨時後站,S,LARGE,67,335,120.2141246,22.99922251,output/output_1511.jpg,"6 bicycle, 1 fire hydrant, 2 motorcycle, 1 car"
+醫學院,臺南車站臨時後站,S,LARGE,68,340,120.2141349,22.99926661,output/output_1512.jpg,"5 bicycle, 2 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,69,345,120.2141452,22.99931072,output/output_1513.jpg,"4 bicycle, 2 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,70,350,120.2141555,22.99935482,output/output_1514.jpg,"5 motorcycle, 1 person, 2 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,71,355,120.2141658,22.99939893,output/output_1515.jpg,"5 motorcycle, 1 person, 2 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,72,360,120.2141761,22.99944303,output/output_1516.jpg,"1 person, 4 motorcycle, 2 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,73,365,120.2141864,22.99948714,output/output_1517.jpg,"1 person, 4 motorcycle, 2 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,74,370,120.2141967,22.99953124,output/output_1518.jpg,"2 car, 7 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,75,375,120.214207,22.99957534,output/output_1519.jpg,"2 car, 7 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,76,380,120.2142173,22.99961945,output/output_1520.jpg,"4 motorcycle, 2 bicycle, 1 fire hydrant"
+醫學院,臺南車站臨時後站,S,LARGE,77,385,120.2142276,22.99966355,output/output_1521.jpg,"4 motorcycle, 2 bicycle, 1 fire hydrant"
+醫學院,臺南車站臨時後站,S,LARGE,78,390,120.2142378,22.99970766,output/output_1522.jpg,"9 motorcycle, 1 person, 1 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,79,395,120.2142481,22.99975176,output/output_1523.jpg,"9 motorcycle, 1 person, 1 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,80,400,120.2142584,22.99979587,output/output_1524.jpg,"2 person, 5 motorcycle, 3 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,81,405,120.2142687,22.99983997,output/output_1525.jpg,"2 person, 5 motorcycle, 3 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,82,410,120.214279,22.99988408,output/output_1526.jpg,"1 person, 3 bicycle, 1 truck, 9 motorcycle, 1 fire hydrant"
+醫學院,臺南車站臨時後站,S,LARGE,83,415,120.2142893,22.99992818,output/output_1527.jpg,"1 person, 3 bicycle, 1 truck, 9 motorcycle, 1 fire hydrant"
+醫學院,臺南車站臨時後站,S,LARGE,84,420,120.2142996,22.99997229,output/output_1528.jpg,"1 truck, 16 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,85,425,120.2143102,23.00001633,output/output_1529.jpg,"1 truck, 16 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,86,430,120.2143214,23.00006023,output/output_1530.jpg,"13 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,87,435,120.2143327,23.00010414,output/output_1531.jpg,16 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,88,440,120.2143439,23.00014804,output/output_1532.jpg,12 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,89,445,120.2143552,23.00019194,output/output_1533.jpg,12 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,90,450,120.2143664,23.00023585,output/output_1534.jpg,"16 motorcycle, 1 car, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,91,455,120.2143777,23.00027975,output/output_1535.jpg,"16 motorcycle, 1 car, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,92,460,120.2143889,23.00032365,output/output_1536.jpg,"1 car, 13 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,93,465,120.2144002,23.00036755,output/output_1537.jpg,"1 car, 13 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,94,470,120.2144114,23.00041146,output/output_1538.jpg,"3 car, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,95,475,120.2144227,23.00045536,output/output_1539.jpg,"3 car, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,96,480,120.2144339,23.00049926,output/output_1540.jpg,10 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,97,485,120.2144452,23.00054317,output/output_1541.jpg,10 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,98,490,120.2144564,23.00058707,output/output_1542.jpg,7 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,99,495,120.2144677,23.00063097,output/output_1543.jpg,7 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,100,500,120.2144789,23.00067488,output/output_1544.jpg,6 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,101,505,120.2144902,23.00071878,output/output_1545.jpg,6 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,102,510,120.2145014,23.00076268,output/output_1546.jpg,8 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,103,515,120.2145127,23.00080659,output/output_1547.jpg,8 motorcycle
+醫學院,臺南車站臨時後站,S,LARGE,104,520,120.2145239,23.00085049,output/output_1548.jpg,"2 person, 4 motorcycle, 3 car"
+醫學院,臺南車站臨時後站,S,LARGE,105,525,120.2145352,23.00089439,output/output_1549.jpg,"2 person, 4 motorcycle, 3 car"
+醫學院,臺南車站臨時後站,S,LARGE,106,530,120.2145464,23.00093829,output/output_1550.jpg,"10 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,107,535,120.2145577,23.0009822,output/output_1551.jpg,"10 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,108,540,120.214569,23.0010261,output/output_1552.jpg,"14 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,109,545,120.2145802,23.00107,output/output_1553.jpg,"9 motorcycle, 1 car"
+醫學院,臺南車站臨時後站,S,LARGE,110,550,120.2145915,23.00111391,output/output_1554.jpg,"9 motorcycle, 1 car"
+醫學院,臺南車站臨時後站,S,LARGE,111,555,120.2146027,23.00115781,output/output_1555.jpg,"7 motorcycle, 1 car, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,112,560,120.214614,23.00120171,output/output_1556.jpg,"7 motorcycle, 1 car, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,113,565,120.2146325,23.00123807,output/output_1557.jpg,"4 motorcycle, 1 car, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,114,570,120.2146809,23.00124355,output/output_1558.jpg,"4 motorcycle, 1 car, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,115,575,120.2147293,23.00124902,output/output_1559.jpg,1 car
+醫學院,臺南車站臨時後站,S,LARGE,116,580,120.2147776,23.0012545,output/output_1560.jpg,1 car
+醫學院,臺南車站臨時後站,S,LARGE,117,585,120.2147969,23.00128827,output/output_1561.jpg,3 car
+醫學院,臺南車站臨時後站,S,LARGE,118,590,120.2148052,23.00133273,output/output_1562.jpg,4 car
+醫學院,臺南車站臨時後站,S,LARGE,119,595,120.2148135,23.0013772,output/output_1563.jpg,"3 car, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,120,600,120.2148219,23.00142166,output/output_1564.jpg,"3 car, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,121,605,120.2148617,23.00142594,output/output_1565.jpg,"1 truck, 3 car"
+醫學院,臺南車站臨時後站,S,LARGE,122,610,120.21491,23.00141954,output/output_1566.jpg,"1 truck, 3 car"
+醫學院,臺南車站臨時後站,S,LARGE,123,615,120.2149582,23.00141313,output/output_1567.jpg,2 car
+醫學院,臺南車站臨時後站,S,LARGE,124,620,120.2150064,23.00140673,output/output_1568.jpg,2 car
+醫學院,臺南車站臨時後站,S,LARGE,125,625,120.2150547,23.00140033,output/output_1569.jpg,"3 car, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,126,630,120.2151029,23.00139392,output/output_1570.jpg,"3 car, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,127,635,120.2151512,23.00138752,output/output_1571.jpg,5 car
+醫學院,臺南車站臨時後站,S,LARGE,128,640,120.2151994,23.00138111,output/output_1572.jpg,5 car
+醫學院,臺南車站臨時後站,S,LARGE,129,645,120.2152477,23.00137471,output/output_1573.jpg,4 car
+醫學院,臺南車站臨時後站,S,LARGE,130,650,120.2152959,23.00136831,output/output_1574.jpg,4 car
+醫學院,臺南車站臨時後站,S,LARGE,131,655,120.2153442,23.0013619,output/output_1575.jpg,"1 motorcycle, 1 person, 6 car"
+醫學院,臺南車站臨時後站,S,LARGE,132,660,120.2153924,23.0013555,output/output_1576.jpg,"1 motorcycle, 1 person, 6 car"
+醫學院,臺南車站臨時後站,S,LARGE,133,665,120.2154407,23.00134909,output/output_1577.jpg,"1 motorcycle, 4 car, 1 truck, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,134,670,120.2154889,23.00134269,output/output_1578.jpg,"1 motorcycle, 4 car, 1 truck, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,135,675,120.2155372,23.00133633,output/output_1579.jpg,"5 car, 3 motorcycle, 1 truck"
+醫學院,臺南車站臨時後站,S,LARGE,136,680,120.2155855,23.00133051,output/output_1580.jpg,"5 car, 3 motorcycle, 1 truck"
+醫學院,臺南車站臨時後站,S,LARGE,137,685,120.2156338,23.00132468,output/output_1581.jpg,"7 car, 1 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,138,690,120.2156822,23.00131886,output/output_1582.jpg,"7 car, 1 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,139,695,120.2157305,23.00131303,output/output_1583.jpg,"5 car, 1 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,140,700,120.2157788,23.0013072,output/output_1584.jpg,"5 car, 1 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,141,705,120.2158272,23.00130138,output/output_1585.jpg,"5 car, 12 motorcycle, 1 truck"
+醫學院,臺南車站臨時後站,S,LARGE,142,710,120.2158755,23.00129555,output/output_1586.jpg,"5 car, 12 motorcycle, 1 truck"
+醫學院,臺南車站臨時後站,S,LARGE,143,715,120.2159238,23.00128973,output/output_1587.jpg,"6 car, 3 motorcycle, 1 traffic light, 1 truck, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,144,720,120.2159722,23.0012839,output/output_1588.jpg,"6 car, 3 motorcycle, 1 traffic light, 1 truck, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,145,725,120.2160205,23.00127808,output/output_1589.jpg,"1 truck, 7 car, 3 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,146,730,120.2160688,23.00127225,output/output_1590.jpg,"1 truck, 11 car, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,147,735,120.2161172,23.00126642,output/output_1591.jpg,"10 car, 4 person, 1 traffic light, 1 bicycle"
+醫學院,臺南車站臨時後站,S,LARGE,148,740,120.2161655,23.0012606,output/output_1592.jpg,"11 car, 2 traffic light, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,149,745,120.2162138,23.00125477,output/output_1593.jpg,"11 car, 2 traffic light, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,150,750,120.2162622,23.00124895,output/output_1594.jpg,"8 car, 3 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,151,755,120.2163105,23.00124312,output/output_1595.jpg,"10 car, 1 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,152,760,120.2163588,23.00123729,output/output_1596.jpg,"10 car, 1 motorcycle, 1 person"
+醫學院,臺南車站臨時後站,S,LARGE,153,765,120.2164072,23.00123147,output/output_1597.jpg,"1 person, 2 car, 2 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,154,770,120.2164555,23.00122564,output/output_1598.jpg,"12 car, 3 motorcycle, 5 person"
+醫學院,臺南車站臨時後站,S,LARGE,155,775,120.2165038,23.00121982,output/output_1599.jpg,"12 car, 2 motorcycle, 4 person, 1 bus, 1 truck"
+醫學院,臺南車站臨時後站,S,LARGE,156,780,120.2165522,23.00121399,output/output_1600.jpg,"9 car, 2 motorcycle, 3 person"
+醫學院,臺南車站臨時後站,S,LARGE,157,785,120.2166005,23.00120816,output/output_1601.jpg,"9 car, 2 motorcycle, 3 person"
+醫學院,臺南車站臨時後站,S,LARGE,158,790,120.2166488,23.00120234,output/output_1602.jpg,"12 car, 3 person, 2 motorcycle, 1 truck"
+醫學院,臺南車站臨時後站,S,LARGE,159,795,120.2166972,23.00119651,output/output_1603.jpg,"12 car, 4 person, 2 motorcycle, 1 truck"
+醫學院,臺南車站臨時後站,S,LARGE,160,800,120.2167455,23.00119069,output/output_1604.jpg,"8 car, 3 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,161,805,120.2167938,23.00118486,output/output_1605.jpg,"8 car, 3 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,162,810,120.2168422,23.00117903,output/output_1606.jpg,"10 car, 2 person, 3 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,163,815,120.2168905,23.00117321,output/output_1607.jpg,"10 car, 2 person, 3 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,164,820,120.2169391,23.00117006,output/output_1608.jpg,"1 person, 1 motorcycle, 6 car"
+醫學院,臺南車站臨時後站,S,LARGE,165,825,120.2169878,23.00116733,output/output_1609.jpg,"1 person, 1 motorcycle, 6 car"
+醫學院,臺南車站臨時後站,S,LARGE,166,830,120.2170364,23.00116461,output/output_1610.jpg,5 car
+醫學院,臺南車站臨時後站,S,LARGE,167,835,120.2170847,23.00115899,output/output_1611.jpg,"9 car, 2 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,168,840,120.2171329,23.00115214,output/output_1612.jpg,"9 car, 1 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,169,845,120.2171811,23.00114529,output/output_1613.jpg,"8 car, 2 person, 1 bicycle, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,170,850,120.2172295,23.00114011,output/output_1614.jpg,"8 car, 4 person, 2 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,171,855,120.2172779,23.00113518,output/output_1615.jpg,"8 car, 4 person, 2 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,172,860,120.2173264,23.00113025,output/output_1616.jpg,"7 car, 4 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,173,865,120.2173748,23.00112532,output/output_1617.jpg,"7 car, 4 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,174,870,120.2174233,23.00112039,output/output_1618.jpg,"11 car, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,175,875,120.2174717,23.00111546,output/output_1619.jpg,"11 car, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,176,880,120.2175202,23.00111054,output/output_1620.jpg,"8 car, 10 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,177,885,120.2175686,23.00110561,output/output_1621.jpg,"8 car, 10 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,178,890,120.2176171,23.00110068,output/output_1622.jpg,"8 car, 10 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,179,895,120.2176655,23.00109575,output/output_1623.jpg,"14 car, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,180,900,120.217714,23.00109082,output/output_1624.jpg,"14 car, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,181,905,120.2177624,23.00108589,output/output_1625.jpg,"10 car, 2 person, 1 bus"
+醫學院,臺南車站臨時後站,S,LARGE,182,910,120.2178109,23.00108096,output/output_1626.jpg,"10 car, 2 person, 1 bus"
+醫學院,臺南車站臨時後站,S,LARGE,183,915,120.2178593,23.00107603,output/output_1627.jpg,"10 car, 3 person, 1 bus, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,184,920,120.2179078,23.00107111,output/output_1628.jpg,"10 car, 3 person, 1 bus, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,185,925,120.2179562,23.00106618,output/output_1629.jpg,"12 car, 1 motorcycle, 4 person"
+醫學院,臺南車站臨時後站,S,LARGE,186,930,120.2180047,23.00106125,output/output_1630.jpg,"12 car, 1 motorcycle, 4 person"
+醫學院,臺南車站臨時後站,S,LARGE,187,935,120.2180531,23.00105632,output/output_1631.jpg,"15 car, 3 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,188,940,120.2181016,23.00105139,output/output_1632.jpg,"15 car, 3 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,189,945,120.21815,23.00104646,output/output_1633.jpg,"9 car, 3 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,190,950,120.2181985,23.00104153,output/output_1634.jpg,"9 car, 3 person, 1 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,191,955,120.2182469,23.0010366,output/output_1635.jpg,"16 car, 5 person, 2 motorcycle"
+醫學院,臺南車站臨時後站,S,LARGE,192,960,120.2182954,23.00103167,output/output_1636.jpg,"9 car, 5 person"
+醫學院,臺南車站臨時後站,S,LARGE,193,965,120.2183438,23.00102674,output/output_1637.jpg,"8 car, 8 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,194,970,120.2183923,23.00102182,output/output_1638.jpg,"8 car, 8 motorcycle, 2 person"
+醫學院,臺南車站臨時後站,S,LARGE,195,975,120.2184407,23.00101689,output/output_1639.jpg,"11 car, 4 motorcycle, 4 person"
+醫學院,臺南車站臨時後站,S,LARGE,196,980,120.2184892,23.00101196,output/output_1640.jpg,"11 car, 4 motorcycle, 4 person"
+醫學院,臺南車站臨時後站,S,LARGE,197,985,120.2185378,23.00100857,output/output_1641.jpg,"7 car, 3 person, 1 motorcycle, 1 truck"
+資工系,臺南車站臨時後站,S,LARGE,0,0,120.2134975,22.99636083,output/output_1642.jpg,"7 car, 2 person, 2 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,1,5,120.2135459,22.99635508,output/output_1643.jpg,"9 car, 4 motorcycle, 6 person"
+資工系,臺南車站臨時後站,S,LARGE,2,10,120.2135803,22.9963708,output/output_1644.jpg,"7 car, 5 person, 1 truck, 1 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,3,15,120.2135974,22.99641304,output/output_1645.jpg,"11 car, 3 motorcycle, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,4,20,120.2136146,22.99645527,output/output_1646.jpg,"11 car, 3 motorcycle, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,5,25,120.2136317,22.99649751,output/output_1647.jpg,"12 car, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,6,30,120.2136488,22.99653975,output/output_1648.jpg,"12 car, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,7,35,120.213666,22.99658199,output/output_1649.jpg,12 car
+資工系,臺南車站臨時後站,S,LARGE,8,40,120.2136831,22.99662423,output/output_1650.jpg,12 car
+資工系,臺南車站臨時後站,S,LARGE,9,45,120.2137003,22.99666646,output/output_1651.jpg,"11 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,10,50,120.2137174,22.9967087,output/output_1652.jpg,"11 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,11,55,120.2137349,22.99675084,output/output_1653.jpg,11 car
+資工系,臺南車站臨時後站,S,LARGE,12,60,120.2137571,22.99678575,output/output_1654.jpg,11 car
+資工系,臺南車站臨時後站,S,LARGE,13,65,120.2138054,22.99678012,output/output_1655.jpg,8 car
+資工系,臺南車站臨時後站,S,LARGE,14,70,120.2138538,22.99677449,output/output_1656.jpg,8 car
+資工系,臺南車站臨時後站,S,LARGE,15,75,120.2139021,22.99676885,output/output_1657.jpg,7 car
+資工系,臺南車站臨時後站,S,LARGE,16,80,120.2139505,22.99676322,output/output_1658.jpg,6 car
+資工系,臺南車站臨時後站,S,LARGE,17,85,120.2139989,22.99675758,output/output_1659.jpg,9 car
+資工系,臺南車站臨時後站,S,LARGE,18,90,120.2140472,22.99675195,output/output_1660.jpg,9 car
+資工系,臺南車站臨時後站,S,LARGE,19,95,120.2140956,22.99674631,output/output_1661.jpg,"11 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,20,100,120.2141439,22.99674068,output/output_1662.jpg,"11 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,21,105,120.2141923,22.99673505,output/output_1663.jpg,"11 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,22,110,120.2142406,22.99672941,output/output_1664.jpg,"12 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,23,115,120.214289,22.9967237,output/output_1665.jpg,"12 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,24,120,120.2143372,22.99671741,output/output_1666.jpg,"13 car, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,25,125,120.2143855,22.99671113,output/output_1667.jpg,"13 car, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,26,130,120.2144338,22.99670485,output/output_1668.jpg,"9 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,27,135,120.214482,22.99669857,output/output_1669.jpg,"9 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,28,140,120.2145303,22.99669229,output/output_1670.jpg,"12 car, 2 motorcycle, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,29,145,120.2145786,22.99668601,output/output_1671.jpg,"12 car, 2 motorcycle, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,30,150,120.2146268,22.99667973,output/output_1672.jpg,"5 car, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,31,155,120.2146751,22.99667345,output/output_1673.jpg,"5 car, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,32,160,120.2147234,22.99666717,output/output_1674.jpg,10 car
+資工系,臺南車站臨時後站,S,LARGE,33,165,120.2147717,22.99666108,output/output_1675.jpg,"3 person, 4 handbag"
+資工系,臺南車站臨時後站,S,LARGE,34,170,120.21482,22.9966551,output/output_1676.jpg,"2 car, 9 motorcycle, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,35,175,120.2148683,22.99664913,output/output_1677.jpg,"3 car, 2 traffic light, 3 person"
+資工系,臺南車站臨時後站,S,LARGE,36,180,120.2149167,22.99664389,output/output_1678.jpg,"4 car, 3 person"
+資工系,臺南車站臨時後站,S,LARGE,37,185,120.2149652,22.99663997,output/output_1679.jpg,4 car
+資工系,臺南車站臨時後站,S,LARGE,38,190,120.2150132,22.99663439,output/output_1680.jpg,4 car
+資工系,臺南車站臨時後站,S,LARGE,39,195,120.2150567,22.996633,output/output_1681.jpg,"3 car, 3 person"
+資工系,臺南車站臨時後站,S,LARGE,40,200,120.2151036,22.99662643,output/output_1682.jpg,"13 person, 1 car"
+資工系,臺南車站臨時後站,S,LARGE,41,205,120.2151514,22.99661796,output/output_1683.jpg,"13 person, 1 car"
+資工系,臺南車站臨時後站,S,LARGE,42,210,120.2151995,22.99661048,output/output_1684.jpg,"13 person, 1 car"
+資工系,臺南車站臨時後站,S,LARGE,43,215,120.2152476,22.996603,output/output_1685.jpg,"13 person, 1 car"
+資工系,臺南車站臨時後站,S,LARGE,44,220,120.2152956,22.99659552,output/output_1686.jpg,"12 person, 4 car, 4 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,45,225,120.2153437,22.99658804,output/output_1687.jpg,"6 person, 1 stop sign, 1 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,46,230,120.2153917,22.99658056,output/output_1688.jpg,"10 person, 1 bicycle, 3 handbag, 1 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,47,235,120.2154397,22.99657241,output/output_1689.jpg,"10 person, 1 bicycle, 3 handbag, 1 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,48,240,120.2154876,22.99656424,output/output_1690.jpg,"11 person, 1 car, 1 truck"
+資工系,臺南車站臨時後站,S,LARGE,49,245,120.2155356,22.99655607,output/output_1691.jpg,"11 person, 1 car, 1 truck"
+資工系,臺南車站臨時後站,S,LARGE,50,250,120.2155835,22.99654791,output/output_1692.jpg,"1 bus, 6 car, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,51,255,120.2156314,22.99653974,output/output_1693.jpg,"9 person, 2 chair, 1 potted plant, 1 dining table"
+資工系,臺南車站臨時後站,S,LARGE,52,260,120.2156794,22.99653157,output/output_1694.jpg,"9 person, 2 chair, 1 potted plant, 1 dining table"
+資工系,臺南車站臨時後站,S,LARGE,53,265,120.2157273,22.9965234,output/output_1695.jpg,"9 person, 2 chair, 1 potted plant, 1 dining table"
+資工系,臺南車站臨時後站,S,LARGE,54,270,120.2157752,22.99651523,output/output_1696.jpg,"1 clock, 1 tie"
+資工系,臺南車站臨時後站,S,LARGE,55,275,120.2158232,22.99650706,output/output_1697.jpg,"1 clock, 1 tie"
+資工系,臺南車站臨時後站,S,LARGE,56,280,120.2158711,22.99649889,output/output_1698.jpg,"1 chair, 1 tv"
+資工系,臺南車站臨時後站,S,LARGE,57,285,120.2159191,22.99649134,output/output_1699.jpg,1 chair
+資工系,臺南車站臨時後站,S,LARGE,58,290,120.2159673,22.99648443,output/output_1700.jpg,"1 book, 1 tv, 1 couch"
+資工系,臺南車站臨時後站,S,LARGE,59,295,120.2160155,22.99647752,output/output_1701.jpg,"1 bed, 1 sink"
+資工系,臺南車站臨時後站,S,LARGE,60,300,120.2160636,22.99647062,output/output_1702.jpg,"10 chair, 1 dining table, 3 person, 1 couch"
+資工系,臺南車站臨時後站,S,LARGE,61,305,120.2161118,22.99646371,output/output_1703.jpg,"1 car, 1 bicycle, 5 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,62,310,120.21616,22.9964568,output/output_1704.jpg,1 bed
+資工系,臺南車站臨時後站,S,LARGE,63,315,120.2162081,22.99644989,output/output_1705.jpg,1 bed
+資工系,臺南車站臨時後站,S,LARGE,64,320,120.2162563,22.99644299,output/output_1706.jpg,1 bed
+資工系,臺南車站臨時後站,S,LARGE,65,325,120.2163044,22.99643608,output/output_1707.jpg,"1 car, 1 person, 1 traffic light, 1 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,66,330,120.2163526,22.99642917,output/output_1708.jpg,"1 car, 1 traffic light, 2 motorcycle, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,67,335,120.2164008,22.99642226,output/output_1709.jpg,
+資工系,臺南車站臨時後站,S,LARGE,68,340,120.2164489,22.99641535,output/output_1710.jpg,
+資工系,臺南車站臨時後站,S,LARGE,69,345,120.2164971,22.99640845,output/output_1711.jpg,
+資工系,臺南車站臨時後站,S,LARGE,70,350,120.2165453,22.99640154,output/output_1712.jpg,4 car
+資工系,臺南車站臨時後站,S,LARGE,71,355,120.2165934,22.99639463,output/output_1713.jpg,"2 car, 8 motorcycle, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,72,360,120.2166417,22.99638862,output/output_1714.jpg,"14 person, 1 handbag"
+資工系,臺南車站臨時後站,S,LARGE,73,365,120.2166812,22.99640717,output/output_1715.jpg,"15 person, 1 handbag"
+資工系,臺南車站臨時後站,S,LARGE,74,370,120.2167158,22.99643897,output/output_1716.jpg,
+資工系,臺南車站臨時後站,S,LARGE,75,375,120.2167574,22.99644961,output/output_1717.jpg,2 person
+資工系,臺南車站臨時後站,S,LARGE,76,380,120.2168054,22.99644153,output/output_1718.jpg,"1 car, 12 motorcycle, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,77,385,120.2168533,22.99643345,output/output_1719.jpg,2 person
+資工系,臺南車站臨時後站,S,LARGE,78,390,120.2169014,22.99642583,output/output_1720.jpg,2 person
+資工系,臺南車站臨時後站,S,LARGE,79,395,120.2169494,22.99641837,output/output_1721.jpg,2 person
+資工系,臺南車站臨時後站,S,LARGE,80,400,120.2169975,22.99641092,output/output_1722.jpg,"2 car, 15 motorcycle, 3 person"
+資工系,臺南車站臨時後站,S,LARGE,81,405,120.2170457,22.99640403,output/output_1723.jpg,"2 car, 16 motorcycle, 3 person"
+資工系,臺南車站臨時後站,S,LARGE,82,410,120.2170939,22.99639776,output/output_1724.jpg,"8 motorcycle, 1 car, 3 person"
+資工系,臺南車站臨時後站,S,LARGE,83,415,120.2171421,22.99639109,output/output_1725.jpg,"8 motorcycle, 1 car, 3 person"
+資工系,臺南車站臨時後站,S,LARGE,84,420,120.2171904,22.99638446,output/output_1726.jpg,"4 person, 2 car, 6 motorcycle, 1 traffic light"
+資工系,臺南車站臨時後站,S,LARGE,85,425,120.2172386,22.99637817,output/output_1727.jpg,"4 person, 2 car, 6 motorcycle, 1 traffic light"
+資工系,臺南車站臨時後站,S,LARGE,86,430,120.2172869,22.99637189,output/output_1728.jpg,4 car
+資工系,臺南車站臨時後站,S,LARGE,87,435,120.2173351,22.99636561,output/output_1729.jpg,"5 car, 4 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,88,440,120.2173834,22.99635933,output/output_1730.jpg,"5 car, 4 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,89,445,120.2174317,22.99635305,output/output_1731.jpg,"5 car, 4 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,90,450,120.2174799,22.99634676,output/output_1732.jpg,"6 car, 4 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,91,455,120.2175282,22.99634048,output/output_1733.jpg,"5 car, 4 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,92,460,120.2175765,22.9963342,output/output_1734.jpg,"4 car, 8 motorcycle, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,93,465,120.2176247,22.99632792,output/output_1735.jpg,"4 car, 8 motorcycle, 1 person"
+資工系,臺南車站臨時後站,S,LARGE,94,470,120.217673,22.99632163,output/output_1736.jpg,"2 car, 10 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,95,475,120.2177213,22.99631535,output/output_1737.jpg,"2 car, 10 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,96,480,120.2177695,22.99630907,output/output_1738.jpg,"1 car, 13 motorcycle, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,97,485,120.2178178,22.99630279,output/output_1739.jpg,"1 car, 13 motorcycle, 2 person"
+資工系,臺南車站臨時後站,S,LARGE,98,490,120.2178661,22.99629651,output/output_1740.jpg,"1 car, 2 person, 6 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,99,495,120.2179143,22.99629022,output/output_1741.jpg,"1 car, 2 person, 6 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,100,500,120.2179626,22.99628394,output/output_1742.jpg,"2 car, 2 person, 1 train, 1 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,101,505,120.2180108,22.99627766,output/output_1743.jpg,"2 car, 2 person, 1 train, 1 motorcycle"
+資工系,臺南車站臨時後站,S,LARGE,102,510,120.2180591,22.99627138,output/output_1744.jpg,"3 car, 2 motorcycle, 2 person, 1 stop sign"
+資工系,臺南車站臨時後站,S,LARGE,103,515,120.2181073,22.99626471,output/output_1745.jpg,"3 car, 2 motorcycle, 2 person, 1 stop sign"
+資工系,臺南車站臨時後站,S,LARGE,104,520,120.2181555,22.99625783,output/output_1746.jpg,3 car
+資工系,臺南車站臨時後站,S,LARGE,105,525,120.2181962,22.9962697,output/output_1747.jpg,"3 car, 1 motorcycle, 2 person, 1 bicycle"
+資工系,臺南車站臨時後站,S,LARGE,106,530,120.2182282,22.99630378,output/output_1748.jpg,"4 person, 2 car, 3 fire hydrant, 1 traffic light, 1 bench"
+醫學院,雲平大樓,S,LARGE,0,0,120.2202858,22.99931504,output/output_1749.jpg,"2 car, 2 traffic light, 3 person"
+醫學院,自強校區校門,A,LARGE,0,0,120.2206798,23.0008692,output/output_1750.jpg,"3 car, 2 person, 1 traffic light"
+醫學院,自強校區校門,A,LARGE,1,5,120.2207283,23.00086536,output/output_1751.jpg,"3 car, 1 traffic light"
+醫學院,自強校區校門,A,LARGE,2,10,120.2207769,23.00086186,output/output_1752.jpg,"2 person, 2 car, 1 motorcycle, 2 bicycle"
+醫學院,自強校區校門,A,LARGE,3,15,120.2208255,23.00085835,output/output_1753.jpg,"1 motorcycle, 3 car, 1 person, 2 bicycle"
+醫學院,自強校區校門,A,LARGE,4,20,120.2208741,23.00085485,output/output_1754.jpg,"3 car, 1 traffic light"
+醫學院,自強校區校門,A,LARGE,5,25,120.2209227,23.00085134,output/output_1755.jpg,"5 person, 5 car, 4 motorcycle, 1 traffic light, 1 bench"
+醫學院,自強校區校門,A,LARGE,6,30,120.2209713,23.00084784,output/output_1756.jpg,"4 car, 8 motorcycle, 1 truck"
+醫學院,自強校區校門,A,LARGE,7,35,120.2210199,23.00084433,output/output_1757.jpg,"5 car, 2 person, 3 bicycle, 5 motorcycle"
+醫學院,自強校區校門,A,LARGE,8,40,120.2210685,23.00084083,output/output_1758.jpg,"4 car, 1 truck, 1 person, 7 motorcycle"
+醫學院,自強校區校門,A,LARGE,9,45,120.2211171,23.00083732,output/output_1759.jpg,"6 car, 1 truck, 1 person, 8 motorcycle, 1 potted plant"
+醫學院,自強校區校門,A,LARGE,10,50,120.2211657,23.00083382,output/output_1760.jpg,"1 car, 10 motorcycle"
+醫學院,自強校區校門,A,LARGE,11,55,120.2212143,23.00083031,output/output_1761.jpg,"1 car, 10 motorcycle"
+醫學院,自強校區校門,A,LARGE,12,60,120.2212629,23.00082681,output/output_1762.jpg,"9 motorcycle, 2 person, 1 potted plant"
+醫學院,自強校區校門,A,LARGE,13,65,120.2213115,23.0008233,output/output_1763.jpg,"7 motorcycle, 2 person, 1 potted plant"
+醫學院,自強校區校門,A,LARGE,14,70,120.2213601,23.0008198,output/output_1764.jpg,"6 motorcycle, 1 person"
+醫學院,自強校區校門,A,LARGE,15,75,120.2214087,23.00081629,output/output_1765.jpg,"6 motorcycle, 1 person"
+醫學院,自強校區校門,A,LARGE,16,80,120.2214572,23.00081279,output/output_1766.jpg,6 motorcycle
+醫學院,自強校區校門,A,LARGE,17,85,120.2215058,23.00080928,output/output_1767.jpg,6 motorcycle
+醫學院,自強校區校門,A,LARGE,18,90,120.2215544,23.00080577,output/output_1768.jpg,"3 motorcycle, 1 bicycle"
+醫學院,自強校區校門,A,LARGE,19,95,120.221603,23.00080227,output/output_1769.jpg,"3 motorcycle, 1 bicycle"
+醫學院,自強校區校門,A,LARGE,20,100,120.2216516,23.00079876,output/output_1770.jpg,"5 motorcycle, 1 person"
+醫學院,自強校區校門,A,LARGE,21,105,120.2217002,23.00079526,output/output_1771.jpg,"5 motorcycle, 1 person"
+醫學院,自強校區校門,A,LARGE,22,110,120.2217488,23.00079175,output/output_1772.jpg,"4 person, 3 motorcycle, 7 car, 1 traffic light, 1 truck"
+醫學院,自強校區校門,A,LARGE,23,115,120.2217974,23.00078825,output/output_1773.jpg,"1 traffic light, 3 motorcycle, 1 car, 1 person"
+醫學院,自強校區校門,A,LARGE,24,120,120.221846,23.00078474,output/output_1774.jpg,"3 person, 3 motorcycle, 1 bicycle"
+醫學院,自強校區校門,A,LARGE,25,125,120.2218946,23.00078124,output/output_1775.jpg,"3 person, 3 motorcycle, 1 bicycle"
+醫學院,自強校區校門,A,LARGE,26,130,120.2219432,23.00077773,output/output_1776.jpg,"1 clock, 2 motorcycle"
+醫學院,自強校區校門,A,LARGE,27,135,120.2219918,23.00077423,output/output_1777.jpg,"1 clock, 2 motorcycle"
+醫學院,自強校區校門,A,LARGE,28,140,120.2220404,23.00077072,output/output_1778.jpg,"1 car, 3 person, 2 motorcycle"
+醫學院,自強校區校門,A,LARGE,29,145,120.222089,23.00076722,output/output_1779.jpg,"1 car, 5 person"
+醫學院,自強校區校門,A,LARGE,30,150,120.2221376,23.00076371,output/output_1780.jpg,"2 car, 2 motorcycle, 3 person, 1 traffic light, 1 bench"
+醫學院,自強校區校門,A,LARGE,31,155,120.2221861,23.00076021,output/output_1781.jpg,"1 bicycle, 1 motorcycle, 2 person, 1 truck"
+醫學院,自強校區校門,A,LARGE,32,160,120.2222347,23.00075639,output/output_1782.jpg,"1 person, 1 dog"
+醫學院,自強校區校門,A,LARGE,33,165,120.2222833,23.00075272,output/output_1783.jpg,"1 car, 4 person, 2 motorcycle, 1 bicycle"
+醫學院,自強校區校門,A,LARGE,34,170,120.2223319,23.00074989,output/output_1784.jpg,"13 car, 5 motorcycle, 1 person"
+醫學院,自強校區校門,A,LARGE,35,175,120.2223805,23.00074643,output/output_1785.jpg,"14 car, 5 motorcycle, 1 person"
+醫學院,自強校區校門,A,LARGE,36,180,120.222429,23.00074152,output/output_1786.jpg,"15 car, 2 motorcycle, 2 person"
+醫學院,自強校區校門,A,LARGE,37,185,120.222453,23.00071711,output/output_1787.jpg,"15 car, 2 motorcycle, 2 person"
+醫學院,自強校區校門,A,LARGE,38,190,120.2224511,23.00067202,output/output_1788.jpg,"11 car, 5 motorcycle, 3 person"
+醫學院,自強校區校門,A,LARGE,39,195,120.2224492,23.00062694,output/output_1789.jpg,"11 car, 5 motorcycle, 3 person"
+醫學院,自強校區校門,A,LARGE,40,200,120.2224798,23.00060855,output/output_1790.jpg,"9 car, 4 motorcycle, 3 person"
+醫學院,自強校區校門,A,LARGE,41,205,120.2225284,23.0006049,output/output_1791.jpg,"9 car, 4 motorcycle, 3 person"
+醫學院,自強校區校門,A,LARGE,42,210,120.222577,23.00060125,output/output_1792.jpg,"1 motorcycle, 8 car, 1 person"
+醫學院,自強校區校門,A,LARGE,43,215,120.2226255,23.0005976,output/output_1793.jpg,"1 motorcycle, 8 car, 1 person"
+醫學院,自強校區校門,A,LARGE,44,220,120.2226741,23.00059395,output/output_1794.jpg,"9 car, 1 motorcycle, 1 person"
+醫學院,自強校區校門,A,LARGE,45,225,120.2227227,23.0005903,output/output_1795.jpg,"9 car, 1 motorcycle, 1 person"
+醫學院,自強校區校門,A,LARGE,46,230,120.2227713,23.00058665,output/output_1796.jpg,"15 car, 2 person, 1 motorcycle"
+醫學院,自強校區校門,A,LARGE,47,235,120.2228199,23.000583,output/output_1797.jpg,"15 car, 2 person, 1 motorcycle"
+醫學院,自強校區校門,A,LARGE,48,240,120.2228685,23.00057935,output/output_1798.jpg,"12 car, 1 motorcycle"
+醫學院,自強校區校門,A,LARGE,49,245,120.222917,23.0005757,output/output_1799.jpg,"12 car, 1 motorcycle"
+醫學院,自強校區校門,A,LARGE,50,250,120.2229656,23.00057205,output/output_1800.jpg,10 car
+醫學院,自強校區校門,A,LARGE,51,255,120.2230142,23.0005684,output/output_1801.jpg,10 car
+醫學院,自強校區校門,A,LARGE,52,260,120.2230628,23.00056475,output/output_1802.jpg,10 car
+醫學院,自強校區校門,A,LARGE,53,265,120.2230784,23.00053501,output/output_1803.jpg,"13 car, 1 person"
+醫學院,自強校區校門,A,LARGE,54,270,120.2230748,23.00049001,output/output_1804.jpg,"13 car, 1 person"
+資工系,成功校區校門,A,LARGE,0,0,120.2203106,22.99695185,output/output_1805.jpg,"7 car, 6 motorcycle"
+資工系,成功校區校門,A,LARGE,1,5,120.2203592,22.99694831,output/output_1806.jpg,"7 car, 6 motorcycle"
+資工系,成功校區校門,A,LARGE,2,10,120.2204078,22.99694476,output/output_1807.jpg,"5 car, 3 motorcycle"
+資工系,成功校區校門,A,LARGE,3,15,120.2204564,22.99694122,output/output_1808.jpg,"5 car, 3 motorcycle"
+資工系,成功校區校門,A,LARGE,4,20,120.2205049,22.99693767,output/output_1809.jpg,"5 car, 2 motorcycle, 1 traffic light"
+資工系,成功校區校門,A,LARGE,5,25,120.2205535,22.99693413,output/output_1810.jpg,"5 car, 2 motorcycle, 1 traffic light"
+資工系,成功校區校門,A,LARGE,6,30,120.2206021,22.99693058,output/output_1811.jpg,"7 car, 1 person, 1 fire hydrant"
+資工系,成功校區校門,A,LARGE,7,35,120.2206507,22.99692704,output/output_1812.jpg,"7 car, 1 person, 1 fire hydrant"
+資工系,成功校區校門,A,LARGE,8,40,120.2206993,22.99692349,output/output_1813.jpg,"5 car, 3 person"
+資工系,成功校區校門,A,LARGE,9,45,120.2207479,22.99691995,output/output_1814.jpg,"5 car, 3 person"
+資工系,成功校區校門,A,LARGE,10,50,120.2207965,22.9969164,output/output_1815.jpg,"9 car, 1 truck, 1 person"
+資工系,成功校區校門,A,LARGE,11,55,120.2208451,22.99691286,output/output_1816.jpg,"7 car, 7 person"
+資工系,成功校區校門,A,LARGE,12,60,120.2208937,22.99690931,output/output_1817.jpg,"5 car, 4 person"
+資工系,成功校區校門,A,LARGE,13,65,120.2209422,22.99690577,output/output_1818.jpg,"6 car, 1 traffic light, 1 person"
+資工系,成功校區校門,A,LARGE,14,70,120.2209908,22.99690222,output/output_1819.jpg,"9 car, 1 person"
+資工系,成功校區校門,A,LARGE,15,75,120.2210394,22.99689868,output/output_1820.jpg,"5 car, 2 fire hydrant, 1 traffic light"
+資工系,成功校區校門,A,LARGE,16,80,120.221088,22.99689513,output/output_1821.jpg,"4 motorcycle, 5 person, 7 car, 1 truck"
+資工系,成功校區校門,A,LARGE,17,85,120.2211366,22.99689159,output/output_1822.jpg,"4 motorcycle, 5 person, 8 car, 1 truck"
+資工系,成功校區校門,A,LARGE,18,90,120.2211852,22.99688804,output/output_1823.jpg,"3 car, 1 bicycle, 3 motorcycle"
+資工系,成功校區校門,A,LARGE,19,95,120.2212338,22.9968845,output/output_1824.jpg,"11 car, 1 person"
+資工系,成功校區校門,A,LARGE,20,100,120.2212824,22.99688095,output/output_1825.jpg,"8 car, 2 train, 1 truck"
+資工系,成功校區校門,A,LARGE,21,105,120.2213309,22.99687741,output/output_1826.jpg,"8 car, 2 train, 1 truck"
+資工系,成功校區校門,A,LARGE,22,110,120.2213795,22.99687386,output/output_1827.jpg,8 car
+資工系,成功校區校門,A,LARGE,23,115,120.2214281,22.99687031,output/output_1828.jpg,8 car
+資工系,成功校區校門,A,LARGE,24,120,120.2214767,22.99686677,output/output_1829.jpg,"9 car, 1 umbrella"
+資工系,成功校區校門,A,LARGE,25,125,120.2215253,22.99686322,output/output_1830.jpg,"9 car, 1 umbrella"
+機械系,自強校區校門,A,LARGE,0,0,120.2227934,22.99598535,output/output_1831.jpg,"3 car, 1 motorcycle"
+機械系,自強校區校門,A,LARGE,1,5,120.22279,22.99594035,output/output_1832.jpg,"3 car, 1 motorcycle"
+機械系,自強校區校門,A,LARGE,2,10,120.2227855,22.99589542,output/output_1833.jpg,"10 car, 1 train, 1 truck"
+機械系,自強校區校門,A,LARGE,3,15,120.2227803,22.99585056,output/output_1834.jpg,"10 car, 1 train, 1 truck"
