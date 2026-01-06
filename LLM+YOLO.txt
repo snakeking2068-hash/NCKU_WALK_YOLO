@@ -1,0 +1,331 @@
+# -*- coding: utf-8 -*-
+"""
+YOLO + (Optional) GPT-4o-mini
+- 畫框（可切換）
+- 危險分級：用 YOLO 偵測物件數量做規則分級（可重現）
+- 輸出到新資料夾（不覆蓋既有成果）
+- 生成新的 CSV（基於原 CSV 疊加新欄位，不覆蓋原檔）
+-  新增：把輸出照片「相對路徑」一起寫進 CSV（方便 QGIS portable）
+-  新增：Emergency Level 0 文字顯示綠色；Level 1/2 顯示紅色
+"""
+
+from ultralytics import YOLO
+from pathlib import Path
+import cv2
+import pandas as pd
+import json
+import re
+import os
+from openai import OpenAI
+from dotenv import load_dotenv
+
+
+# ================== 0) 你可以調的開關 ==================
+DRAW_BOXES = True      # True: YOLO 畫框；False: 不畫框
+USE_LLM = True         # True: 用 GPT 產生 warning_text；False: 用規則產生 warning_text（省錢、可重現）
+
+
+# ================== 1) 路徑設定（依你提供的需求） ==================
+
+REPORT_ROOT = Path(r"C:\Users\user\Desktop\NCKU_Master\01_MASTER01\02_SMART MACHINING SYSTEMS\Report")
+
+MODEL_CANDIDATES = [
+    REPORT_ROOT / "yolo11m.pt",
+    REPORT_ROOT / "models_medium" / "yolo11m.pt",
+    REPORT_ROOT / "models" / "yolo11m.pt",
+]
+
+IMAGES_DIR = Path(r"C:\Users\user\Desktop\NCKU_Master\01_MASTER01\02_SMART MACHINING SYSTEMS\Report\images_large")
+
+SRC_CSV = Path(r"C:\Users\user\Desktop\NCKU_Master\01_MASTER01\02_SMART MACHINING SYSTEMS\Report\01_original_information\routes_large_points.csv")
+
+OUT_IMG_DIR = Path(r"C:\Users\user\Desktop\NCKU_Master\01_MASTER01\02_SMART MACHINING SYSTEMS\Report\try_large_output")
+
+OUT_TAB_DIR = Path(r"C:\Users\user\Desktop\NCKU_Master\01_MASTER01\02_SMART MACHINING SYSTEMS\Report\try_csv+geojson_output")
+OUT_CSV = OUT_TAB_DIR / "routes_large_points_with_llm.csv"
+
+OUT_IMG_DIR.mkdir(parents=True, exist_ok=True)
+OUT_TAB_DIR.mkdir(parents=True, exist_ok=True)
+
+if not IMAGES_DIR.exists():
+    raise FileNotFoundError(f"找不到影像資料夾：{IMAGES_DIR}")
+
+if not SRC_CSV.exists():
+    raise FileNotFoundError(f"找不到原始 CSV：{SRC_CSV}")
+
+MODEL_PATH = None
+for p in MODEL_CANDIDATES:
+    if p.exists():
+        MODEL_PATH = p
+        break
+
+if MODEL_PATH is None:
+    raise FileNotFoundError(
+        "找不到 YOLO 權重檔 yolo11m.pt。\n"
+        "請確認以下任一位置存在：\n- " + "\n- ".join(str(x) for x in MODEL_CANDIDATES)
+    )
+
+
+# ================== 2) YOLO ==================
+model = YOLO(str(MODEL_PATH))
+
+
+# ================== 3) OpenAI（可選）==================
+client = None
+if USE_LLM:
+    load_dotenv(str(REPORT_ROOT / ".env"))
+    if not os.getenv("OPENAI_API_KEY"):
+        raise RuntimeError("USE_LLM=True 但沒有讀到 OPENAI_API_KEY。請確認 Report\\.env 內有 OPENAI_API_KEY=...")
+
+    client = OpenAI()
+
+
+def _extract_json_maybe(text: str) -> dict:
+    text = (text or "").strip()
+    try:
+        return json.loads(text)
+    except Exception:
+        pass
+
+    m = re.search(r"\{.*\}", text, flags=re.DOTALL)
+    if not m:
+        raise ValueError(f"LLM 回傳不是 JSON：{text[:200]}")
+    return json.loads(m.group(0))
+
+
+def llm_warning_text(counts: dict) -> str:
+    """
+    只要 warning_text，不要讓 LLM 決定 level（level 我們用規則，才可重現）
+    """
+    prompt = f"""
+You are a pedestrian safety assistant.
+
+Given detected objects in a street image:
+{json.dumps(counts, ensure_ascii=False)}
+
+Task:
+- Write ONE short warning sentence (<= 25 words).
+- Focus on pedestrian safety.
+- Output must be JSON only.
+
+Output format:
+{{
+  "warning_text": "..."
+}}
+"""
+    resp = client.chat.completions.create(
+        model="gpt-4o-mini",
+        temperature=0,
+        messages=[{"role": "user", "content": prompt}]
+    )
+    raw = resp.choices[0].message.content
+    data = _extract_json_maybe(raw)
+    return str(data.get("warning_text", "Caution advised."))
+
+
+# ================== 4) 規則分級（你提出的核心想法） ==================
+def rule_risk_level(counts: dict) -> int:
+    """
+    依你最新規則做危險分級（0/1/2）：
+
+    Emergency Level 0:
+      - car <= 1
+      - (bicycle + motorcycle) <= 5
+
+    Emergency Level 1:
+      - car >= 2  OR  (bicycle + motorcycle) > 5   （命中其中一個就算）
+
+    Emergency Level 2:
+      - (car between 2 and 4 inclusive) AND (bicycle + motorcycle) > 5
+        （兩個條件都命中才算）
+      - OR car >= 5  （單一條件就算）
+    """
+    car = counts.get("car", 0)
+    bike = counts.get("bicycle", 0)
+    moto = counts.get("motorcycle", 0)
+    bm = bike + moto
+
+    # ---- Level 2（最高優先判斷）----
+    if car >= 5:
+        return 2
+    if 2 <= car <= 4 and bm > 5:
+        return 2
+
+    # ---- Level 0 ----
+    if car <= 1 and bm <= 5:
+        return 0
+
+    # ---- Level 1（其餘符合 car>=2 或 bm>5 的都在這）----
+    return 1
+
+
+def rule_warning_text(level: int, counts: dict) -> str:
+    car = counts.get("car", 0)
+    bike = counts.get("bicycle", 0)
+    moto = counts.get("motorcycle", 0)
+    bm = bike + moto
+
+    if level == 2:
+        return f"High risk: {car} cars and {bm} bicycles/motorcycles nearby. Walk carefully."
+    if level == 1:
+        return f"Moderate risk: traffic present (cars={car}, bicycles/motorcycles={bm}). Stay alert."
+    return f"Low risk: limited traffic (cars={car}, bicycles/motorcycles={bm})."
+
+
+# ================== ✅ 文字顏色：Level 0 綠色；Level 1/2 紅色 ==================
+def _level_color(level: int):
+    """
+    OpenCV color is BGR:
+    - Level 0 -> green
+    - Level 1/2 -> red
+    """
+    if level == 0:
+        return (0, 255, 0)   # 綠色
+    return (0, 0, 255)       # 紅色
+
+
+def _put_wrapped_text(img, text, x, y, max_chars=52, font_scale=0.8, thickness=2, line_gap=32, color=(0, 0, 255)):
+    """
+    OpenCV putText 不會自動換行：簡單按字數分行
+    """
+    lines = []
+    t = (text or "").strip()
+    while len(t) > max_chars:
+        lines.append(t[:max_chars])
+        t = t[max_chars:]
+    if t:
+        lines.append(t)
+
+    for i, line in enumerate(lines):
+        cv2.putText(
+            img,
+            line,
+            (x, y + i * line_gap),
+            cv2.FONT_HERSHEY_SIMPLEX,
+            font_scale,
+            color,               # ✅ 使用傳入顏色
+            thickness,
+            cv2.LINE_AA
+        )
+
+
+# ================== 5) 主流程 ==================
+results = model(source=str(IMAGES_DIR), stream=True)
+
+det_rows = []
+
+for r in results:
+    r_path = Path(getattr(r, "path", ""))
+    img_filename = r_path.name if r_path.name else "unknown.jpg"
+
+    # ✅ 這裡決定「要不要畫框」
+    if DRAW_BOXES:
+        img = r.plot()          # 有框、有label
+    else:
+        img = r.orig_img.copy() # 原圖、不畫框
+
+    # ---------- 統計 YOLO 物件 ----------
+    counts = {}
+    if r.boxes is not None and r.boxes.cls is not None and len(r.boxes.cls) > 0:
+        cls_ids = r.boxes.cls.cpu().numpy().astype(int)
+        for cid in cls_ids:
+            label = model.names[int(cid)]
+            counts[label] = counts.get(label, 0) + 1
+
+    det_summary = ", ".join([f"{v} {k}" for k, v in counts.items()])
+
+    # ---------- 用規則算 level ----------
+    level = rule_risk_level(counts)
+
+    # ---------- warning_text：可選 LLM or 規則 ----------
+    if USE_LLM:
+        try:
+            warning = llm_warning_text(counts) if counts else "No immediate hazards detected."
+        except Exception as e:
+            warning = f"LLM fallback (error): {e}"
+    else:
+        warning = rule_warning_text(level, counts)
+
+    # ---------- 疊加文字（Level0 綠色，其它紅色） ----------
+    h, w, _ = img.shape
+    y0 = max(40, h - 130)
+
+    color = _level_color(level)
+
+    cv2.putText(
+        img,
+        f"Emergency level: {level}",
+        (30, y0),
+        cv2.FONT_HERSHEY_SIMPLEX,
+        1.0,
+        color,  # ✅ 依 level 改顏色
+        2,
+        cv2.LINE_AA
+    )
+    _put_wrapped_text(img, warning, 30, y0 + 40, color=color)  # ✅ warning 同色
+
+    # ---------- 存圖 ----------
+    out_img_name = f"{Path(img_filename).stem}_lvl{level}.jpg"
+    out_path = OUT_IMG_DIR / out_img_name
+    cv2.imwrite(str(out_path), img)
+
+    # ✅ 新增：算「相對於 OUT_TAB_DIR」的相對路徑，給 QGIS 用
+    det_img_relpath = os.path.relpath(out_path, OUT_TAB_DIR)
+    det_img_relpath = det_img_relpath.replace("\\", "/")  # 統一成 '/'（跨平台更好）
+
+    det_rows.append({
+        "img_file": img_filename,
+        "det_img_file": str(out_path),        # 絕對路徑（保留，方便 debug）
+        "det_img_relpath": det_img_relpath,   # ✅ 相對路徑（給 QGIS portable）
+        "det_summary": det_summary,
+        "risk_level": level,
+        "warning_text": warning
+    })
+
+
+# ================== 6) 合併 CSV（不覆蓋原檔） ==================
+df_src = pd.read_csv(SRC_CSV)
+df_det = pd.DataFrame(det_rows)
+
+# 自動找影像欄位 merge（跟你原本那份一致）
+candidate_cols = []
+for c in df_src.columns:
+    cl = c.lower()
+    if any(k in cl for k in ["img", "image", "file", "filename", "path"]):
+        candidate_cols.append(c)
+
+merge_col = None
+for c in candidate_cols:
+    if c.lower() == "img_file":
+        merge_col = c
+        break
+if merge_col is None and candidate_cols:
+    merge_col = candidate_cols[0]
+
+if merge_col is not None:
+    df_src["_img_key_"] = df_src[merge_col].astype(str).apply(lambda x: Path(x).name)
+    df_det["_img_key_"] = df_det["img_file"].astype(str)
+
+    df_out = df_src.merge(
+        df_det.drop(columns=["img_file"]),
+        left_on="_img_key_",
+        right_on="_img_key_",
+        how="left"
+    ).drop(columns=["_img_key_"])
+else:
+    df_out = df_src.copy()
+    n = min(len(df_out), len(df_det))
+    df_out.loc[:n-1, "det_img_file"] = df_det.loc[:n-1, "det_img_file"].values
+    df_out.loc[:n-1, "det_img_relpath"] = df_det.loc[:n-1, "det_img_relpath"].values
+    df_out.loc[:n-1, "det_summary"]  = df_det.loc[:n-1, "det_summary"].values
+    df_out.loc[:n-1, "risk_level"]   = df_det.loc[:n-1, "risk_level"].values
+    df_out.loc[:n-1, "warning_text"] = df_det.loc[:n-1, "warning_text"].values
+
+df_out.to_csv(OUT_CSV, index=False, encoding="utf-8-sig")
+
+print("✅ 完成：YOLO + 規則分級 + (可選 LLM 文字) + 相對路徑 + Level0 綠字")
+print("🖼️ 輸出影像資料夾：", OUT_IMG_DIR)
+print("📄 輸出 CSV：", OUT_CSV)
+print("🧠 YOLO model：", MODEL_PATH)
+print("📷 來源影像資料夾：", IMAGES_DIR)
+print("⚙️ DRAW_BOXES =", DRAW_BOXES, "| USE_LLM =", USE_LLM)
